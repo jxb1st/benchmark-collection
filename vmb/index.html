@@ -5,7 +5,7 @@
     <h1>VideoMemBench</h1>
     <p class="lead">Multi-turn conversations about one video where later turns depend on earlier ones: episodic dependencies refer to what was seen, answer dependencies refer to what the model said.</p>
   </header>
-  <dl class="facts"><dt>Links</dt><dd><a href="https://github.com/Oliiveralien/VideoMemBench">GitHub</a>, <a href="https://huggingface.co/datasets/VideoMemBench/data">Hub</a></dd><dt>Annotation</dt><dd>annotations.jsonl: one line per video with dialogue [{turn_id, type, dependency {depends_on, dep_type}, question, options, answer}]</dd><dt>Videos</dt><dd>individual files on the Hub (146 GB); the videos here are from the VideoMemBench viewer plus ten small ones fetched from the Hub</dd><dt>Access</dt><dd>public on the Hub (CC BY-NC-SA 4.0)</dd></dl>
+  
   <section class="exp-section"><h2 id="statistics">Statistics</h2>
     <dl class="kv"><dt>Videos</dt><dd>326</dd><dt>Turns</dt><dd>2,476</dd><dt>Turns per video</dt><dd>median 8, max 21</dd><dt>Dependent turns</dt><dd>1,387 (1,089 independent)</dd><dt>Dependency links</dt><dd>episodic 1,200, answer 594</dd></dl><ul class="taskgrid"><li><span class="tg-name">open structured</span><span class="tg-n">1,709 turns</span></li><li><span class="tg-name">multi choice question</span><span class="tg-n">603 turns</span></li><li><span class="tg-name">true or false question</span><span class="tg-n">164 turns</span></li></ul></section>
   <section class="exp-section"><h2 id="examples">Examples</h2>
