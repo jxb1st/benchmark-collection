@@ -1,0 +1,369 @@
+[
+ {
+  "group": "Open question, independent turn",
+  "video_id": "videomembench-118",
+  "turn": {
+   "turn_id": "T1",
+   "type": "open_structured",
+   "dependency": null,
+   "question": "What object is on the left of the table?",
+   "options": null,
+   "answer": "A trash can."
+  },
+  "parents": [],
+  "n_turns": 6,
+  "clip": "vmb/open-question-independent-turn-videomembench-118.mp4"
+ },
+ {
+  "group": "Open question, independent turn",
+  "video_id": "videomembench-18",
+  "turn": {
+   "turn_id": "T1",
+   "type": "open_structured",
+   "dependency": null,
+   "question": "What color and pattern are on the blue chair backrests?",
+   "options": null,
+   "answer": "Blue and purple circular shapes on a dark background"
+  },
+  "parents": [],
+  "n_turns": 7,
+  "clip": "vmb/open-question-independent-turn-videomembench-18.mp4"
+ },
+ {
+  "group": "Open question, independent turn",
+  "video_id": "videomembench-198",
+  "turn": {
+   "turn_id": "T6",
+   "type": "open_structured",
+   "dependency": null,
+   "question": "How do the runner and the pursuer differ in how they move?",
+   "options": null,
+   "answer": "The pursuer is running on foot, while the escapees are riding horses."
+  },
+  "parents": [],
+  "n_turns": 9,
+  "clip": "vmb/open-question-independent-turn-videomembench-198.mp4"
+ },
+ {
+  "group": "Multiple choice, independent turn",
+  "video_id": "videomembench-101",
+  "turn": {
+   "turn_id": "T1",
+   "type": "multi_choice_question",
+   "dependency": null,
+   "question": "How many red plastic cups are in the stack on the lower shelf?",
+   "options": {
+    "A": "7",
+    "B": "3",
+    "C": "5",
+    "D": "11",
+    "E": "6",
+    "F": "9",
+    "G": "8",
+    "H": "12"
+   },
+   "answer": "F"
+  },
+  "parents": [],
+  "n_turns": 6,
+  "clip": "vmb/multiple-choice-independent-turn-videomembench-101.mp4"
+ },
+ {
+  "group": "Multiple choice, independent turn",
+  "video_id": "videomembench-117",
+  "turn": {
+   "turn_id": "T5",
+   "type": "multi_choice_question",
+   "dependency": null,
+   "question": "What does the shirt of the person walking in the hallway look like?",
+   "options": {
+    "A": "Dark grey with a visible logo",
+    "B": "Dark grey with a hood",
+    "C": "White with a visible logo",
+    "D": "Plain white with no logo",
+    "E": "Light grey with a small chest logo",
+    "F": "Plain black with no logo",
+    "G": "Plain navy with no logo",
+    "H": "Plain light grey with no logo"
+   },
+   "answer": "H"
+  },
+  "parents": [],
+  "n_turns": 8,
+  "clip": "vmb/multiple-choice-independent-turn-videomembench-117.mp4"
+ },
+ {
+  "group": "Multiple choice, independent turn",
+  "video_id": "videomembench-10",
+  "turn": {
+   "turn_id": "T4",
+   "type": "multi_choice_question",
+   "dependency": null,
+   "question": "In the closer view of the coffee table, how has the visibility of its side surface changed?",
+   "options": {
+    "A": "It remains equally visible throughout the change in view.",
+    "B": "It becomes more visible as the perspective shifts to a flatter, more direct angle.",
+    "C": "It disappears entirely as the view tightens on the tabletop.",
+    "D": "It becomes less visible, but part of the side surface remains visible."
+   },
+   "answer": "B"
+  },
+  "parents": [],
+  "n_turns": 7,
+  "clip": "vmb/multiple-choice-independent-turn-videomembench-10.mp4"
+ },
+ {
+  "group": "True or false, independent turn",
+  "video_id": "videomembench-101",
+  "turn": {
+   "turn_id": "T2",
+   "type": "true_or_false_question",
+   "dependency": null,
+   "question": "Is there a soap dispenser mounted on the counter by the sink?",
+   "options": null,
+   "answer": "False"
+  },
+  "parents": [],
+  "n_turns": 6,
+  "clip": "vmb/true-or-false-independent-turn-videomembench-101.mp4"
+ },
+ {
+  "group": "True or false, independent turn",
+  "video_id": "videomembench-198",
+  "turn": {
+   "turn_id": "T7",
+   "type": "true_or_false_question",
+   "dependency": null,
+   "question": "Does the wolf cowboy pass in front of the rocks and exit toward the right?",
+   "options": null,
+   "answer": "True"
+  },
+  "parents": [],
+  "n_turns": 9,
+  "clip": "vmb/true-or-false-independent-turn-videomembench-198.mp4"
+ },
+ {
+  "group": "True or false, independent turn",
+  "video_id": "videomembench-10",
+  "turn": {
+   "turn_id": "T2",
+   "type": "true_or_false_question",
+   "dependency": null,
+   "question": "As the camera tilts up, does the frame edge fully hide the top arch of the window?",
+   "options": null,
+   "answer": "False"
+  },
+  "parents": [],
+  "n_turns": 7,
+  "clip": "vmb/true-or-false-independent-turn-videomembench-10.mp4"
+ },
+ {
+  "group": "Turn with an episodic dependency",
+  "video_id": "videomembench-118",
+  "turn": {
+   "turn_id": "T2",
+   "type": "open_structured",
+   "dependency": {
+    "depends_on": [
+     "T1"
+    ],
+    "dep_type": {
+     "T1": "episodic"
+    }
+   },
+   "question": "What color is the object from T1?",
+   "options": null,
+   "answer": "Black."
+  },
+  "parents": [
+   {
+    "turn_id": "T1",
+    "type": "open_structured",
+    "dependency": null,
+    "question": "What object is on the left of the table?",
+    "options": null,
+    "answer": "A trash can."
+   }
+  ],
+  "n_turns": 6,
+  "clip": "vmb/turn-with-an-episodic-dependency-videomembench-118.mp4"
+ },
+ {
+  "group": "Turn with an episodic dependency",
+  "video_id": "videomembench-97",
+  "turn": {
+   "turn_id": "T3",
+   "type": "open_structured",
+   "dependency": {
+    "depends_on": [
+     "T2"
+    ],
+    "dep_type": {
+     "T2": "episodic"
+    }
+   },
+   "question": "What is the primary color of the book from T2?",
+   "options": null,
+   "answer": "White"
+  },
+  "parents": [
+   {
+    "turn_id": "T2",
+    "type": "true_or_false_question",
+    "dependency": {
+     "depends_on": [
+      "T1"
+     ],
+     "dep_type": {
+      "T1": "answer"
+     }
+    },
+    "question": "Does the book on the coffee table have its top edge pointing toward the item from T1?",
+    "options": null,
+    "answer": "False"
+   }
+  ],
+  "n_turns": 8,
+  "clip": "vmb/turn-with-an-episodic-dependency-videomembench-97.mp4"
+ },
+ {
+  "group": "Turn with an episodic dependency",
+  "video_id": "videomembench-299",
+  "turn": {
+   "turn_id": "T3",
+   "type": "open_structured",
+   "dependency": {
+    "depends_on": [
+     "T1"
+    ],
+    "dep_type": {
+     "T1": "episodic"
+    }
+   },
+   "question": "Opposite the workstation from T1, what is on the table?",
+   "options": null,
+   "answer": "There is a blue backpack."
+  },
+  "parents": [
+   {
+    "turn_id": "T1",
+    "type": "open_structured",
+    "dependency": null,
+    "question": "How are the two keyboards and their mice positioned relative to the monitors?",
+    "options": null,
+    "answer": "Each keyboard is centered before its monitor with a mouse placed to the right."
+   }
+  ],
+  "n_turns": 8,
+  "clip": "vmb/turn-with-an-episodic-dependency-videomembench-299.mp4"
+ },
+ {
+  "group": "Turn with an answer dependency",
+  "video_id": "videomembench-198",
+  "turn": {
+   "turn_id": "T3",
+   "type": "open_structured",
+   "dependency": {
+    "depends_on": [
+     "T1"
+    ],
+    "dep_type": {
+     "T1": "answer"
+    }
+   },
+   "question": "What shocked the ghosts from T1?",
+   "options": null,
+   "answer": "They were shocked because the sheriff burst into the saloon holding up a wanted poster."
+  },
+  "parents": [
+   {
+    "turn_id": "T1",
+    "type": "open_structured",
+    "dependency": null,
+    "question": "Which ghost wears a black cowboy hat with a red band and has a slightly open mouth during the ride?",
+    "options": null,
+    "answer": "The smaller ghost on the right."
+   }
+  ],
+  "n_turns": 9,
+  "clip": "vmb/turn-with-an-answer-dependency-videomembench-198.mp4"
+ },
+ {
+  "group": "Turn with an answer dependency",
+  "video_id": "videomembench-299",
+  "turn": {
+   "turn_id": "T6",
+   "type": "true_or_false_question",
+   "dependency": {
+    "depends_on": [
+     "T5"
+    ],
+    "dep_type": {
+     "T5": "answer"
+    }
+   },
+   "question": "Does the call number range from T5 include 850?",
+   "options": null,
+   "answer": "True"
+  },
+  "parents": [
+   {
+    "turn_id": "T5",
+    "type": "open_structured",
+    "dependency": {
+     "depends_on": [
+      "T2"
+     ],
+     "dep_type": {
+      "T2": "episodic"
+     }
+    },
+    "question": "What call number is shown on the white sign on the bookshelf end-cap nearest the wall from T2?",
+    "options": null,
+    "answer": "800-899"
+   }
+  ],
+  "n_turns": 8,
+  "clip": "vmb/turn-with-an-answer-dependency-videomembench-299.mp4"
+ },
+ {
+  "group": "Turn with an answer dependency",
+  "video_id": "videomembench-218",
+  "turn": {
+   "turn_id": "T2",
+   "type": "multi_choice_question",
+   "dependency": {
+    "depends_on": [
+     "T1"
+    ],
+    "dep_type": {
+     "T1": "answer"
+    }
+   },
+   "question": "What wall feature is directly behind the chair from T1?",
+   "options": {
+    "A": "A cable hook",
+    "B": "A whiteboard marker tray",
+    "C": "A power outlet",
+    "D": "None of the above",
+    "E": "A light switch",
+    "F": "A thermostat",
+    "G": "A framed poster",
+    "H": "A coat hook"
+   },
+   "answer": "C"
+  },
+  "parents": [
+   {
+    "turn_id": "T1",
+    "type": "open_structured",
+    "dependency": null,
+    "question": "In the opening scene, which chair is directly in front of the whiteboard tray?",
+    "options": null,
+    "answer": "The chair in the center."
+   }
+  ],
+  "n_turns": 8,
+  "clip": "vmb/turn-with-an-answer-dependency-videomembench-218.mp4"
+ }
+]

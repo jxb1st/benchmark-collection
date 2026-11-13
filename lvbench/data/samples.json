@@ -1,0 +1,239 @@
+[
+ {
+  "group": "entity recognition",
+  "all_tags": [
+   "entity recognition"
+  ],
+  "video_key": "S8vPx-u9p_A",
+  "video_type": "cartoon",
+  "duration_minutes": 70.71866666666666,
+  "uid": "599",
+  "question": "How many swallows live in the birdhouse?\n(A) 1\n(B) 2\n(C) 0\n(D) 3",
+  "answer": "B",
+  "time_reference": "05:53-05:57"
+ },
+ {
+  "group": "entity recognition",
+  "all_tags": [
+   "entity recognition"
+  ],
+  "video_key": "vHlSoxg8WHo",
+  "video_type": "tv",
+  "duration_minutes": 54.87733333333333,
+  "uid": "5093",
+  "question": "How many children appeared in this show?\n(A) 8\n(B) 7\n(C) 10\n(D) 9",
+  "answer": "C",
+  "time_reference": "00:00-54:52"
+ },
+ {
+  "group": "entity recognition",
+  "all_tags": [
+   "entity recognition"
+  ],
+  "video_key": "iA_69g87Ilw",
+  "video_type": "selfmedia",
+  "duration_minutes": 30.149166666666666,
+  "uid": "3023",
+  "question": "What color is the hair dryer?\n(A) Black\n(B) White\n(C) Red\n(D) Blue",
+  "answer": "D",
+  "time_reference": "08:30-08:40"
+ },
+ {
+  "group": "event understanding",
+  "all_tags": [
+   "event understanding"
+  ],
+  "video_key": "Xjf5N9S3jAA",
+  "video_type": "sport",
+  "duration_minutes": 47.4275,
+  "uid": "3955",
+  "question": "How many titles did Tsitsipas got?\n(A) 98\n(B) 12\n(C) 3\n(D) 10",
+  "answer": "D",
+  "time_reference": "07:37-08:20"
+ },
+ {
+  "group": "event understanding",
+  "all_tags": [
+   "event understanding"
+  ],
+  "video_key": "rp4NKWb7dXk",
+  "video_type": "sport",
+  "duration_minutes": 33.27133333333333,
+  "uid": "4130",
+  "question": "How many countries send two athletes?\n(A) 2\n(B) 1\n(C) 4\n(D) 3",
+  "answer": "A",
+  "time_reference": "21:56-21:56"
+ },
+ {
+  "group": "event understanding",
+  "all_tags": [
+   "event understanding"
+  ],
+  "video_key": "7HjNIPIgUg4",
+  "video_type": "live",
+  "duration_minutes": 110.90083333333334,
+  "uid": "1830",
+  "question": "How many times has Ronaldo been on stage?\n(A) 5\n(B) 3\n(C) 4\n(D) 2",
+  "answer": "C",
+  "time_reference": "04:36-109:12"
+ },
+ {
+  "group": "key information retrieval",
+  "all_tags": [
+   "key information retrieval"
+  ],
+  "video_key": "rp4NKWb7dXk",
+  "video_type": "sport",
+  "duration_minutes": 33.27133333333333,
+  "uid": "4126",
+  "question": "What is this athlete's number?\n(A) 332\n(B) 365\n(C) 23\n(D) 335",
+  "answer": "D",
+  "time_reference": "13:38-13:38"
+ },
+ {
+  "group": "key information retrieval",
+  "all_tags": [
+   "key information retrieval"
+  ],
+  "video_key": "TJR1oYDDTwg",
+  "video_type": "cartoon",
+  "duration_minutes": 42.47966666666667,
+  "uid": "250",
+  "question": "What is the first word in the video?\n(A) ENT\n(B) NET\n(C) TNE\n(D) ETN",
+  "answer": "B",
+  "time_reference": "00:00-00:06"
+ },
+ {
+  "group": "key information retrieval",
+  "all_tags": [
+   "key information retrieval"
+  ],
+  "video_key": "vZV2WCKMsKs",
+  "video_type": "tv",
+  "duration_minutes": 102.36666666666666,
+  "uid": "4705",
+  "question": "How many \"woofs\" does Chico have?\n(A) Two\n(B) Four\n(C) Three\n(D) One",
+  "answer": "B",
+  "time_reference": "60:40-60:45"
+ },
+ {
+  "group": "reasoning",
+  "all_tags": [
+   "reasoning"
+  ],
+  "video_key": "SRq0weUKskM",
+  "video_type": "cartoon",
+  "duration_minutes": 43.10433333333334,
+  "uid": "478",
+  "question": "Is this a recent cartoon?\n(A) Yes\n(B) No\n(C) I don't know\n(D) Maybe",
+  "answer": "B",
+  "time_reference": "00:00-43:06"
+ },
+ {
+  "group": "reasoning",
+  "all_tags": [
+   "reasoning"
+  ],
+  "video_key": "TiQBTesZUJQ",
+  "video_type": "documentary",
+  "duration_minutes": 52.46816666666667,
+  "uid": "843",
+  "question": "When do animals move out?\n(A) Noon\n(B) Night\n(C) Early morning\n(D) Morning",
+  "answer": "B",
+  "time_reference": "08:45-09:00"
+ },
+ {
+  "group": "reasoning",
+  "all_tags": [
+   "reasoning"
+  ],
+  "video_key": "wgBlACG927Y",
+  "video_type": "selfmedia",
+  "duration_minutes": 38.85466666666667,
+  "uid": "3097",
+  "question": "What season do the vloggers visit the city?\n(A) Autumn\n(B) Summer\n(C) Spring\n(D) Winter",
+  "answer": "D",
+  "time_reference": "00:00-38:51"
+ },
+ {
+  "group": "summarization",
+  "all_tags": [
+   "summarization"
+  ],
+  "video_key": "sk00epALZps",
+  "video_type": "tv",
+  "duration_minutes": 40.836999999999996,
+  "uid": "4769",
+  "question": "How many times did Kobe Bryant appear and in what years was he invited to this show in the video?\n(A) 6 times, respectively in 2008, 2009, 2010, 2013, 2018, and 2019\n(B) 5 times, respectively in 2008, 2009, 2010, 2013, and 2019\n(C) 6 times, respectively in 2008, 2009, 2010, 2012, 2018, and 2019\n(D) 5 times, respectively in 2008, 2009, 2010, 2012, and 2019",
+  "answer": "A",
+  "time_reference": "00:00-40:50"
+ },
+ {
+  "group": "summarization",
+  "all_tags": [
+   "summarization"
+  ],
+  "video_key": "Hf-n1yfd8II",
+  "video_type": "sport",
+  "duration_minutes": 95.87533333333334,
+  "uid": "3936",
+  "question": "How to evaluate Lin Dan's performance for the second game?\n(A) In the beginning, his status is bad. The bad status lasts for the 10 minutes. At the rest time of the second game, his performance is very good\n(B) Lin Dan sometimes leads and sometimes lags behind\n(C) The status is not so good. Lee Chong Wei is always far ahead\n(D) The status is very good. Lin Dan is always far ahead",
+  "answer": "C",
+  "time_reference": "34:23-00:54"
+ },
+ {
+  "group": "summarization",
+  "all_tags": [
+   "summarization"
+  ],
+  "video_key": "JlrzSvCsIjE",
+  "video_type": "sport",
+  "duration_minutes": 46.527,
+  "uid": "4015",
+  "question": "What happens in the sixth game of the first set?\n(A) The Swiss team score 4 points in a row to win this game without losing one point\n(B) After losing one point, the American team score 4 points in a row to win this game\n(C) After losing one point, the Swiss team score 4 points in a row to win this game\n(D) The American team score 4 points in a row to win this game without losing one point",
+  "answer": "A",
+  "time_reference": "14:30-16:11"
+ },
+ {
+  "group": "temporal grounding",
+  "all_tags": [
+   "entity recognition",
+   "temporal grounding"
+  ],
+  "video_key": "xi6r3hZe5Tg",
+  "video_type": "documentary",
+  "duration_minutes": 44.410833333333336,
+  "uid": "1077",
+  "question": "What animal is this at 42:00?\n(A) Horse\n(B) Cow\n(C) Bird\n(D) Chicken",
+  "answer": "D",
+  "time_reference": "42:00-42:00"
+ },
+ {
+  "group": "temporal grounding",
+  "all_tags": [
+   "event understanding",
+   "temporal grounding"
+  ],
+  "video_key": "gXnhqF0TqqI",
+  "video_type": "cartoon",
+  "duration_minutes": 73.2265,
+  "uid": "369",
+  "question": "When does the animation end?\n(A) 69:43\n(B) 70:43\n(C) 69:33\n(D) 70:33",
+  "answer": "C",
+  "time_reference": "69:06-70:19"
+ },
+ {
+  "group": "temporal grounding",
+  "all_tags": [
+   "temporal grounding",
+   "key information retrieval"
+  ],
+  "video_key": "vHlSoxg8WHo",
+  "video_type": "tv",
+  "duration_minutes": 54.87733333333333,
+  "uid": "5064",
+  "question": "Who is the person at 00:02?\n(A) Raymond\n(B) Jason\n(C) Mario\n(D) Tacara",
+  "answer": "D",
+  "time_reference": "00:02-01:18"
+ }
+]

@@ -1,0 +1,51 @@
+{
+ "questions": 4000,
+ "tasks": {
+  "Action antonym": 200,
+  "Action count": 200,
+  "Action localization": 200,
+  "Action prediction": 200,
+  "Action sequence": 200,
+  "Character order": 200,
+  "Counterfactual inference": 200,
+  "Egocentric navigation": 200,
+  "Episodic reasoning": 200,
+  "Fine grained action": 200,
+  "Fine grained pose": 200,
+  "Moving attribute": 200,
+  "Moving count": 200,
+  "Moving direction": 200,
+  "Object existence": 200,
+  "Object interaction": 200,
+  "Object shuffle": 200,
+  "Scene transition": 200,
+  "State change": 200,
+  "Unexpected action": 200
+ },
+ "videos_per_task": {
+  "Action antonym": 200,
+  "Action count": 200,
+  "Action localization": 200,
+  "Action prediction": 184,
+  "Action sequence": 179,
+  "Character order": 200,
+  "Counterfactual inference": 198,
+  "Egocentric navigation": 200,
+  "Episodic reasoning": 166,
+  "Fine grained action": 200,
+  "Fine grained pose": 200,
+  "Moving attribute": 200,
+  "Moving count": 200,
+  "Moving direction": 200,
+  "Object existence": 193,
+  "Object interaction": 200,
+  "Object shuffle": 200,
+  "Scene transition": 200,
+  "State change": 200,
+  "Unexpected action": 179
+ },
+ "videos": 3899,
+ "duration_s": {
+  "note": "mostly 5 to 35 s per clip (paper); clip lengths are not in the annotation files"
+ }
+}

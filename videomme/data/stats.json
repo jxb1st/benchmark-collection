@@ -1,0 +1,38 @@
+{
+ "questions": 2700,
+ "videos": 900,
+ "tasks": {
+  "Object Reasoning": 454,
+  "Object Recognition": 354,
+  "Information Synopsis": 323,
+  "Action Recognition": 313,
+  "Action Reasoning": 285,
+  "Counting Problem": 268,
+  "Attribute Perception": 222,
+  "Temporal Reasoning": 177,
+  "OCR Problems": 139,
+  "Spatial Reasoning": 56,
+  "Temporal Perception": 55,
+  "Spatial Perception": 54
+ },
+ "domains": {
+  "Knowledge": 810,
+  "Life Record": 630,
+  "Sports Competition": 450,
+  "Film & Television": 360,
+  "Artistic Performance": 360,
+  "Multilingual": 90
+ },
+ "sub_categories": 30,
+ "duration_groups": {
+  "short": 300,
+  "medium": 300,
+  "long": 300
+ },
+ "duration_s": {
+  "mean": 1017.9,
+  "min": 11,
+  "max": 3600,
+  "source": "paper"
+ }
+}

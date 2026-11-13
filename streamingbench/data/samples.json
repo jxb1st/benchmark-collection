@@ -1,0 +1,917 @@
+[
+ {
+  "group": "Action Recognition",
+  "subset": "real",
+  "video_categories": "getting_dressed",
+  "time_stamp": "0:01:06",
+  "question": "What are the helpers doing to the person in the golden robe?",
+  "options": [
+   "A. Applying makeup.",
+   "B. Adjusting a braided belt.",
+   "C. Polishing their sandals.",
+   "D. Fixing their hair."
+  ],
+  "answer": "B",
+  "source_video": "sample_159_real.mp4",
+  "clip": "streamingbench/action-recognition-1.mp4"
+ },
+ {
+  "group": "Action Recognition",
+  "subset": "real",
+  "video_categories": "getting_dressed",
+  "time_stamp": "00:02:42",
+  "question": "What is the woman doing right now?",
+  "options": [
+   "A. Singing.",
+   "B. Dancing.",
+   "C. Smiling.",
+   "D. Reading."
+  ],
+  "answer": "B",
+  "source_video": "sample_161_real.mp4",
+  "clip": "streamingbench/action-recognition-2.mp4"
+ },
+ {
+  "group": "Action Recognition",
+  "subset": "real",
+  "video_categories": "getting_dressed",
+  "time_stamp": "0:00:19",
+  "question": "What does the person do after waking up?",
+  "options": [
+   "A. Lies back down.",
+   "B. Walks out of the room.",
+   "C. Sits up on the edge of the bed.",
+   "D. Stands up and stretches."
+  ],
+  "answer": "C",
+  "source_video": "sample_154_real.mp4",
+  "clip": "streamingbench/action-recognition-3.mp4"
+ },
+ {
+  "group": "Attribute Perception",
+  "subset": "real",
+  "video_categories": null,
+  "time_stamp": "00:01:11",
+  "question": "What type of shirt is the opponent wearing?",
+  "options": [
+   "A. A blue and white patterned shirt.",
+   "B. A plain white shir.",
+   "C. A yellow patterned shirt.",
+   "D. A red checkered shirt."
+  ],
+  "answer": "A",
+  "source_video": "sample_9_real.mp4",
+  "clip": "streamingbench/attribute-perception-1.mp4"
+ },
+ {
+  "group": "Attribute Perception",
+  "subset": "real",
+  "video_categories": null,
+  "time_stamp": "00:01:11",
+  "question": "What type of shirt is the opponent wearing?",
+  "options": [
+   "A. A blue and white patterned shirt.",
+   "B. A plain white shir.",
+   "C. A yellow patterned shirt.",
+   "D. A red checkered shirt."
+  ],
+  "answer": "A",
+  "source_video": "Real-Time_sample_9.mp4",
+  "clip": "streamingbench/attribute-perception-2.mp4"
+ },
+ {
+  "group": "Attribute Perception",
+  "subset": "real",
+  "video_categories": null,
+  "time_stamp": "00:01:16",
+  "question": "What is the color of the block that the hand is reaching for right now?",
+  "options": [
+   "A. Yellow.",
+   "B. Orange.",
+   "C. Green.",
+   "D. Blue."
+  ],
+  "answer": "C",
+  "source_video": "Real-Time_sample_203.mp4",
+  "clip": "streamingbench/attribute-perception-3.mp4"
+ },
+ {
+  "group": "Causal Reasoning",
+  "subset": "real",
+  "video_categories": "football",
+  "time_stamp": "00:00:53",
+  "question": "Why does the player wearing the number nine red and blue jersey celebrate?",
+  "options": [
+   "A. He saved a goal.",
+   "B. He received a pass.",
+   "C. He scored a goal.",
+   "D. He won a free kick."
+  ],
+  "answer": "C",
+  "source_video": "sample_1_real.mp4",
+  "clip": "streamingbench/causal-reasoning-1.mp4"
+ },
+ {
+  "group": "Causal Reasoning",
+  "subset": "real",
+  "video_categories": "cooking",
+  "time_stamp": "00:04:18",
+  "question": "Why does the woman lift the frying pan at a slight angle and shake it?",
+  "options": [
+   "A. To add more oil to the pan.",
+   "B. To check if the contents are cooked.",
+   "C. To ensure the ingredients are moved around for even cooking.",
+   "D. To cool down the pan."
+  ],
+  "answer": "C",
+  "source_video": "sample_23_real.mp4",
+  "clip": "streamingbench/causal-reasoning-2.mp4"
+ },
+ {
+  "group": "Causal Reasoning",
+  "subset": "real",
+  "video_categories": "evaluation_of_electronic_products",
+  "time_stamp": "00:06:27",
+  "question": "What is the likely purpose of the person's gestures right now?",
+  "options": [
+   "A. Asking a question.",
+   "B. Explaining a concept.",
+   "C. Writing something down.",
+   "D. Watching a demonstration."
+  ],
+  "answer": "B",
+  "source_video": "sample_119_real.mp4",
+  "clip": "streamingbench/causal-reasoning-3.mp4"
+ },
+ {
+  "group": "Clips Summarize",
+  "subset": "real",
+  "video_categories": "preparation_of_meals",
+  "time_stamp": "00:00:10",
+  "question": "Which of the following best summarizes the actions performed just now?",
+  "options": [
+   "A. The individual took vegetables out of the refrigerator, cleaned them, and arranged them on a plate.",
+   "B. The individual retrieved a container with liquid, uncovered it, and began stirring its contents.",
+   "C. The individual operated a deep fryer, cooked food, and placed it into a serving dish.",
+   "D. The individual brewed coffee, poured it into cups, and served them."
+  ],
+  "answer": "B",
+  "source_video": "sample_376_real.mp4",
+  "clip": "streamingbench/clips-summarize-1.mp4"
+ },
+ {
+  "group": "Clips Summarize",
+  "subset": "real",
+  "video_categories": "preparation_of_meals",
+  "time_stamp": "00:00:14",
+  "question": "Which of the following options best summarizes the content of the video just shown?",
+  "options": [
+   "A. The vendor set up a beverage station with cups and straws, preparing for customers.",
+   "B. The vendor organized a set of condiments and napkins at the counter to facilitate customer use.",
+   "C. The vendor puts on glove, arranged hot dog buns, getting ready to serve customers.",
+   "D. The vendor cleaned and restocked a salad bar, ensuring it is ready for use."
+  ],
+  "answer": "C",
+  "source_video": "sample_377_real.mp4",
+  "clip": "streamingbench/clips-summarize-2.mp4"
+ },
+ {
+  "group": "Clips Summarize",
+  "subset": "real",
+  "video_categories": null,
+  "time_stamp": "00:00:19",
+  "question": "What does the video primarily capture?",
+  "options": [
+   "A. A card game in progress between two individuals.",
+   "B. A cooking tutorial.",
+   "C. A conversation between two people.",
+   "D. A travel vlog."
+  ],
+  "answer": "A",
+  "source_video": "Real-Time_sample_9.mp4",
+  "clip": "streamingbench/clips-summarize-3.mp4"
+ },
+ {
+  "group": "Counting",
+  "subset": "real",
+  "video_categories": "introduction_to_film",
+  "time_stamp": "00:00:56",
+  "question": "How many times in total have movie clips been inserted during this person's explanation so far?",
+  "options": [
+   "A. 1.",
+   "B. 3.",
+   "C. 4.",
+   "D. 0."
+  ],
+  "answer": "D",
+  "source_video": "sample_103_real.mp4",
+  "clip": "streamingbench/counting-1.mp4"
+ },
+ {
+  "group": "Counting",
+  "subset": "real",
+  "video_categories": "block_building",
+  "time_stamp": "00:00:15",
+  "question": "How many studs does each yellow interlocking block placed by the hand have?",
+  "options": [
+   "A. Eight.",
+   "B. Sixteen.",
+   "C. Four.",
+   "D. Twelve."
+  ],
+  "answer": "A",
+  "source_video": "sample_203_real.mp4",
+  "clip": "streamingbench/counting-2.mp4"
+ },
+ {
+  "group": "Counting",
+  "subset": "real",
+  "video_categories": null,
+  "time_stamp": "00:00:15",
+  "question": "How many studs does each yellow interlocking block placed by the hand have?",
+  "options": [
+   "A. Eight.",
+   "B. Sixteen.",
+   "C. Four.",
+   "D. Twelve."
+  ],
+  "answer": "A",
+  "source_video": "Real-Time_sample_203.mp4",
+  "clip": "streamingbench/counting-3.mp4"
+ },
+ {
+  "group": "Event Understanding",
+  "subset": "real",
+  "video_categories": "football",
+  "time_stamp": "00:02:11",
+  "question": "What is the updated score after the player in number 11 scored a goal?",
+  "options": [
+   "A. 2-0.",
+   "B. 3-0.",
+   "C. 5-0.",
+   "D. 4-0."
+  ],
+  "answer": "D",
+  "source_video": "sample_4_real.mp4",
+  "clip": "streamingbench/event-understanding-1.mp4"
+ },
+ {
+  "group": "Event Understanding",
+  "subset": "real",
+  "video_categories": null,
+  "time_stamp": "00:02:14",
+  "question": "What color is the brick first added after the initial blue bricks form a two-layered structure?",
+  "options": [
+   "A. Green.",
+   "B. Yellow.",
+   "C. Orange.",
+   "D. Red."
+  ],
+  "answer": "A",
+  "source_video": "Real-Time_sample_203.mp4",
+  "clip": "streamingbench/event-understanding-2.mp4"
+ },
+ {
+  "group": "Event Understanding",
+  "subset": "real",
+  "video_categories": "block_building",
+  "time_stamp": "00:02:15",
+  "question": "What was the sequence of events the hand followed when building the structure just now?",
+  "options": [
+   "A. Picks up a yellow block, adjusts it, then picks up a red block.",
+   "B. Picks up a green block, adjusts it, then picks up a yellow block.",
+   "C. Picks up a red block, adjusts it, then picks up a yellow block.",
+   "D. Picks up a blue block, adjusts it, then picks up a green block."
+  ],
+  "answer": "B",
+  "source_video": "sample_206_real.mp4",
+  "clip": "streamingbench/event-understanding-3.mp4"
+ },
+ {
+  "group": "Object Perception",
+  "subset": "real",
+  "video_categories": null,
+  "time_stamp": "00:00:54",
+  "question": "What else is on the table besides the playing cards and a black object?",
+  "options": [
+   "A. A pair of glasses.",
+   "B. A computer.",
+   "C. A pile of books.",
+   "D. A stack of notebooks."
+  ],
+  "answer": "A",
+  "source_video": "Real-Time_sample_9.mp4",
+  "clip": "streamingbench/object-perception-1.mp4"
+ },
+ {
+  "group": "Object Perception",
+  "subset": "real",
+  "video_categories": "getting_dressed",
+  "time_stamp": "0:01:30",
+  "question": "What is the person putting on their feet?",
+  "options": [
+   "A. Red boots.",
+   "B. Red shoes with a low heel and a strap.",
+   "C. Black sneakers.",
+   "D. Sandals."
+  ],
+  "answer": "B",
+  "source_video": "sample_158_real.mp4",
+  "clip": "streamingbench/object-perception-2.mp4"
+ },
+ {
+  "group": "Object Perception",
+  "subset": "real",
+  "video_categories": "football",
+  "time_stamp": "00:00:04",
+  "question": "What logos are visible in the background as players and officials walk towards the camera?",
+  "options": [
+   "A. FIFA and Premier League.",
+   "B. UEFA and Champions League.",
+   "C. Bundesliga and MLS.",
+   "D. Aeromexico and La Liga."
+  ],
+  "answer": "D",
+  "source_video": "sample_1_real.mp4",
+  "clip": "streamingbench/object-perception-3.mp4"
+ },
+ {
+  "group": "Prospective Reasoning",
+  "subset": "real",
+  "video_categories": null,
+  "time_stamp": "00:01:15",
+  "question": "What will the camera holder most likely do next?",
+  "options": [
+   "A. Place Four of hearts onto the central pile.",
+   "B. Place the Ace of Spades onto the discard pile.",
+   "C. Put the Seven of Diamonds onto the foundation stack.",
+   "D. Move the King of Clubs to the empty tableau column."
+  ],
+  "answer": "A",
+  "source_video": "sample_9_real.mp4",
+  "clip": "streamingbench/prospective-reasoning-1.mp4"
+ },
+ {
+  "group": "Prospective Reasoning",
+  "subset": "real",
+  "video_categories": null,
+  "time_stamp": "00:01:15",
+  "question": "What will the camera holder most likely do next?",
+  "options": [
+   "A. Place Four of hearts onto the central pile.",
+   "B. Place the Ace of Spades onto the discard pile.",
+   "C. Put the Seven of Diamonds onto the foundation stack.",
+   "D. Move the King of Clubs to the empty tableau column."
+  ],
+  "answer": "A",
+  "source_video": "Real-Time_sample_9.mp4",
+  "clip": "streamingbench/prospective-reasoning-2.mp4"
+ },
+ {
+  "group": "Prospective Reasoning",
+  "subset": "real",
+  "video_categories": "math tutorials",
+  "time_stamp": "00:00:10",
+  "question": "What mathematical topic might the speaker focus on next?",
+  "options": [
+   "A. Adding Fractions.",
+   "B. Dividing Fractions.",
+   "C. Simplifying Fractions.",
+   "D. Multiplying Fractions."
+  ],
+  "answer": "D",
+  "source_video": "sample_219_real.mp4",
+  "clip": "streamingbench/prospective-reasoning-3.mp4"
+ },
+ {
+  "group": "Spatial Understanding",
+  "subset": "real",
+  "video_categories": "cycling",
+  "time_stamp": "00:00:54",
+  "question": "What is the position of the yellow sign and black arrow right now?",
+  "options": [
+   "A. Directly behind the cyclists.",
+   "B. On the right side of the road.",
+   "C. Directly ahead of the cyclists.",
+   "D. On the left side of the road."
+  ],
+  "answer": "D",
+  "source_video": "sample_295_real.mp4",
+  "clip": "streamingbench/spatial-understanding-1.mp4"
+ },
+ {
+  "group": "Spatial Understanding",
+  "subset": "real",
+  "video_categories": "getting_dressed",
+  "time_stamp": "0:01:36",
+  "question": "What is featured in the background of the scene right now?",
+  "options": [
+   "A. A plain white wall.",
+   "B. A patterned rug with horizontal stripes in various colors.",
+   "C. A window with curtains.",
+   "D. A bookshelf."
+  ],
+  "answer": "B",
+  "source_video": "sample_158_real.mp4",
+  "clip": "streamingbench/spatial-understanding-2.mp4"
+ },
+ {
+  "group": "Spatial Understanding",
+  "subset": "real",
+  "video_categories": "block_building",
+  "time_stamp": "0:02:08",
+  "question": "How are the yellow building blocks arranged before the blue block is placed on top?",
+  "options": [
+   "A. In a circle.",
+   "B. In a straight line.",
+   "C. In a random pattern.",
+   "D. In a triangular shape."
+  ],
+  "answer": "B",
+  "source_video": "sample_202_real.mp4",
+  "clip": "streamingbench/spatial-understanding-3.mp4"
+ },
+ {
+  "group": "Text-Rich Understanding",
+  "subset": "real",
+  "video_categories": "driving",
+  "time_stamp": "00:00:03",
+  "question": "What is currently written on the sign visible in the video?",
+  "options": [
+   "A. START.",
+   "B. GO!.",
+   "C. MICRO.",
+   "D. WHOOP."
+  ],
+  "answer": "D",
+  "source_video": "sample_254_real.mp4",
+  "clip": "streamingbench/text-rich-understanding-1.mp4"
+ },
+ {
+  "group": "Text-Rich Understanding",
+  "subset": "real",
+  "video_categories": "block_building",
+  "time_stamp": "00:00:08",
+  "question": "What was written in the top right corner at the start of the video?",
+  "options": [
+   "A. Toy Car.",
+   "B. Auto Rickshaw.",
+   "C. Building Blocks.",
+   "D. Colorful Toy."
+  ],
+  "answer": "B",
+  "source_video": "sample_210_real.mp4",
+  "clip": "streamingbench/text-rich-understanding-2.mp4"
+ },
+ {
+  "group": "Text-Rich Understanding",
+  "subset": "real",
+  "video_categories": null,
+  "time_stamp": "00:00:11",
+  "question": "What card is this person playing now?",
+  "options": [
+   "A. Nine of Spades.",
+   "B. Six of Spades.",
+   "C. Nine of Hearts.",
+   "D. Seven of Diamonds."
+  ],
+  "answer": "A",
+  "source_video": "Real-Time_sample_9.mp4",
+  "clip": "streamingbench/text-rich-understanding-3.mp4"
+ },
+ {
+  "group": "Anomaly Context Understanding",
+  "subset": "contextual",
+  "video_categories": null,
+  "time_stamp": "00:00:32",
+  "question": "What unusual event just occurred?",
+  "options": [
+   "A. A little girl who was lying on the sofa fell under the sofa and the man caught her with his legs.",
+   "B. A little girl lying on the sofa fell under the sofa and the woman stretched her legs to catch her.",
+   "C. A little boy riding his bicycle hit a post box and fell to the ground.",
+   "D. A man rushing out of the slide hit the child, and then he quickly hugged the child."
+  ],
+  "answer": "B",
+  "source_video": "Anomaly_Context_Understanding_sample_47.mp4",
+  "clip": "streamingbench/anomaly-context-understanding-1.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Anomaly Context Understanding",
+  "subset": "omni",
+  "video_categories": "car_accident",
+  "time_stamp": "00:00:37",
+  "question": "What unusual event just occurred?",
+  "options": [
+   "A. When A big truck changed lanes on the road, it hit the white car on the right. The white car lost control and drove into the roadside lawn, and finally it turned over seriously.",
+   "B. When changing lanes on the road, a large truck hit the black car on the right. The black car lost control and drove into the grass on the side of the road, and finally turned over seriously.",
+   "C. A vehicle acting as a camera was driving on the road and struck a white car on the left that had made a sudden right turn.",
+   "D. A vehicle acting as a camera lost control while changing lanes from left to right on the road and drove for some time before hitting a black car parked on the side of the road."
+  ],
+  "answer": "B",
+  "source_video": "sample_31_Anomaly_Context_Understanding.mp4",
+  "clip": "streamingbench/anomaly-context-understanding-2.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Anomaly Context Understanding",
+  "subset": "omni",
+  "video_categories": "car_accident",
+  "time_stamp": "00:00:43",
+  "question": "What unusual event just occurred?",
+  "options": [
+   "A. When A truck passed a railway track junction, the cargo on board was caught by the long-arm cargo on the train, and then overturned.",
+   "B. A car was going too fast and hit a blue truck in front of it, and the truck turned over.",
+   "C. On a side street, a black Mercedes was backing up and crashed into the car behind it.",
+   "D. On a side road, a car continued to move forward and hit a black Mercedes."
+  ],
+  "answer": "C",
+  "source_video": "sample_21_Anomaly_Context_Understanding.mp4",
+  "clip": "streamingbench/anomaly-context-understanding-3.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Emotion Recognition",
+  "subset": "omni",
+  "video_categories": null,
+  "time_stamp": "00:00:46",
+  "question": "What is the mood of this lady in a red evening dress with blonde hair? Why is she in that mood?",
+  "options": [
+   "A. She is a bit angry because the envelope is a bit tight.",
+   "B. She is a bit anxious because the envelope is a bit tight.",
+   "C. She is a bit angry because that person keeps laughing.",
+   "D. She is a bit happy because she is giving a speech on stage."
+  ],
+  "answer": "A",
+  "source_video": "Emotion_Recognition_sample_23.mp4",
+  "clip": "streamingbench/emotion-recognition-1.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Emotion Recognition",
+  "subset": "omni",
+  "video_categories": "movie",
+  "time_stamp": "00:00:50",
+  "question": "What is the current emotion of the man with buzz cut of the video, and what caused his emotional changes?",
+  "options": [
+   "A. He was very happy because the chef praised him.",
+   "B. He was very disappointed because the chef said the dishes he made are not tasty.",
+   "C. He felt nervous because the chef was tasting the dishes he had made.",
+   "D. He felt relieved because the chef did not criticize the dishes he made as not delicious."
+  ],
+  "answer": "D",
+  "source_video": "sample_44_Emotion_Recognition.mp4",
+  "clip": "streamingbench/emotion-recognition-2.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Emotion Recognition",
+  "subset": "omni",
+  "video_categories": "movie",
+  "time_stamp": "00:00:53",
+  "question": "What is the current emotion of the man wearing glasses of the video, and what caused his emotional changes?",
+  "options": [
+   "A. he is angry because he finds the man in the black suit unfriendly.",
+   "B. he is happy because he is meeting his friend.",
+   "C. he is relaxing because he is talking to his friend.",
+   "D. he is angry because the man in the black suit says he wants to buy all his stock."
+  ],
+  "answer": "A",
+  "source_video": "sample_42_Emotion_Recognition.mp4",
+  "clip": "streamingbench/emotion-recognition-3.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Misleading Context Recognition",
+  "subset": "contextual",
+  "video_categories": null,
+  "time_stamp": "00:00:37",
+  "question": "What's on display on the table now?",
+  "options": [
+   "A. There are now six face-up cards on the table, namely the 5 of diamonds, 7 of spades, 2 of hearts, 2 of clubs, 8 of hearts and 7 of spades.",
+   "B. There are now four face-up cards on the table, namely, the 5 of diamonds, the 7 of spades, the 2 of spades, the 2 of clubs, the 2 of clubs and the 2 of clubs.",
+   "C. There are now five face-up cards on the table, the 5 of Spades, the 7 of Hearts, the 2 of Spades, the 2 of Clubs and the 8 of Clubs.",
+   "D. There are now seven face-up cards on the table, the 5 of diamonds, the 7 of spades, the 2 of spades, the 2 of clubs, the 8 of hearts, the 7 of clubs and the K of clubs."
+  ],
+  "answer": "D",
+  "source_video": "Misleading_Context_Recognition_sample_8.mp4",
+  "clip": "streamingbench/misleading-context-recognition-1.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Misleading Context Recognition",
+  "subset": "omni",
+  "video_categories": "online_tutorials",
+  "time_stamp": "00:00:22",
+  "question": "What's on this blue desktop?",
+  "options": [
+   "A. There are five stacked playing cards lying horizontally on the table.",
+   "B. There are five stacked playing cards on the table and a stack of green banknotes placed together on the right side.",
+   "C. There is a stack of green notes on the table with the number 10 written on them.",
+   "D. There are a number of green banknotes and unfolded playing cards on the table, and underneath there are folded playing cards with the numbers J, Q, K, A, and 10 of hearts written on them."
+  ],
+  "answer": "B",
+  "source_video": "sample_6_Misleading_Context_Understanding.mp4",
+  "clip": "streamingbench/misleading-context-recognition-2.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Misleading Context Recognition",
+  "subset": "omni",
+  "video_categories": "online_tutorials",
+  "time_stamp": "00:00:29",
+  "question": "What's on the table now?",
+  "options": [
+   "A. There is a pairs of hands below, and three back facing playing cards in the middle of each hand; there are also playing cards above them.",
+   "B. There is a pairs of hands below, his left hand holding the 3 of clubs, the 8 of spades, the 2 of clubs, the 10 of spades, the ace of spades and the queen of hearts; there are also three back facing playing cards on the table.",
+   "C. There is a pairs of hands below, and three more back facing playing cards between the two hands.",
+   "D. There is a pairs of hands below with three back facing cards between them; there is a hand above with playing cards pressed underneath, and '6-' is written next to these playing cards."
+  ],
+  "answer": "B",
+  "source_video": "sample_11_Misleading_Context_Understanding.mp4",
+  "clip": "streamingbench/misleading-context-recognition-3.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Multimodal Alignment",
+  "subset": "omni",
+  "video_categories": "tv_series",
+  "time_stamp": "00:00:39",
+  "question": "Describe the correspond scene when a man said 'I'll stick with my jerky.'.",
+  "options": [
+   "A. A balding male wearing a black blazer with a black and blue striped shirt and black tattoo-dot tie is eating and talking.",
+   "B. A blonde woman wearing a brown coat with a black top underneath carries on a conversation.",
+   "C. A brown-haired male wearing a yellow blazer with a red and white plaid shirt and green tie with a horse design and rainbow stripes rests his left hand on the shoulder of a blonde female wearing a brown tunic with a black blouse underneath, and holds a piece of black food in his right hand.",
+   "D. A brown-haired male wearing a brown blazer with a yellow shirt and yellow and green striped tie and glasses spoke as he ate the beef jerky he held in his right hand."
+  ],
+  "answer": "D",
+  "source_video": "sample_14_Multimodal_Alignment.mp4",
+  "clip": "streamingbench/multimodal-alignment-1.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Multimodal Alignment",
+  "subset": "omni",
+  "video_categories": "science_documentary",
+  "time_stamp": "00:00:56",
+  "question": "Describe the correspond scene when a person said 'choking under pressure boils down to focus.'.",
+  "options": [
+   "A. The background of the picture is yellow, there is an orange letter 'FOCUS' in the middle of the picture, and there are many blue dots, and black and red lines in the picture.",
+   "B. The background of the picture is yellow and there are two people in the middle of the picture; the person on the left is wearing purple and holding an orange and white book, and the person on the right is wearing green and holding a blue and white book.",
+   "C. The background of the picture is blue-green, there is a man in the middle of the picture pointing to a microphone, and there are three white dots above the microphone.",
+   "D. The background of the picture is yellow, on the right side of the picture there is a small black hole with a red flag on it, on the left side of the picture there is a man in purple holding a golf club in his hand, and under his feet there is a white golf ball."
+  ],
+  "answer": "A",
+  "source_video": "sample_42_Multimodal_Alignment.mp4",
+  "clip": "streamingbench/multimodal-alignment-2.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Multimodal Alignment",
+  "subset": "omni",
+  "video_categories": null,
+  "time_stamp": "00:01:08",
+  "question": "Describe the correspond scene when a person said 'it's impossible to say exactly how and why it evolved.'.",
+  "options": [
+   "A. There is a man in a purple dress and a blue hat standing in the middle of the picture crying.",
+   "B. There is a yellow sandy beach in the picture, a hanging villain on the left side of the picture, a villain with a tool on the right side of the picture, and a villain standing on the beach.",
+   "C. There is a line of letters in the picture that says 'LAUGHTER', and inside the letters, A is red, H is purple, and the other letters are white.",
+   "D. There is a smiling little man in a purple short and blue hat in the middle of the picture."
+  ],
+  "answer": "B",
+  "source_video": "Multimodal_Alignment_sample_43.mp4",
+  "clip": "streamingbench/multimodal-alignment-3.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Scene Understanding",
+  "subset": "omni",
+  "video_categories": null,
+  "time_stamp": "00:00:46",
+  "question": "Please describe the scene that just occurred in the video?",
+  "options": [
+   "A. The man in a grey jacket faces the camera in agony and explains, 'Definitely a good full-arm workout.'.",
+   "B. As the man in a grey jacket climbs downward, he breathes heavily and says, 'Oh, look, I stand on this bit there. Give my arms a rest.'.",
+   "C. As the man in a grey jacket grabbed the vines man and climbed slowly downward, the narrator explained, 'This vine looks strong enough to take my weight, but it's going to be hard work for my arms.'.",
+   "D. A man in a grey jacket his way through the weeds, and the narrator says, 'I'm deep in the jungles of Borneo. I've successfully descended from the canopy.'."
+  ],
+  "answer": "A",
+  "source_video": "Scene_Understanding_sample_15.mp4",
+  "clip": "streamingbench/scene-understanding-1.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Scene Understanding",
+  "subset": "omni",
+  "video_categories": "natural_documentary",
+  "time_stamp": "00:00:49",
+  "question": "Please describe the scene that just occurred in the video.",
+  "options": [
+   "A. A pangolin uses its sense of smell to find food, and the narrator says, 'This insect-eating prehistoric manmal has walked panet Earth for 80 million years.'.",
+   "B. A pangolin uses its sharp claws to pick away at the dirt, and the narrator says, 'its powerful claws have evolved to tear open termite mounds.'.",
+   "C. A pangolin searches for food in a wet and bare bamboo forest, and the narrator says, 'In Mandarin, Pangolin means an animal that can dig its way out of the mountains.'.",
+   "D. A pangolin uses its eyes to look into the mouth of a cave to see if there is any food. The narrator says: 'A pangolin can consume 70 million insects a year.'."
+  ],
+  "answer": "D",
+  "source_video": "sample_12_Scene_Understanding_1-25.mp4",
+  "clip": "streamingbench/scene-understanding-2.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Scene Understanding",
+  "subset": "omni",
+  "video_categories": "natural_documentary",
+  "time_stamp": "00:00:23",
+  "question": "Please describe the scene that just occurred in the video?",
+  "options": [
+   "A. A small black and yellow frog lies on a green leaf as the narrator says 'This is a poison dart frog'.",
+   "B. A tadpole swims in the water in the center of a green plant and the narrator says 'Nice and safe'.",
+   "C. A small black and yellow frog climbs on a mossy branch, and the narrator says 'Males raise their young in a very special way'.",
+   "D. A little black and yellow frog hops around on a green mossy branch and the narrator says 'A father will place each one of his tadpoles'."
+  ],
+  "answer": "B",
+  "source_video": "sample_2_Scene_Understanding_1-25.mp4",
+  "clip": "streamingbench/scene-understanding-3.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Source Discrimination",
+  "subset": "omni",
+  "video_categories": null,
+  "time_stamp": "00:00:38",
+  "question": "Who just said 'My face is dented.'?",
+  "options": [
+   "A. a woman with curly black hair wearing a white nurse's uniform.",
+   "B. a male with brown hair wearing a white, blue, and red striped sweatshirt with the word __ANGERS_ on the front of the sweatshirt and black pants.",
+   "C. a male wearing a black jacket, dark gray shirt, blue jeans, and a blue baseball cap.",
+   "D. a dark-haired male wearing a yellow windbreaker jacket with a blue and black striped sweater and beige pants."
+  ],
+  "answer": "D",
+  "source_video": "Source_Discrimination_sample_8.mp4",
+  "clip": "streamingbench/source-discrimination-1.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Source Discrimination",
+  "subset": "omni",
+  "video_categories": "kids cartoon",
+  "time_stamp": "00:00:14",
+  "question": "Who just asked 'Can I hold your hand?'？",
+  "options": [
+   "A. A man with no hair, wearing a dark striped scarf, a black top and black pants.",
+   "B. A girl with dark brown hair, black glasses, a dark coat and a black top.",
+   "C. A girl with black hair, wearing a yellow striped top and jean overalls.",
+   "D. A girl wearing a pink knit hat and a pink striped top."
+  ],
+  "answer": "C",
+  "source_video": "sample_43_Source_Discrimination.mp4",
+  "clip": "streamingbench/source-discrimination-2.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Source Discrimination",
+  "subset": "omni",
+  "video_categories": "talk_show",
+  "time_stamp": "00:00:26",
+  "question": "Who just said 'Do you want to carry the hammer with you?'?",
+  "options": [
+   "A. A dark-haired male wearing a black suit, white shirt and black tie.",
+   "B. A male with brown hair wearing a black suit with a black shirt with a V-neck collar.",
+   "C. A blonde woman wearing a sleeveless black dress with a white striped hemline and black stockings.",
+   "D. A brown-haired male wearing a brown suit with a white shirt, red tie, and brown-rimmed sunglasses."
+  ],
+  "answer": "A",
+  "source_video": "sample_26_Source_Discrimination.mp4",
+  "clip": "streamingbench/source-discrimination-3.mp4",
+  "clip_audio": true
+ },
+ {
+  "group": "Sequential Question Answering",
+  "subset": "sqa",
+  "video_categories": "tennis",
+  "time_stamp": "00:00:37",
+  "question": "What is the name of the person wearing a red dress?",
+  "options": [
+   "A. Rune.",
+   "B. Berrettini.",
+   "C. Nadal.",
+   "D. Federer."
+  ],
+  "answer": "A",
+  "source_video": "sample_28_sqa.mp4",
+  "sequence": [
+   {
+    "time_stamp": "00:00:37",
+    "question": "What is the name of the person wearing a red dress?",
+    "answer": "A",
+    "options": [
+     "A. Rune.",
+     "B. Berrettini.",
+     "C. Nadal.",
+     "D. Federer."
+    ]
+   }
+  ],
+  "clip": "streamingbench/sequential-question-answering-1.mp4"
+ },
+ {
+  "group": "Sequential Question Answering",
+  "subset": "sqa",
+  "video_categories": "tennis",
+  "time_stamp": "00:00:37",
+  "question": "What is the name of the person wearing a yellow dress?",
+  "options": [
+   "A. Tiafoe.",
+   "B. Davidovich fokina.",
+   "C. Nadal.",
+   "D. Federer."
+  ],
+  "answer": "A",
+  "source_video": "sample_27_sqa.mp4",
+  "sequence": [
+   {
+    "time_stamp": "00:00:37",
+    "question": "What is the name of the person wearing a yellow dress?",
+    "answer": "A",
+    "options": [
+     "A. Tiafoe.",
+     "B. Davidovich fokina.",
+     "C. Nadal.",
+     "D. Federer."
+    ]
+   }
+  ],
+  "clip": "streamingbench/sequential-question-answering-2.mp4"
+ },
+ {
+  "group": "Sequential Question Answering",
+  "subset": "sqa",
+  "video_categories": "table_tennis",
+  "time_stamp": "00:01:15",
+  "question": "Who is preparing to serve the ball now?",
+  "options": [
+   "Ma Long.",
+   "Fan Zhengdong.",
+   "Xu xin.",
+   "Ma Lin."
+  ],
+  "answer": "A",
+  "source_video": "sample_6_sqa.mp4",
+  "sequence": [
+   {
+    "time_stamp": "00:01:15",
+    "question": "Who is preparing to serve the ball now?",
+    "answer": "A",
+    "options": [
+     "Ma Long.",
+     "Fan Zhengdong.",
+     "Xu xin.",
+     "Ma Lin."
+    ]
+   }
+  ],
+  "clip": "streamingbench/sequential-question-answering-3.mp4"
+ },
+ {
+  "group": "Proactive Output",
+  "subset": "proactive",
+  "video_categories": "basketball",
+  "time_stamp": "00:00:00",
+  "question": "When the Serbian player scores a three-pointer, output \"Three-pointer Serbia\".",
+  "options": null,
+  "answer": null,
+  "source_video": "sample_15_proactive.mp4",
+  "ground_truth_time_stamp": "00:00:08",
+  "ground_truth_output": "Three-pointer Serbia",
+  "required_ability": "working memory",
+  "clip": "streamingbench/proactive-output-1.mp4"
+ },
+ {
+  "group": "Proactive Output",
+  "subset": "proactive",
+  "video_categories": "tennis",
+  "time_stamp": "00:00:00",
+  "question": "When the scoreboard shows \"Auger-Aliassime 40\" later, output \"40\".",
+  "options": null,
+  "answer": null,
+  "source_video": "sample_20_proactive.mp4",
+  "ground_truth_time_stamp": "00:00:14",
+  "ground_truth_output": "40",
+  "required_ability": "working memory",
+  "clip": "streamingbench/proactive-output-2.mp4"
+ },
+ {
+  "group": "Proactive Output",
+  "subset": "proactive",
+  "video_categories": "snooker",
+  "time_stamp": "00:00:01",
+  "question": "When R. O'Sullivan pots the first ball in the video, output \"First ball potted\".",
+  "options": null,
+  "answer": null,
+  "source_video": "sample_3_proactive.mp4",
+  "ground_truth_time_stamp": "00:00:05",
+  "ground_truth_output": "First ball potted",
+  "required_ability": "working memory",
+  "clip": "streamingbench/proactive-output-3.mp4"
+ }
+]

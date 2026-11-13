@@ -1,0 +1,972 @@
+[
+ {
+  "qid": 4661,
+  "video_uid": "6ssBq4GM_h0",
+  "question": "In the video, when the protagonist is introducing the \"Yoga Pro 9i 16\" computer, what is the pattern on the computer screen?",
+  "answer": "Two rows of trees",
+  "choices": [
+   "Two layers of grass",
+   "Two strands of vines",
+   "Two columns of flowers",
+   "Two rows of trees",
+   "Two rows of bushes",
+   "Two lines of shrubs"
+  ],
+  "right_answer": "D",
+  "clue_intervals": [
+   [
+    150,
+    153
+   ]
+  ],
+  "domain": "Life Record",
+  "sub_category": "2D Spatial Perception",
+  "duration": 1114,
+  "group": "2D Spatial Perception",
+  "source": "YouTube"
+ },
+ {
+  "qid": 3742,
+  "video_uid": "2lsF28EOrrg",
+  "question": "In the video, when the person in green clothes chose to help, what pattern appeared on the screen?",
+  "answer": "A grey statue man.",
+  "choices": [
+   "A marble guardian piece",
+   "A grey statue man.",
+   "A golden soldier icon",
+   "A blue sentinel model",
+   "A bronze warrior statue",
+   "A silver knight figure"
+  ],
+  "right_answer": "B",
+  "clue_intervals": [
+   [
+    340,
+    345
+   ]
+  ],
+  "domain": "Electonic/Social Gaming",
+  "sub_category": "2D Spatial Perception",
+  "duration": 3996,
+  "group": "2D Spatial Perception",
+  "source": "YouTube"
+ },
+ {
+  "qid": 1314,
+  "video_uid": "o96-JRw_CfA",
+  "question": "In the video, when the protagonist is showing off her first outfit, there is a black sculpture on the small table on her right. What does this black sculpture look like?",
+  "answer": "This sculpture is a human figure.",
+  "choices": [
+   "This sculpture is a mythical creature.",
+   "This sculpture is a futuristic design.",
+   "This sculpture is an abstract shape.",
+   "This sculpture is a plant sculpture.",
+   "This sculpture is a human figure.",
+   "This sculpture is an animal form.",
+   "This sculpture is a geometric figure."
+  ],
+  "right_answer": "E",
+  "clue_intervals": [
+   [
+    69,
+    78
+   ]
+  ],
+  "domain": "Instruction & Knowledge",
+  "sub_category": "2D Spatial Perception",
+  "duration": 1398,
+  "group": "2D Spatial Perception",
+  "source": "YouTube"
+ },
+ {
+  "qid": 8568,
+  "video_uid": "BV1JG4119775",
+  "question": "What profession does a guy wearing black clothes appear to be?",
+  "answer": "Maintenance master.",
+  "choices": [
+   "Construction foreman",
+   "Factory worker",
+   "Plumber",
+   "Automotive technician",
+   "Electrical engineer",
+   "Warehouse manager",
+   "Maintenance master."
+  ],
+  "right_answer": "G",
+  "clue_intervals": [
+   [
+    0,
+    4.73516546065555
+   ]
+  ],
+  "domain": "Embodied Expert",
+  "sub_category": "Entity Cognition",
+  "duration": 1100,
+  "group": "Entity Cognition",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 4045,
+  "video_uid": "qMP1HV9tGJU",
+  "question": "In the video, where is the blue rectangle on the sign that the protagonist is pointing to relative to the yellow rectangle?",
+  "answer": "Directly above",
+  "choices": [
+   "Diagonal from",
+   "Directly below",
+   "Next to",
+   "Directly above",
+   "To the right",
+   "To the left",
+   "Adjacent to"
+  ],
+  "right_answer": "D",
+  "clue_intervals": [
+   [
+    404,
+    412
+   ]
+  ],
+  "domain": "Sports & Exercise",
+  "sub_category": "Entity Cognition",
+  "duration": 2431,
+  "group": "Entity Cognition",
+  "source": "YouTube"
+ },
+ {
+  "qid": 8470,
+  "video_uid": "BV1mo4y1W7z4",
+  "question": "In the video, after calmly saying \"Are you as excited as I am?\", why did the protagonist tilt his head 45 degrees and sing \"Oh My God?\"",
+  "answer": "To liven up the atmosphere",
+  "choices": [
+   "To convey a sense of urgency",
+   "To keep the viewers entertained",
+   "To demonstrate his vocal range",
+   "To express his genuine surprise",
+   "To emphasize the lyrics",
+   "To add a dramatic flair",
+   "To break the monotony",
+   "To liven up the atmosphere"
+  ],
+  "right_answer": "H",
+  "clue_intervals": [
+   [
+    20,
+    32
+   ]
+  ],
+  "domain": "Instruction & Knowledge",
+  "sub_category": "Entity Cognition",
+  "duration": 2324,
+  "group": "Entity Cognition",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 27,
+  "video_uid": "F4Z0xCyfKSI",
+  "question": "In the video, how many backpacks was the man in white clothes carrying when he bowed to the security guard?",
+  "answer": "two",
+  "choices": [
+   "four",
+   "none",
+   "zero",
+   "three",
+   "one",
+   "two",
+   "five",
+   "two and a half"
+  ],
+  "right_answer": "F",
+  "clue_intervals": [
+   [
+    24,
+    28
+   ]
+  ],
+  "domain": "Special Scenes",
+  "sub_category": "Entity Perception",
+  "duration": 3240,
+  "group": "Entity Perception",
+  "source": "YouTube"
+ },
+ {
+  "qid": 957,
+  "video_uid": "5MhRZp2uunc",
+  "question": "In the video, when experiencing VR glasses outdoors, what color sweatshirt is the boy wearing when he comes towards you and says hello?",
+  "answer": "Blue",
+  "choices": [
+   "Black",
+   "Green",
+   "Gray",
+   "White",
+   "Blue",
+   "Yellow",
+   "Red"
+  ],
+  "right_answer": "E",
+  "clue_intervals": [
+   [
+    224.12682378947366,
+    230.28415411336033
+   ]
+  ],
+  "domain": "Embodied Expert",
+  "sub_category": "Entity Perception",
+  "duration": 1521,
+  "group": "Entity Perception",
+  "source": "YouTube"
+ },
+ {
+  "qid": 7654,
+  "video_uid": "py0Jt1zUXcU",
+  "question": "In the video, what is the name of the third auction item?",
+  "answer": "Blue and White Ladies Pavilion Bowl",
+  "choices": [
+   "Blue and Gray Ladies Pavilion Vase",
+   "Blue and White Pavilion Plate",
+   "Blue and White Floral Pavilion Bowl",
+   "Blue and White Garden Pavilion Dish",
+   "Blue and White Ladies Pavilion Bowl",
+   "Blue and White Ladies Gazebo Bowl",
+   "Green and White Ladies Pavilion Bowl"
+  ],
+  "right_answer": "E",
+  "clue_intervals": [
+   [
+    805,
+    816
+   ]
+  ],
+  "domain": "Music & TV show",
+  "sub_category": "Entity Perception",
+  "duration": 2828,
+  "group": "Entity Perception",
+  "source": "YouTube"
+ },
+ {
+  "qid": 8529,
+  "video_uid": "bFHGoNdOBy8",
+  "question": "In the video, cooking master Zeng Wenhong explains why he dips the cut lobsters in cornstarch before frying them when making the flavored lobster.",
+  "answer": "To lock in the freshness of the lobster",
+  "choices": [
+   "To absorb excess moisture from the lobster",
+   "To lock in the freshness of the lobster",
+   "To create a protective layer against oil absorption",
+   "To enhance the crispiness of the lobster shell",
+   "To give the lobster a golden-brown color",
+   "To make the lobster more tender",
+   "To prevent the lobster meat from sticking to the pan"
+  ],
+  "right_answer": "B",
+  "clue_intervals": [
+   [
+    621,
+    626
+   ]
+  ],
+  "domain": "Art & Culture",
+  "sub_category": "Event Cognition",
+  "duration": 1488,
+  "group": "Event Cognition",
+  "source": "YouTube"
+ },
+ {
+  "qid": 1363,
+  "video_uid": "BV16P411g76p",
+  "question": "When the protagonist in the video was doing a taste test, in what order did he smell the smells from the test strips he received from the staff?",
+  "answer": "1. Vanilla 2. Almond sugar 3. Orange 4. Pineapple",
+  "choices": [
+   "1. Cinnamon 2. Chocolate 3. Rose 4. Blueberry",
+   "1. Banana 2. Caramel 3. Apple 4. Berry",
+   "1. Vanilla 2. Almond sugar 3. Orange 4. Pineapple",
+   "1. Coconut 2. Licorice 3. Lavender 4. Mango",
+   "1. Mint 2. Floral 3. Coffee 4. Citrus",
+   "1. Peach 2. Hazelnut 3. Lemon 4. Grapefruit",
+   "1. Cherry 2. Minty 3. Pine 4. Mushrooms"
+  ],
+  "right_answer": "C",
+  "clue_intervals": [
+   [
+    2243,
+    2253
+   ]
+  ],
+  "domain": "Special Scenes",
+  "sub_category": "Event Cognition",
+  "duration": 3536,
+  "group": "Event Cognition",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 9977,
+  "video_uid": "GopkOAIVY84",
+  "question": "In the video, the author talks about the origin of Mapo Tofu and why it is called Mapo Tofu.",
+  "answer": "Because the founder's wife had pockmarks on her face and was called Chen Mapo, people called this dish Mapo Tofu.",
+  "choices": [
+   "Because the dish includes a secret ingredient called 'Ma spice,' which gives it the name Mapo Tofu.",
+   "Because the tofu was invented in a town named Mapo, thus the name Mapo Tofu.",
+   "Because it was originally cooked by a lady who loved maps, so people called it Mapo Tofu.",
+   "Because the dish was first served in a restaurant owned by Mr. Ma, hence it was named Mapo Tofu.",
+   "Because the dish was created for a celebration called 'Mapo Festival,' making it Mapo Tofu.",
+   "Because the founder's wife had pockmarks on her face and was called Chen Mapo, people called this dish Mapo Tofu."
+  ],
+  "right_answer": "F",
+  "clue_intervals": [
+   [
+    326,
+    339
+   ]
+  ],
+  "domain": "Music & TV show",
+  "sub_category": "Event Cognition",
+  "duration": 3313,
+  "group": "Event Cognition",
+  "source": "YouTube"
+ },
+ {
+  "qid": 9246,
+  "video_uid": "BV1Kk4y1r7rv",
+  "question": "At the start of the second game in the video, which side won the second ball?",
+  "answer": "Lee won",
+  "choices": [
+   "Park secured",
+   "Choi claimed it",
+   "Lim triumphed",
+   "Kim won",
+   "Wang claimed it",
+   "Zhao secured",
+   "Chen won",
+   "Lee won"
+  ],
+  "right_answer": "H",
+  "clue_intervals": [
+   [
+    381,
+    385
+   ]
+  ],
+  "domain": "Sports & Exercise",
+  "sub_category": "Event Perception",
+  "duration": 825,
+  "group": "Event Perception",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 10839,
+  "video_uid": "BV1Bt421V78h",
+  "question": "What did the protagonist do after the subtitles in the video said \"Actually, I know that you and I will love each other passionately\"?",
+  "answer": "Start dancing",
+  "choices": [
+   "Begin a monologue",
+   "Start clapping",
+   "Smile at the audience",
+   "Wave to the crowd",
+   "Pick up a prop",
+   "Bow deeply",
+   "Start singing",
+   "Start dancing"
+  ],
+  "right_answer": "H",
+  "clue_intervals": [
+   [
+    699,
+    706
+   ]
+  ],
+  "domain": "Music & TV show",
+  "sub_category": "Event Perception",
+  "duration": 896,
+  "group": "Event Perception",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 5033,
+  "video_uid": "BV1NX4y147pM",
+  "question": "In the video, what happened after the flight attendant fired the flare?",
+  "answer": "The rescue helicopter is coming.",
+  "choices": [
+   "The passengers started cheering and clapping.",
+   "A nearby boat launched a rescue mission.",
+   "The flight crew began to hand out safety vests.",
+   "The fire alarm on the plane went off.",
+   "The rescue helicopter is coming.",
+   "The signal flare attracted a passing ship.",
+   "The weather turned stormy suddenly."
+  ],
+  "right_answer": "E",
+  "clue_intervals": [
+   [
+    804,
+    815
+   ]
+  ],
+  "domain": "Security & Health",
+  "sub_category": "Event Perception",
+  "duration": 900,
+  "group": "Event Perception",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 3868,
+  "video_uid": "BV1Ws4y177So",
+  "question": "In the video, what are the colors of the three headbands that the protagonist puts in the suitcase? 1 blue, 2 purple, 3 green, 4 pink",
+  "answer": "1, 3 and 4",
+  "choices": [
+   "2, 3 and 4",
+   "1 and 4",
+   "Only 2",
+   "1 and 3",
+   "1, 2 and 4",
+   "1, 3 and 4"
+  ],
+  "right_answer": "F",
+  "clue_intervals": [
+   [
+    420,
+    425
+   ]
+  ],
+  "domain": "Instruction & Knowledge",
+  "sub_category": "Hallucination",
+  "duration": 1669,
+  "group": "Hallucination",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 9858,
+  "video_uid": "qNU5q5a97v8",
+  "question": "In the video, what color are the chips on the table? Which option is correct? 1. Black, 2. Yellow, 3. White, 4. Blue, 5. Green, 6. Red",
+  "answer": "1 and 2",
+  "choices": [
+   "4 and 5",
+   "1 and 2",
+   "2 and 4",
+   "1 and 4",
+   "1 and 3",
+   "3 and 5"
+  ],
+  "right_answer": "B",
+  "clue_intervals": [
+   [
+    82,
+    89
+   ]
+  ],
+  "domain": "Embodied Expert",
+  "sub_category": "Hallucination",
+  "duration": 1121,
+  "group": "Hallucination",
+  "source": "YouTube"
+ },
+ {
+  "qid": 7909,
+  "video_uid": "BV1yj421S7NZ",
+  "question": "In the video, the protagonist introduces what he used the money earned in the previous video to upgrade? 1 Golden Axe, 2 Silver Axe, 3 Golden Draft",
+  "answer": "1 and 3",
+  "choices": [
+   "Only 3",
+   "1, 2 and 3",
+   "Only 2",
+   "2 and 3",
+   "1 and 3",
+   "1 and 2"
+  ],
+  "right_answer": "E",
+  "clue_intervals": [
+   [
+    5,
+    15
+   ]
+  ],
+  "domain": "Electonic/Social Gaming",
+  "sub_category": "Hallucination",
+  "duration": 768,
+  "group": "Hallucination",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 8367,
+  "video_uid": "BV1dW41187XP",
+  "question": "In the video, how many people are there in the first scene where the harp is played?",
+  "answer": "2",
+  "choices": [
+   "0",
+   "3",
+   "1",
+   "2",
+   "4",
+   "5"
+  ],
+  "right_answer": "D",
+  "clue_intervals": [
+   [
+    115,
+    120
+   ]
+  ],
+  "domain": "Music & TV show",
+  "sub_category": "Scene Cognition",
+  "duration": 745,
+  "group": "Scene Cognition",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 6679,
+  "video_uid": "BV1cE411a7m8",
+  "question": "In the video, how many people were standing next to the host at the beginning?",
+  "answer": "2",
+  "choices": [
+   "3",
+   "2",
+   "1",
+   "5",
+   "0",
+   "4"
+  ],
+  "right_answer": "B",
+  "clue_intervals": [
+   [
+    10,
+    20
+   ]
+  ],
+  "domain": "Music & TV show",
+  "sub_category": "Scene Cognition",
+  "duration": 1530,
+  "group": "Scene Cognition",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 10719,
+  "video_uid": "Us-XA2BRLgg",
+  "question": "In the video, at the end of the video, the protagonist and the man in orange clothes go in and out of the cave. What is the weather like outside?",
+  "answer": "From day to night",
+  "choices": [
+   "From day to night",
+   "From evening to midnight",
+   "From dawn to dusk",
+   "From night to morning",
+   "From dusk till dawn",
+   "From twilight to dawn"
+  ],
+  "right_answer": "A",
+  "clue_intervals": [
+   [
+    1299,
+    1315
+   ]
+  ],
+  "domain": "Embodied Expert",
+  "sub_category": "Scene Cognition",
+  "duration": 1316,
+  "group": "Scene Cognition",
+  "source": "YouTube"
+ },
+ {
+  "qid": 5597,
+  "video_uid": "j3Qx97oiTy8",
+  "question": "What was the environment like around the man who was participating in the fight in the video when he was describing the fight?",
+  "answer": "In the room",
+  "choices": [
+   "In the arena",
+   "In the room",
+   "On the street",
+   "On the rooftop",
+   "In the office",
+   "In the park",
+   "At the bar"
+  ],
+  "right_answer": "B",
+  "clue_intervals": [
+   [
+    670.0,
+    674.0
+   ]
+  ],
+  "domain": "News",
+  "sub_category": "Scene Perception",
+  "duration": 1252,
+  "group": "Scene Perception",
+  "source": "YouTube"
+ },
+ {
+  "qid": 10694,
+  "video_uid": "itLU01D3jJ4",
+  "question": "In the video, when the subtitle \"I realized I hardly drove recently\" appeared, what did the sky look like?",
+  "answer": "Half blue sky and half white clouds",
+  "choices": [
+   "Completely blue sky with no clouds",
+   "Mostly clear sky with scattered clouds",
+   "Half gray sky and half dark clouds",
+   "Overcast sky with thick white clouds",
+   "Partly sunny with patches of gray clouds",
+   "Half blue sky and half white clouds"
+  ],
+  "right_answer": "F",
+  "clue_intervals": [
+   [
+    990,
+    996
+   ]
+  ],
+  "domain": "Instruction & Knowledge",
+  "sub_category": "Scene Perception",
+  "duration": 1516,
+  "group": "Scene Perception",
+  "source": "YouTube"
+ },
+ {
+  "qid": 9542,
+  "video_uid": "nF_9vOv_1dY",
+  "question": "In the video, where are the protagonists?",
+  "answer": "zoo",
+  "choices": [
+   "aquarium",
+   "amusement park",
+   "zoo",
+   "resort",
+   "safari park",
+   "wildlife sanctuary",
+   "botanical garden"
+  ],
+  "right_answer": "C",
+  "clue_intervals": [
+   [
+    0,
+    10
+   ]
+  ],
+  "domain": "Life Record",
+  "sub_category": "Scene Perception",
+  "duration": 1829,
+  "group": "Scene Perception",
+  "source": "YouTube"
+ },
+ {
+  "qid": 10435,
+  "video_uid": "PlxWf493en4",
+  "question": "In the video, the protagonist is typing on his computer and types the letters b and r. On which side of the letter r is the letter b?",
+  "answer": "The letter b is to the left of the letter r",
+  "choices": [
+   "The letter b is below the letter r",
+   "The letter b is to the right of the letter r",
+   "The letter b is diagonally left of the letter r",
+   "The letter b is adjacent to the right of the letter r",
+   "The letter b is behind the letter r",
+   "The letter b is above the letter r",
+   "The letter b is to the left of the letter r"
+  ],
+  "right_answer": "G",
+  "clue_intervals": [
+   [
+    793,
+    797
+   ]
+  ],
+  "domain": "GUI",
+  "sub_category": "Text Cognition",
+  "duration": 2003,
+  "group": "Text Cognition",
+  "source": "YouTube"
+ },
+ {
+  "qid": 2872,
+  "video_uid": "BV15G411e7eq",
+  "question": "How much is the first cake eaten by the protagonist in the video?",
+  "answer": "42",
+  "choices": [
+   "44",
+   "24",
+   "43",
+   "32",
+   "52",
+   "42",
+   "41"
+  ],
+  "right_answer": "F",
+  "clue_intervals": [
+   [
+    179.714466016129,
+    187.46685474623655
+   ]
+  ],
+  "domain": "Life Record",
+  "sub_category": "Text Cognition",
+  "duration": 655,
+  "group": "Text Cognition",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 11904,
+  "video_uid": "BV1VkpdewEBz",
+  "question": "In the video, when the subtitles mention \"The European Emperor is about to arrive at Shilihe Station\", on which line does the word \"Jinsong\" appear?",
+  "answer": "First row",
+  "choices": [
+   "First row",
+   "Last row",
+   "Third row",
+   "Fourth row",
+   "Fifth row",
+   "Second row"
+  ],
+  "right_answer": "A",
+  "clue_intervals": [
+   [
+    390,
+    400
+   ]
+  ],
+  "domain": "Electonic/Social Gaming",
+  "sub_category": "Text Cognition",
+  "duration": 3000,
+  "group": "Text Cognition",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 11551,
+  "video_uid": "BV1Qc411L7v1",
+  "question": "In the video, when the subtitle \"This sample by 2mkarrsa\" appears, what is the URL displayed on the screen?",
+  "answer": "127.0.0.1:7860",
+  "choices": [
+   "127.0.0.1:1234",
+   "127.0.0.1:7860",
+   "localhost:8000",
+   "192.168.0.1:8900",
+   "192.168.1.1:7860",
+   "10.0.0.2:7860",
+   "127.0.0.1:8080"
+  ],
+  "right_answer": "B",
+  "clue_intervals": [
+   [
+    1162,
+    1165
+   ]
+  ],
+  "domain": "GUI",
+  "sub_category": "Text Perception",
+  "duration": 2041,
+  "group": "Text Perception",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 1687,
+  "video_uid": "KO4pyC5Usoc",
+  "question": "In the video, what's the number on the back of the man wearing a black sports vest and gray sports shorts?",
+  "answer": "3",
+  "choices": [
+   "3",
+   "4",
+   "7",
+   "8",
+   "6",
+   "5",
+   "9"
+  ],
+  "right_answer": "A",
+  "clue_intervals": [
+   [
+    174,
+    180
+   ]
+  ],
+  "domain": "Embodied Expert",
+  "sub_category": "Text Perception",
+  "duration": 1713,
+  "group": "Text Perception",
+  "source": "YouTube"
+ },
+ {
+  "qid": 7882,
+  "video_uid": "BV14z4y1u7CA",
+  "question": "In the video, when the woman with bangs raised her phone, what time was displayed on the phone?",
+  "answer": "03:11",
+  "choices": [
+   "03:21",
+   "03:11",
+   "03:10",
+   "03:14",
+   "03:01",
+   "03:12",
+   "03:15",
+   "03:13"
+  ],
+  "right_answer": "B",
+  "clue_intervals": [
+   [
+    1110,
+    1120
+   ]
+  ],
+  "domain": "Electonic/Social Gaming",
+  "sub_category": "Text Perception",
+  "duration": 1197,
+  "group": "Text Perception",
+  "source": "Bilibili"
+ },
+ {
+  "qid": 8540,
+  "video_uid": "bFHGoNdOBy8",
+  "question": "In the video, how long did the cooking master Li Yongzhou steam the Puning soy milk bamboo shoot fish in the pot?",
+  "answer": "8 minutes",
+  "choices": [
+   "9 minutes",
+   "7 minutes",
+   "5 minutes",
+   "10 minutes",
+   "8 minutes",
+   "12 minutes",
+   "6 minutes"
+  ],
+  "right_answer": "E",
+  "clue_intervals": [
+   [
+    579,
+    585
+   ]
+  ],
+  "domain": "Art & Culture",
+  "sub_category": "Time Cognition",
+  "duration": 1488,
+  "group": "Time Cognition",
+  "source": "YouTube"
+ },
+ {
+  "qid": 6720,
+  "video_uid": "q1adV0O7JmA",
+  "question": "In the video, how long did the protagonist lie on the ground and stare at the dog?",
+  "answer": "About ten seconds",
+  "choices": [
+   "About ten seconds",
+   "About forty seconds",
+   "Exactly twenty-five seconds",
+   "About five seconds",
+   "About fifteen seconds",
+   "About thirty seconds",
+   "About twenty seconds",
+   "About a minute"
+  ],
+  "right_answer": "A",
+  "clue_intervals": [
+   [
+    2035,
+    2045
+   ]
+  ],
+  "domain": "Animal & Pet",
+  "sub_category": "Time Cognition",
+  "duration": 2546,
+  "group": "Time Cognition",
+  "source": "YouTube"
+ },
+ {
+  "qid": 5188,
+  "video_uid": "EbPCW49HK1c",
+  "question": "In the video, the protagonist played a video of playing tennis from a first-person perspective. How long did this video last?",
+  "answer": "14 seconds",
+  "choices": [
+   "18 seconds",
+   "14 seconds",
+   "20 seconds",
+   "22 seconds",
+   "12 seconds",
+   "16 seconds",
+   "15 seconds",
+   "10 seconds"
+  ],
+  "right_answer": "B",
+  "clue_intervals": [
+   [
+    83,
+    97
+   ]
+  ],
+  "domain": "Embodied Expert",
+  "sub_category": "Time Cognition",
+  "duration": 987,
+  "group": "Time Cognition",
+  "source": "YouTube"
+ },
+ {
+  "qid": 6017,
+  "video_uid": "NVH79ehGfY0",
+  "question": "What did the puppy do at [[1:31]] in the video?",
+  "answer": "The puppy hit the car door with its head",
+  "choices": [
+   "The puppy sat by the car door",
+   "The puppy wagged its tail at the car door",
+   "The puppy scratched the car door with its paw",
+   "The puppy barked at the car door",
+   "The puppy hit the car door with its head",
+   "The puppy nudged the car door with its nose",
+   "The puppy sniffed the car door",
+   "The puppy jumped over the car door"
+  ],
+  "right_answer": "E",
+  "clue_intervals": [
+   [
+    91,
+    95
+   ]
+  ],
+  "domain": "Humor/funny",
+  "sub_category": "Time Perception",
+  "duration": 1134,
+  "group": "Time Perception",
+  "source": "YouTube"
+ },
+ {
+  "qid": 11090,
+  "video_uid": "k_32gc72950",
+  "question": "What product is the protagonist looking at in the video when he is in the interval [[273,279]]?",
+  "answer": "cigarette",
+  "choices": [
+   "cigarette",
+   "matches",
+   "lighter",
+   "tobacco",
+   "cigar",
+   "vape",
+   "ashtray"
+  ],
+  "right_answer": "A",
+  "clue_intervals": [
+   [
+    263,
+    269
+   ]
+  ],
+  "domain": "Life Record",
+  "sub_category": "Time Perception",
+  "duration": 2296,
+  "group": "Time Perception",
+  "source": "YouTube"
+ },
+ {
+  "qid": 10582,
+  "video_uid": "ypKuDJ-26LM",
+  "question": "At what point in the video did the protagonist discover the water source?",
+  "answer": "2 minutes 56 seconds",
+  "choices": [
+   "2 minutes 54 seconds",
+   "2 minutes 51 seconds",
+   "3 minutes 02 seconds",
+   "2 minutes 59 seconds",
+   "3 minutes 06 seconds",
+   "2 minutes 56 seconds",
+   "3 minutes 15 seconds",
+   "2 minutes 47 seconds"
+  ],
+  "right_answer": "F",
+  "clue_intervals": [
+   [
+    170,
+    180
+   ]
+  ],
+  "domain": "Special Scenes",
+  "sub_category": "Time Perception",
+  "duration": 1358,
+  "group": "Time Perception",
+  "source": "YouTube"
+ }
+]

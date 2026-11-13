@@ -1,0 +1,1285 @@
+[
+ {
+  "id": "kbRtl58u_kk_0",
+  "video_id": "kbRtl58u_kk",
+  "video_path": "kbRtl58u_kk.mp4",
+  "question": "In a dark room, there is a rotating fan hanging. When the screen displays white subtitles saying 'i watch all ur vedeo', what is a short-haired man wearing a green short-sleeved shirt doing?",
+  "question_wo_referring_query": "What is he doing?",
+  "candidates": [
+   "He is preparing to change clothes.",
+   "He is preparing to turn off the fan.",
+   "He is touching his own hair.",
+   "He is looking at the electric fan."
+  ],
+  "correct_choice": 3,
+  "question_category": "S2E",
+  "topic_category": "LT-Lifestyle-Travel-Guides",
+  "level": "L1-Perception",
+  "duration": 7.98,
+  "duration_group": 15,
+  "position": [
+   44
+  ],
+  "group": "Scene-referred Event (S2E)",
+  "clip": "longvideobench/s2e-1.mp4"
+ },
+ {
+  "id": "u5NAcHhI_Uc_0",
+  "video_id": "u5NAcHhI_Uc",
+  "video_path": "u5NAcHhI_Uc.mp4",
+  "question": "The screen shows a completely black background with a drawing of a soldier. He is wearing a uniform, has bullets hanging on his body, and is holding a gun. What is this soldier doing?",
+  "question_wo_referring_query": ", what is this soldier doing?",
+  "candidates": [
+   "The soldier is looking upwards",
+   "The soldier is saluting",
+   "The soldier is looking to the left",
+   "The soldier is looking to the right",
+   "The soldier is standing straight"
+  ],
+  "correct_choice": 4,
+  "question_category": "S2E",
+  "topic_category": "KH-Knowledge-History",
+  "level": "L1-Perception",
+  "duration": 8.0,
+  "duration_group": 15,
+  "position": [
+   178
+  ],
+  "group": "Scene-referred Event (S2E)",
+  "clip": "longvideobench/s2e-2.mp4"
+ },
+ {
+  "id": "lnCPn8gX3FU_0",
+  "video_id": "lnCPn8gX3FU",
+  "video_path": "lnCPn8gX3FU.mp4",
+  "question": "In a restaurant, what is the man wearing a white shirt and a gray patterned jacket doing, standing to the right of a black-haired girl with Liu Hai hairstyle in white clothes?",
+  "question_wo_referring_query": "What is the man wearing a white shirt and a gray patterned jacket doing?",
+  "candidates": [
+   "Hugging the girl",
+   "Pulling the girl next to him and looking at her",
+   "Pinching the girl's cheek",
+   "Kissing",
+   "Touching the girl's head"
+  ],
+  "correct_choice": 1,
+  "question_category": "S2E",
+  "topic_category": "Recreational: MR-Movie-Recaps",
+  "level": "L1-Perception",
+  "duration": 8.01,
+  "duration_group": 60,
+  "position": [
+   123
+  ],
+  "group": "Scene-referred Event (S2E)",
+  "clip": "longvideobench/s2e-3.mp4"
+ },
+ {
+  "id": "VPcdtoldWCA_0",
+  "video_id": "VPcdtoldWCA",
+  "video_path": "VPcdtoldWCA.mp4",
+  "question": "In the cold winter, a simple kitchen made of wood was built; the kitchen has many food ingredients piled up. Which ingredient is currently being cut?",
+  "question_wo_referring_query": "Which ingredient is currently being cut?",
+  "candidates": [
+   "Onion",
+   "Tomato",
+   "Potato",
+   "Chili Pepper",
+   "Pumpkin"
+  ],
+  "correct_choice": 0,
+  "question_category": "S2O",
+  "topic_category": "LC-Lifestyle-Cooking-Recipes",
+  "level": "L1-Perception",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   94
+  ],
+  "group": "Scene-referred Object Existence (S2O)",
+  "clip": "longvideobench/s2o-1.mp4"
+ },
+ {
+  "id": "8Qe03WDCrB4_0",
+  "video_id": "8Qe03WDCrB4",
+  "video_path": "8Qe03WDCrB4.mp4",
+  "question": "In the scene, there is a group of people, young and old, male and female, gathered in front of a building watching a performance on a stage. What object exists in this scene?",
+  "question_wo_referring_query": "What object exists in this scene?",
+  "candidates": [
+   "Basketball",
+   "Olive",
+   "Soccer ball",
+   "Ping pong ball",
+   "Balloon"
+  ],
+  "correct_choice": 2,
+  "question_category": "S2O",
+  "topic_category": "Recreational: MR-Movie-Recaps",
+  "level": "L1-Perception",
+  "duration": 8.01,
+  "duration_group": 60,
+  "position": [
+   74
+  ],
+  "group": "Scene-referred Object Existence (S2O)",
+  "clip": "longvideobench/s2o-2.mp4"
+ },
+ {
+  "id": "FoeeEQ0VVFE_0",
+  "video_id": "FoeeEQ0VVFE",
+  "video_path": "FoeeEQ0VVFE.mp4",
+  "question": "When a soldier, crouching and using a gun mechanism, and wearing a camouflage helmet is in combat with the enemy, what object appears on the screen?",
+  "question_wo_referring_query": "When a soldier, crouching and using a gun mechanism, and wearing a camouflage helmet is in combat with the enemy, what object appears on the screen?",
+  "candidates": [
+   "Bur",
+   "Grenade",
+   "Handgun",
+   "Sword",
+   "Rifle"
+  ],
+  "correct_choice": 0,
+  "question_category": "S2O",
+  "topic_category": "KH-Knowledge-History",
+  "level": "L1-Perception",
+  "duration": 11.0,
+  "duration_group": 15,
+  "position": [
+   72
+  ],
+  "group": "Scene-referred Object Existence (S2O)",
+  "clip": "longvideobench/s2o-3.mp4"
+ },
+ {
+  "id": "5Hn1UhlLphk_0",
+  "video_id": "5Hn1UhlLphk",
+  "video_path": "5Hn1UhlLphk.mp4",
+  "question": "In the scene, a woman is standing in the kitchen wearing an apron. Behind her are white cabinets with many items on the counter, including cutting boards, bowls, small appliances, and bottles. Next to her on the counter is a microwave, along with two small bowls and a small bottle. The woman has light brown hair and is wearing a blue outfit. What is the shape of the picture on the wall behind the counter where she is standing?",
+  "question_wo_referring_query": "What is the shape of the picture on the wall behind the counter where she is standing?",
+  "candidates": [
+   "Pentagon",
+   "Square",
+   "Octagon",
+   "Hexagon",
+   "Rectangle"
+  ],
+  "correct_choice": 3,
+  "question_category": "S2A",
+  "topic_category": "LC-Lifestyle-Cooking-Recipes",
+  "level": "L1-Perception",
+  "duration": 7.97,
+  "duration_group": 15,
+  "position": [
+   141
+  ],
+  "group": "Scene-referred Object Attribute (S2A)",
+  "clip": "longvideobench/s2a-1.mp4"
+ },
+ {
+  "id": "_kQXNFG664Y_0",
+  "video_id": "_kQXNFG664Y",
+  "video_path": "_kQXNFG664Y.mp4",
+  "question": "In a corner of a bedroom, a short-haired woman wearing an olive green tank top is sitting in front of a bed. To the right is a bookshelf filled with books. What color is the bookshelf in the screen?",
+  "question_wo_referring_query": "In a corner of a bedroom, a short-haired woman wearing an olive green tank top is sitting in front of a bed. To the right is a bookshelf filled with books. What color is the bookshelf in the screen?",
+  "candidates": [
+   "A three-layer pink bookshelf",
+   "A three-layer blue bookshelf",
+   "A four-layer red bookshelf",
+   "A five-layer orange bookshelf"
+  ],
+  "correct_choice": 3,
+  "question_category": "S2A",
+  "topic_category": "LV-Lifestyle-Life-Vlogs",
+  "level": "L1-Perception",
+  "duration": 8.0,
+  "duration_group": 15,
+  "position": [
+   40
+  ],
+  "group": "Scene-referred Object Attribute (S2A)",
+  "clip": "longvideobench/s2a-2.mp4"
+ },
+ {
+  "id": "1IpgyV9u5nE_0",
+  "video_id": "1IpgyV9u5nE",
+  "video_path": "1IpgyV9u5nE.mp4",
+  "question": "The sky is already late, a man under a dim yellow streetlamp with his right hand slightly clenched is looking at a mirror. What clothes is he wearing?",
+  "question_wo_referring_query": "What clothes is he wearing?",
+  "candidates": [
+   "He is wearing a red top",
+   "He is wearing a red short-sleeved shirt",
+   "Wearing a light yellow windbreaker",
+   "Wearing a light yellow top"
+  ],
+  "correct_choice": 3,
+  "question_category": "S2A",
+  "topic_category": "LT-Lifestyle-Travel-Guides",
+  "level": "L1-Perception",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   24
+  ],
+  "group": "Scene-referred Object Attribute (S2A)",
+  "clip": "longvideobench/s2a-3.mp4"
+ },
+ {
+  "id": "Lf7uW4xK2bc_0",
+  "video_id": "Lf7uW4xK2bc",
+  "video_path": "Lf7uW4xK2bc.mp4",
+  "question": "In the video, there is a bowl on the table containing a white powdery substance. What color is the liquid being dripped into the bowl by the hand on screen?",
+  "question_wo_referring_query": "What color is the liquid being dripped into the bowl by the hand on screen?",
+  "candidates": [
+   "black",
+   "yellow",
+   "purple",
+   "red"
+  ],
+  "correct_choice": 3,
+  "question_category": "E2O",
+  "topic_category": "LC-Lifestyle-Cooking-Recipes",
+  "level": "L1-Perception",
+  "duration": 7.97,
+  "duration_group": 15,
+  "position": [
+   102
+  ],
+  "group": "Event-referred Object (E2O)",
+  "clip": "longvideobench/e2o-1.mp4"
+ },
+ {
+  "id": "gJuOMPiixUA_0",
+  "video_id": "gJuOMPiixUA",
+  "video_path": "gJuOMPiixUA.mp4",
+  "question": "In a white room, there is a man wearing blue clothes and earphones, and a man wearing a grey suit jacket. In the video, which person turns around and clenches their fist?",
+  "question_wo_referring_query": "In the video, which person turns around and clenches their fist?",
+  "candidates": [
+   "The man wearing a grey suit",
+   "The man wearing a grey suit and earphones",
+   "Both turned around",
+   "The man wearing blue clothes and earphones"
+  ],
+  "correct_choice": 0,
+  "question_category": "E2O",
+  "topic_category": "KA-Knowledge-Art",
+  "level": "L1-Perception",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   180
+  ],
+  "group": "Event-referred Object (E2O)",
+  "clip": "longvideobench/e2o-2.mp4"
+ },
+ {
+  "id": "@movie.explained6-7253792552996867330_0",
+  "video_id": "@movie.explained6-7253792552996867330",
+  "video_path": "7253792552996867330.mp4",
+  "question": "In a dim room, there is a black sofa. Two women are moving forward, one in a green dress and one in a pink dress. One of them is being pushed while moving forward. Who is being pushed while moving forward?",
+  "question_wo_referring_query": "Who is being pushed while moving forward?",
+  "candidates": [
+   "The woman in the green dress",
+   "The woman with a ponytail",
+   "The woman with a bun hairstyle",
+   "The woman with braided pigtails",
+   "The woman in the pink dress"
+  ],
+  "correct_choice": 4,
+  "question_category": "E2O",
+  "topic_category": "Recreational: MR-Movie-Recaps",
+  "level": "L1-Perception",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   63
+  ],
+  "group": "Event-referred Object (E2O)",
+  "clip": "longvideobench/e2o-3.mp4"
+ },
+ {
+  "id": "-if_Wg43vTk_0",
+  "video_id": "-if_Wg43vTk",
+  "video_path": "-if_Wg43vTk.mp4",
+  "question": "After the oil in the blue iron pot is heated, what was done with the glass bowl containing marinated meat that was picked up with both hands?",
+  "question_wo_referring_query": "After the oil in the blue iron pot is heated, what was done with the glass bowl containing marinated meat that was picked up with both hands?",
+  "candidates": [
+   "Poured the oil from the pot into the glass bowl.",
+   "Added a pinch of fermented bean curd.",
+   "Added white seasoning oil.",
+   "The marinated meat was poured into the pot.",
+   "Poured chili peppers into the pot."
+  ],
+  "correct_choice": 3,
+  "question_category": "O2E",
+  "topic_category": "LC-Lifestyle-Cooking-Recipes",
+  "level": "L1-Perception",
+  "duration": 8.97,
+  "duration_group": 15,
+  "position": [
+   27
+  ],
+  "group": "Object-referred Event (O2E)",
+  "clip": "longvideobench/o2e-1.mp4"
+ },
+ {
+  "id": "GHScTyR2OgQ_0",
+  "video_id": "GHScTyR2OgQ",
+  "video_path": "GHScTyR2OgQ.mp4",
+  "question": "On a red table, there is a transparent bowl, and a pair of hands wearing black gloves appear. What did the hands wearing black gloves do the first time they appeared?",
+  "question_wo_referring_query": "What did the hands wearing black gloves do the first time they appeared?",
+  "candidates": [
+   "Picked up a whisk to stir cream",
+   "Picked up a whisk to press olive oil",
+   "Picked up a whisk to beat eggs",
+   "Picked up a whisk to press tofu",
+   "Picked up a whisk to mix batter"
+  ],
+  "correct_choice": 3,
+  "question_category": "O2E",
+  "topic_category": "LC-Lifestyle-Cooking-Recipes",
+  "level": "L1-Perception",
+  "duration": 9.0,
+  "duration_group": 15,
+  "position": [
+   1
+  ],
+  "group": "Object-referred Event (O2E)",
+  "clip": "longvideobench/o2e-2.mp4"
+ },
+ {
+  "id": "@luxtravelbe-7233851486474636570_0",
+  "video_id": "@luxtravelbe-7233851486474636570",
+  "video_path": "7233851486474636570.mp4",
+  "question": "Holding two cups containing liquid, the cup on the right has some bubbles inside. In the distance, there is a sunset. What happens when the two cups touch for the first time?",
+  "question_wo_referring_query": "What happens when the two cups touch for the first time?",
+  "candidates": [
+   "A third cup appears",
+   "Bubbles appear in the left cup",
+   "The bubbles in the right cup disappear",
+   "They clink the cups again",
+   "The cups move out of the frame"
+  ],
+  "correct_choice": 4,
+  "question_category": "O2E",
+  "topic_category": "LT-Lifestyle-Travel-Guides",
+  "level": "L1-Perception",
+  "duration": 9.31,
+  "duration_group": 15,
+  "position": [
+   17
+  ],
+  "group": "Object-referred Event (O2E)",
+  "clip": "longvideobench/o2e-3.mp4"
+ },
+ {
+  "id": "2F7d7aUCmUU_0",
+  "video_id": "2F7d7aUCmUU",
+  "video_path": "2F7d7aUCmUU.mp4",
+  "question": "In a dense forest, a boy wearing a black short-sleeve shirt is sitting on a bench. When the subtitle mentions 'to positively influence us all that said', what action does the boy take?",
+  "question_wo_referring_query": "What action does the boy take when mentioned?",
+  "candidates": [
+   "Makes a fist",
+   "Waves his hand",
+   "Stands up",
+   "Claps his hands"
+  ],
+  "correct_choice": 1,
+  "question_category": "T2E",
+  "topic_category": "LV-Lifestyle-Life-Vlogs",
+  "level": "L1-Perception",
+  "duration": 7.97,
+  "duration_group": 15,
+  "position": [
+   16
+  ],
+  "group": "Text-referred Event (T2E)",
+  "clip": "longvideobench/t2e-1.mp4"
+ },
+ {
+  "id": "FH1L2Dq6964_0",
+  "video_id": "FH1L2Dq6964",
+  "video_path": "FH1L2Dq6964.mp4",
+  "question": "When 'make a marshmallow cereal treat and' is mentioned, there's a yellow pot on a gas stove in the kitchen, and on the counter, there are eggs and milk. A woman with blue hair, what is she doing?",
+  "question_wo_referring_query": "what is she doing?",
+  "candidates": [
+   "She is not holding anything in her hands.",
+   "She is holding a rectangular container full of colorful ingredients in one hand and oats in the other.",
+   "She is holding an egg in her hand.",
+   "She is holding an egg in one hand and milk in the other."
+  ],
+  "correct_choice": 1,
+  "question_category": "T2E",
+  "topic_category": "LC-Lifestyle-Cooking-Recipes",
+  "level": "L1-Perception",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   57
+  ],
+  "group": "Text-referred Event (T2E)",
+  "clip": "longvideobench/t2e-2.mp4"
+ },
+ {
+  "id": "H_b5d-rLXJU_0",
+  "video_id": "H_b5d-rLXJU",
+  "video_path": "H_b5d-rLXJU.mp4",
+  "question": "Inside a room, there is a bookshelf filled with books and a wall covered in wallpaper. A man wearing a red short sleeve shirt is sitting on a gaming chair. When mentioning 'smd, what is caught? Piper, aka resource, is a trace format multi,' what is this man doing?",
+  "question_wo_referring_query": "What is this man doing?",
+  "candidates": [
+   "He has both hands raised above his head",
+   "He has both hands crossed in front of his chest",
+   "He is doing the V-sign with both hands",
+   "He is doing the V-sign with one hand and clenching a fist with the other"
+  ],
+  "correct_choice": 2,
+  "question_category": "T2E",
+  "topic_category": "KG-Knowledge-Geography",
+  "level": "L1-Perception",
+  "duration": 10.01,
+  "duration_group": 15,
+  "position": [
+   20
+  ],
+  "group": "Text-referred Event (T2E)",
+  "clip": "longvideobench/t2e-3.mp4"
+ },
+ {
+  "id": "u-vYvqxHejY_0",
+  "video_id": "u-vYvqxHejY",
+  "video_path": "u-vYvqxHejY.mp4",
+  "question": "In the video, a blonde woman is explaining something while wearing a black coat. When the person speaking mentions 'Oh, and here's a picture of her at the printing press,' there is a shadow of her pointing to an object on the wall. What is the object present in the screen?",
+  "question_wo_referring_query": "What is the object present in the screen?",
+  "candidates": [
+   "Tree",
+   "Black and white photo",
+   "Book",
+   "Watercolor painting"
+  ],
+  "correct_choice": 1,
+  "question_category": "T2O",
+  "topic_category": "KA-Knowledge-Art",
+  "level": "L1-Perception",
+  "duration": 7.97,
+  "duration_group": 15,
+  "position": [
+   131
+  ],
+  "group": "Text-referred Object Existence (T2O)",
+  "clip": "longvideobench/t2o-1.mp4"
+ },
+ {
+  "id": "OLO19ZtdRwQ_0",
+  "video_id": "OLO19ZtdRwQ",
+  "video_path": "OLO19ZtdRwQ.mp4",
+  "question": "The video talks about famous tourist attractions. When the subtitle mentions 'ambitious Island boasting beautiful', there are a few people inside a hall, with a couple taking photos. What type of hall appears on the screen?",
+  "question_wo_referring_query": "What type of hall appears on the screen?",
+  "candidates": [
+   "Aquarium",
+   "Museum",
+   "Not appeared",
+   "Gymnasium"
+  ],
+  "correct_choice": 0,
+  "question_category": "T2O",
+  "topic_category": "LT-Lifestyle-Travel-Guides",
+  "level": "L1-Perception",
+  "duration": 8.98,
+  "duration_group": 15,
+  "position": [
+   112
+  ],
+  "group": "Text-referred Object Existence (T2O)",
+  "clip": "longvideobench/t2o-2.mp4"
+ },
+ {
+  "id": "8urCPp_yhWs_0",
+  "video_id": "8urCPp_yhWs",
+  "video_path": "8urCPp_yhWs.mp4",
+  "question": "In the video, a desert scene appears at dusk. When the subtitle mentions 'so our stay here at Thousand nights was,' how many people appear on the screen?",
+  "question_wo_referring_query": "How many people appear on the screen?",
+  "candidates": [
+   "4",
+   "3",
+   "2",
+   "5"
+  ],
+  "correct_choice": 2,
+  "question_category": "T2O",
+  "topic_category": "LT-Lifestyle-Travel-Guides",
+  "level": "L1-Perception",
+  "duration": 9.0,
+  "duration_group": 15,
+  "position": [
+   203
+  ],
+  "group": "Text-referred Object Existence (T2O)",
+  "clip": "longvideobench/t2o-3.mp4"
+ },
+ {
+  "id": "GZFL58_pXPg_0",
+  "video_id": "GZFL58_pXPg",
+  "video_path": "GZFL58_pXPg.mp4",
+  "question": "On the screen, there are many advanced math problems on a piece of white paper. Among the problems, there is also a complete brain diagram. When the subtitle mentions 'an extraordinary brain that lacked the,' what color appears on the right side of the brain diagram?",
+  "question_wo_referring_query": "What color appears on the right side of the brain diagram?",
+  "candidates": [
+   "The left side of the brain diagram is gray with stained patterns.",
+   "The right side of the brain is blue with stains.",
+   "The right side of the brain diagram is gray, resembling stains.",
+   "The left side of the brain is blue with stains."
+  ],
+  "correct_choice": 2,
+  "question_category": "T2A",
+  "topic_category": "KH-Knowledge-History",
+  "level": "L1-Perception",
+  "duration": 7.97,
+  "duration_group": 15,
+  "position": [
+   78
+  ],
+  "group": "Text-referred Object Attribute (T2A)",
+  "clip": "longvideobench/t2a-1.mp4"
+ },
+ {
+  "id": "l3vxOGgAM2g_0",
+  "video_id": "l3vxOGgAM2g",
+  "video_path": "l3vxOGgAM2g.mp4",
+  "question": "When mentioning 'Music', the man wearing a white shirt, yellow jacket, and yellow pants, what type is his jacket?",
+  "question_wo_referring_query": "What type is his jacket?",
+  "candidates": [
+   "Sweater",
+   "Cotton Clothing",
+   "Coat",
+   "Jacket"
+  ],
+  "correct_choice": 3,
+  "question_category": "T2A",
+  "topic_category": "NP-News-Programs",
+  "level": "L1-Perception",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   78
+  ],
+  "group": "Text-referred Object Attribute (T2A)",
+  "clip": "longvideobench/t2a-2.mp4"
+ },
+ {
+  "id": "mHccnoh9f5w_0",
+  "video_id": "mHccnoh9f5w",
+  "video_path": "mHccnoh9f5w.mp4",
+  "question": "In a gray and hazy image, there is a terrain map with vertical and horizontal grooves in the middle, with a whitish-grayish background. When 'cover Australia or Antarctica' is mentioned, what kind of arrow appears on the screen?",
+  "question_wo_referring_query": "What kind of arrow appears on the screen?",
+  "candidates": [
+   "A blue arrow with a scissor tail",
+   "A standard red arrow",
+   "A red arrow with a scissor tail",
+   "A standard blue arrow"
+  ],
+  "correct_choice": 3,
+  "question_category": "T2A",
+  "topic_category": "KG-Knowledge-Geography",
+  "level": "L1-Perception",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   102
+  ],
+  "group": "Text-referred Object Attribute (T2A)",
+  "clip": "longvideobench/t2a-3.mp4"
+ },
+ {
+  "id": "Ge5SjsgaA4o_0",
+  "video_id": "Ge5SjsgaA4o",
+  "video_path": "Ge5SjsgaA4o.mp4",
+  "question": "In the video, a metal tray filled with baked round food items is depicted. These items are evenly distributed across the tray and each one appears golden yellow in color. The tray is placed on a wooden table and was taken out of an oven. After taking it out, what was added to the tray?",
+  "question_wo_referring_query": "After taking it out, what was added to the tray?",
+  "candidates": [
+   "Salad",
+   "Red sauce",
+   "Fruit juice",
+   "Chopped scallions"
+  ],
+  "correct_choice": 1,
+  "question_category": "E3E",
+  "topic_category": "LC-Lifestyle-Cooking-Recipes",
+  "level": "L2-Relation",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   71,
+   90
+  ],
+  "group": "Event before/after Event (E3E)",
+  "clip": "longvideobench/e3e-1.mp4"
+ },
+ {
+  "id": "@jonijawne-7318074908645264645_0",
+  "video_id": "@jonijawne-7318074908645264645",
+  "video_path": "7318074908645264645.mp4",
+  "question": "A light-colored building is located on the left side of the screen, with exquisite carvings on its walls. At the entrance at the front of the building, a red UNIQLO sign is hanging. The entrance area is surrounded by a crowd of pedestrians. After the camera finishes filming the entrance of UNIQLO, what does it film next?",
+  "question_wo_referring_query": "What does the camera film next?",
+  "candidates": [
+   "It films the scene inside the UNIQLO store.",
+   "It films the art museum next door.",
+   "It films the library next door.",
+   "It films the hotel next door.",
+   "It films the restaurant next door."
+  ],
+  "correct_choice": 0,
+  "question_category": "E3E",
+  "topic_category": "LV-Lifestyle-Life-Vlogs",
+  "level": "L2-Relation",
+  "duration": 8.37,
+  "duration_group": 15,
+  "position": [
+   13,
+   80
+  ],
+  "group": "Event before/after Event (E3E)",
+  "clip": "longvideobench/e3e-2.mp4"
+ },
+ {
+  "id": "@recipesbyanne-7190395053343296774_0",
+  "video_id": "@recipesbyanne-7190395053343296774",
+  "video_path": "7190395053343296774.mp4",
+  "question": "The rectangular box is filled with brown-colored desserts, and it seems to have some white nuts inside. Chocolate sauce is drizzled over the food in the box. What happened after the chocolate sauce was drizzled on?",
+  "question_wo_referring_query": ", what happened?",
+  "candidates": [
+   "The food got burnt",
+   "The food formed into cubes",
+   "The food formed into long strips",
+   "Oats were sprinkled on the food",
+   "Yellow nuts were sprinkled on the food"
+  ],
+  "correct_choice": 1,
+  "question_category": "E3E",
+  "topic_category": "LC-Lifestyle-Cooking-Recipes",
+  "level": "L2-Relation",
+  "duration": 8.8,
+  "duration_group": 15,
+  "position": [
+   150,
+   201
+  ],
+  "group": "Event before/after Event (E3E)",
+  "clip": "longvideobench/e3e-3.mp4"
+ },
+ {
+  "id": "-QSAotqKqX8_0",
+  "video_id": "-QSAotqKqX8",
+  "video_path": "-QSAotqKqX8.mp4",
+  "question": "How many women appear in the video in total?",
+  "question_wo_referring_query": "How many women appear in the video in total?",
+  "candidates": [
+   "4 women",
+   "5 women",
+   "2 women",
+   "1 woman",
+   "3 women"
+  ],
+  "correct_choice": 3,
+  "question_category": "O3O",
+  "topic_category": "KG-Knowledge-Geography",
+  "level": "L2-Relation",
+  "duration": 7.98,
+  "duration_group": 15,
+  "position": [
+   88
+  ],
+  "group": "Object before/after Object (O3O)",
+  "clip": "longvideobench/o3o-1.mp4"
+ },
+ {
+  "id": "pJuq8D1NGJQ_0",
+  "video_id": "pJuq8D1NGJQ",
+  "video_path": "pJuq8D1NGJQ.mp4",
+  "question": "According to the video, which of the following scenes appears first?",
+  "question_wo_referring_query": "According to the video, which of the following scenes appears first?",
+  "candidates": [
+   "A green field under a blue sky with several red-walled, black-roofed buildings",
+   "A construction vehicle lifting timber",
+   "A truck driving on the road",
+   "A vast wilderness with a huge pit",
+   "A grassy area with a lakeside and a row of trees separating the grass from the lake"
+  ],
+  "correct_choice": 4,
+  "question_category": "O3O",
+  "topic_category": "KG-Knowledge-Geography",
+  "level": "L2-Relation",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   1,
+   22,
+   90
+  ],
+  "group": "Object before/after Object (O3O)",
+  "clip": "longvideobench/o3o-2.mp4"
+ },
+ {
+  "id": "Scne0ls23MA_0",
+  "video_id": "Scne0ls23MA",
+  "video_path": "Scne0ls23MA.mp4",
+  "question": "In a scene with a man in a white short-sleeve shirt, with a large rectangular account book (or register) behind him, and a brown object with a round spike at the top right corner of the screen, which of the following characters has appeared before?",
+  "question_wo_referring_query": "Which of the following characters has appeared before?",
+  "candidates": [
+   "A person wearing a blue and white headscarf and a black short-sleeve shirt",
+   "A person wearing a blue and white headscarf and a white short-sleeve shirt",
+   "A person wearing a red and white headscarf and a black short-sleeve shirt",
+   "A person wearing a red and white headscarf and a black and white striped short-sleeve shirt"
+  ],
+  "correct_choice": 3,
+  "question_category": "O3O",
+  "topic_category": "LT-Lifestyle-Travel-Guides",
+  "level": "L2-Relation",
+  "duration": 9.0,
+  "duration_group": 15,
+  "position": [
+   59,
+   145
+  ],
+  "group": "Object before/after Object (O3O)",
+  "clip": "longvideobench/o3o-3.mp4"
+ },
+ {
+  "id": "@healthfood-7115052132578921774_0",
+  "video_id": "@healthfood-7115052132578921774",
+  "video_path": "7115052132578921774.mp4",
+  "question": "Which of the following sequences of events is correct?",
+  "question_wo_referring_query": "Which of the following sequences of events is correct?",
+  "candidates": [
+   "First, pour olive oil into the iron pot, then demonstrate the olive oil in the pot against the background of a white cabinet and wooden countertop, and finally demonstrate the olive oil with dark green packaging and glass bottle.",
+   "First, demonstrate the olive oil in the pot against the background of a white cabinet and wooden countertop, then pour the olive oil into the iron pot, and finally demonstrate the olive oil with dark green packaging and glass bottle.",
+   "First, demonstrate the olive oil with dark green packaging and glass bottle, then pour the olive oil into the iron pot, and finally demonstrate the olive oil in the pot against the background of a white cabinet and wooden countertop.",
+   "First, pour olive oil into the iron pot, then demonstrate the olive oil with dark green packaging and glass bottle, and finally demonstrate the olive oil in the pot against the background of a white cabinet and wooden countertop.",
+   "First, demonstrate the olive oil with dark green packaging and glass bottle, then demonstrate the olive oil in the pot against the background of a white cabinet and wooden countertop, and finally pour the olive oil into the iron pot."
+  ],
+  "correct_choice": 2,
+  "question_category": "SSS",
+  "topic_category": "LC-Lifestyle-Cooking-Recipes",
+  "level": "L2-Relation",
+  "duration": 8.57,
+  "duration_group": 15,
+  "position": [
+   35,
+   86,
+   152
+  ],
+  "group": "Sequence of Scenes (SSS)",
+  "clip": "longvideobench/sss-1.mp4"
+ },
+ {
+  "id": "@jess.morg-7079970495499717934_0",
+  "video_id": "@jess.morg-7079970495499717934",
+  "video_path": "7079970495499717934.mp4",
+  "question": "What is the correct order of the following scenes?",
+  "question_wo_referring_query": "What is the correct order of the following scenes?",
+  "candidates": [
+   "First, a red heart-shaped screen, then a dimly lit street scene, followed by a gas station screen.",
+   "First, a gas station screen, then a dimly lit street scene, followed by a red heart-shaped screen.",
+   "First, a dimly lit street scene, then a gas station screen, followed by a red heart-shaped screen.",
+   "First, a gas station screen, then a red heart-shaped screen, followed by a dimly lit street scene.",
+   "First, a dimly lit street scene, then a red heart-shaped screen, followed by a gas station screen."
+  ],
+  "correct_choice": 0,
+  "question_category": "SSS",
+  "topic_category": "LV-Lifestyle-Life-Vlogs",
+  "level": "L2-Relation",
+  "duration": 9.17,
+  "duration_group": 15,
+  "position": [
+   2,
+   48,
+   106
+  ],
+  "group": "Sequence of Scenes (SSS)",
+  "clip": "longvideobench/sss-2.mp4"
+ },
+ {
+  "id": "WHxBO7XecSY_0",
+  "video_id": "WHxBO7XecSY",
+  "video_path": "WHxBO7XecSY.mp4",
+  "question": "Which of the following video sequences is correct?",
+  "question_wo_referring_query": "Which of the following video sequences is correct?",
+  "candidates": [
+   "First, a computer webpage with a picture of a mobile phone card, then a man wearing a black short-sleeve sitting in an office talks to the camera, and finally, a hand wearing a silver ring is using a mobile phone.",
+   "First, a man wearing a black short-sleeve sitting in an office talks to the camera, then a hand wearing a silver ring is using a mobile phone, and finally, a computer webpage with a picture of a mobile phone card.",
+   "First, a man wearing a black short-sleeve sitting in an office talks to the camera, then a computer webpage with a picture of a mobile phone card, and finally, a hand wearing a silver ring is using a mobile phone.",
+   "First, a hand wearing a silver ring is using a mobile phone, then a computer webpage with a picture of a mobile phone card, and finally, a man wearing a black short-sleeve sitting in an office talks to the camera.",
+   "First, a hand wearing a silver ring is using a mobile phone, then a man wearing a black short-sleeve sitting in an office talks to the camera, and finally, a computer webpage with a picture of a mobile phone card."
+  ],
+  "correct_choice": 4,
+  "question_category": "SSS",
+  "topic_category": "LT-Lifestyle-Travel-Guides",
+  "level": "L2-Relation",
+  "duration": 12.01,
+  "duration_group": 15,
+  "position": [
+   35,
+   90,
+   162
+  ],
+  "group": "Sequence of Scenes (SSS)",
+  "clip": "longvideobench/sss-3.mp4"
+ },
+ {
+  "id": "UM0VOrAtnPA_0",
+  "video_id": "UM0VOrAtnPA",
+  "video_path": "UM0VOrAtnPA.mp4",
+  "question": "There is a blonde woman sitting on a chair wearing a long skirt and reading a book. Where else has the book she's holding appeared?",
+  "question_wo_referring_query": "Where else has the book she's holding appeared?",
+  "candidates": [
+   "On the table",
+   "On the ground",
+   "On the sofa",
+   "On the chair"
+  ],
+  "correct_choice": 0,
+  "question_category": "SOS",
+  "topic_category": "LV-Lifestyle-Life-Vlogs",
+  "level": "L2-Relation",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   38,
+   96
+  ],
+  "group": "Scene-referred Object Tracking (SOS)",
+  "clip": "longvideobench/sos-1.mp4"
+ },
+ {
+  "id": "@jess.morg-7272881154838023467_0",
+  "video_id": "@jess.morg-7272881154838023467",
+  "video_path": "7272881154838023467.mp4",
+  "question": "Under the blue sky, a flock of seagulls is soaring. There are white characters in the center of the screen. In what other scenes have this flock of seagulls appeared?",
+  "question_wo_referring_query": "In what other scenes have this flock of seagulls appeared?",
+  "candidates": [
+   "Giant rocks by the sea",
+   "Cliff by the sea",
+   "Volleyball net on the beach",
+   "Branches on the beach",
+   "The sea where the tourists sail a red boat"
+  ],
+  "correct_choice": 4,
+  "question_category": "SOS",
+  "topic_category": "LV-Lifestyle-Life-Vlogs",
+  "level": "L2-Relation",
+  "duration": 9.83,
+  "duration_group": 15,
+  "position": [
+   153,
+   192
+  ],
+  "group": "Scene-referred Object Tracking (SOS)",
+  "clip": "longvideobench/sos-2.mp4"
+ },
+ {
+  "id": "@jonijawne-7184469162956246277_0",
+  "video_id": "@jonijawne-7184469162956246277",
+  "video_path": "7184469162956246277.mp4",
+  "question": "The man wearing a black shirt appears in the center of the screen, he's wearing sunglasses, his hair is parted in the middle, and he has a white accessory at the collar. Behind him is a green field, trees, and a white sky, with people resting on the grass. In which other locations has this man wearing sunglasses appeared?",
+  "question_wo_referring_query": "In which other locations has this man wearing sunglasses appeared?",
+  "candidates": [
+   "White sofa",
+   "Path by the water",
+   "Spacious theater",
+   "Hill in the grass field",
+   "Bench in the grass field"
+  ],
+  "correct_choice": 1,
+  "question_category": "SOS",
+  "topic_category": "LV-Lifestyle-Life-Vlogs",
+  "level": "L2-Relation",
+  "duration": 10.87,
+  "duration_group": 15,
+  "position": [
+   50,
+   174
+  ],
+  "group": "Scene-referred Object Tracking (SOS)",
+  "clip": "longvideobench/sos-3.mp4"
+ },
+ {
+  "id": "9yQV0t5meo4_0",
+  "video_id": "9yQV0t5meo4",
+  "video_path": "9yQV0t5meo4.mp4",
+  "question": "In the scene on the wide street, there are a few cars and a few buildings in the background. What change occurred to the bird after it was on the ground?",
+  "question_wo_referring_query": "What change occurred to the bird after it was on the ground?",
+  "candidates": [
+   "Stayed in the same place",
+   "Walked on the ground",
+   "Flew onto a tree",
+   "Flew into the sky"
+  ],
+  "correct_choice": 3,
+  "question_category": "SAA",
+  "topic_category": "LV-Lifestyle-Life-Vlogs",
+  "level": "L2-Relation",
+  "duration": 9.01,
+  "duration_group": 15,
+  "position": [
+   36,
+   149
+  ],
+  "group": "Scene-referred Object Attribute Change (SAA)",
+  "clip": "longvideobench/saa-1.mp4"
+ },
+ {
+  "id": "W8w09l_mmT4_0",
+  "video_id": "W8w09l_mmT4",
+  "video_path": "W8w09l_mmT4.mp4",
+  "question": "In the kitchen, there is a man wearing a white short-sleeved patterned shirt cutting meat. In front of him, there are other side dishes, too. At the beginning, what happens to the meat being cut on the chopping board?",
+  "question_wo_referring_query": "At the beginning, what happens to the meat being cut on the chopping board?",
+  "candidates": [
+   "Thrown away",
+   "Lifted up",
+   "Fried in oil",
+   "Boiled in water"
+  ],
+  "correct_choice": 1,
+  "question_category": "SAA",
+  "topic_category": "LC-Lifestyle-Cooking-Recipes",
+  "level": "L2-Relation",
+  "duration": 9.01,
+  "duration_group": 15,
+  "position": [
+   22,
+   109
+  ],
+  "group": "Scene-referred Object Attribute Change (SAA)",
+  "clip": "longvideobench/saa-2.mp4"
+ },
+ {
+  "id": "@placesunleashed-7334544531490196741_0",
+  "video_id": "@placesunleashed-7334544531490196741",
+  "video_path": "7334544531490196741.mp4",
+  "question": "Sunlight is shining on a stone wall, beneath which is a blue sea. Two white boats are anchored on the sea, and in the distance, the sea stretches out infinitely. When the camera moves to the right, what changes on the screen?",
+  "question_wo_referring_query": "What changes on the screen?",
+  "candidates": [
+   "A cruise ship appears on the screen",
+   "The sun appears on the screen",
+   "Stars appear on the screen",
+   "An airplane appears on the screen",
+   "The moon appears on the screen"
+  ],
+  "correct_choice": 1,
+  "question_category": "SAA",
+  "topic_category": "LT-Lifestyle-Travel-Guides",
+  "level": "L2-Relation",
+  "duration": 10.5,
+  "duration_group": 15,
+  "position": [
+   81,
+   206
+  ],
+  "group": "Scene-referred Object Attribute Change (SAA)",
+  "clip": "longvideobench/saa-3.mp4"
+ },
+ {
+  "id": "14ot4DrXdds_0",
+  "video_id": "14ot4DrXdds",
+  "video_path": "14ot4DrXdds.mp4",
+  "question": "Under the golden twilight, with industrial zones emitting exhaust fumes into the sky, what happened first after the subtitle 'the water while increased levels of' appeared?",
+  "question_wo_referring_query": "What happened first?",
+  "candidates": [
+   "Two molecular structures appeared simultaneously on the screen",
+   "A structure with a black center labeled CO₂, flanked by two red molecular structures, rotated and popped up on the right side of the screen",
+   "Three molecular structures appeared simultaneously on the screen",
+   "A structure with a black center labeled CO₂, flanked by two red molecular structures, rotated and popped up on the left side of the screen",
+   "A structure with a red center labeled CO₂, flanked by two black molecular structures, rotated and popped up on the left side of the screen"
+  ],
+  "correct_choice": 3,
+  "question_category": "T3E",
+  "topic_category": "KG-Knowledge-Geography",
+  "level": "L2-Relation",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   20,
+   58
+  ],
+  "group": "Event before/after Text (T3E)",
+  "clip": "longvideobench/t3e-1.mp4"
+ },
+ {
+  "id": "VGQ_djSR7zE_0",
+  "video_id": "VGQ_djSR7zE",
+  "video_path": "VGQ_djSR7zE.mp4",
+  "question": "In the scene, a hand wearing a pair of white gloves is touching someone's neck, which shows signs of bruises. When the mention of 'The ME shows thetn an incision on the throat of one of the dead passengers. It is a deep,', what happens next?",
+  "question_wo_referring_query": "What happens next?",
+  "candidates": [
+   "A woman wearing glasses and dark clothes appears along with a man dressed in a white-gray coat.",
+   "A woman wearing glasses and dark clothes appears along with a man dressed in a black coat.",
+   "A woman wearing glasses and dark clothes appears along with a man dressed in a yellow coat.",
+   "A woman wearing glasses and dark clothes appears along with a man dressed in an olive coat.",
+   "A woman wearing glasses and dark clothes appears along with a man dressed in a gray coat."
+  ],
+  "correct_choice": 1,
+  "question_category": "T3E",
+  "topic_category": "Recreational: MR-Movie-Recaps",
+  "level": "L2-Relation",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   40,
+   141
+  ],
+  "group": "Event before/after Text (T3E)",
+  "clip": "longvideobench/t3e-2.mp4"
+ },
+ {
+  "id": "@jess.morg-7255843192677911851_0",
+  "video_id": "@jess.morg-7255843192677911851",
+  "video_path": "7255843192677911851.mp4",
+  "question": "A pile of large rocks is stacked together, with the sea right next to the rocks. As the waves crash against the rocks, white splashes are created. The colors of these rocks vary in shades. After the caption 'I don't count all the pickles on your face' appears, what happens on the screen?",
+  "question_wo_referring_query": "What happens on the screen?",
+  "candidates": [
+   "A seagull appears in the sky",
+   "A crab appears on the rocks",
+   "A woman is taking a photo with a man",
+   "A sailboat passes by on the sea",
+   "A cruise ship appears on the sea"
+  ],
+  "correct_choice": 2,
+  "question_category": "T3E",
+  "topic_category": "LV-Lifestyle-Life-Vlogs",
+  "level": "L2-Relation",
+  "duration": 9.69,
+  "duration_group": 15,
+  "position": [
+   100,
+   130
+  ],
+  "group": "Event before/after Text (T3E)",
+  "clip": "longvideobench/t3e-3.mp4"
+ },
+ {
+  "id": "CFm3bc9gqYE_0",
+  "video_id": "CFm3bc9gqYE",
+  "video_path": "CFm3bc9gqYE.mp4",
+  "question": "In the video discussing events related to the Roman soldiers, who appears before the subtitles mention 'conditions however most historians agree'?",
+  "question_wo_referring_query": "Who appears?",
+  "candidates": [
+   "Wearing short sleeves",
+   "Wearing green clothes",
+   "Not wearing a helmet",
+   "Wearing a helmet and red clothes"
+  ],
+  "correct_choice": 3,
+  "question_category": "T3O",
+  "topic_category": "KH-Knowledge-History",
+  "level": "L2-Relation",
+  "duration": 9.0,
+  "duration_group": 15,
+  "position": [
+   25,
+   57
+  ],
+  "group": "Object before/after Text (T3O)",
+  "clip": "longvideobench/t3o-1.mp4"
+ },
+ {
+  "id": "@recipesbyanne-7112477530824756486_0",
+  "video_id": "@recipesbyanne-7112477530824756486",
+  "video_path": "7112477530824756486.mp4",
+  "question": "On a wooden table, a green container pours chocolate sauce into a red cake mold. After the subtitle 'Nom, nom, nom, nom, nom, nom, nom.' appears, what is the first object shown on the screen?",
+  "question_wo_referring_query": "What is the first object shown on the screen?",
+  "candidates": [
+   "Three cake molds filled with chocolate sauce",
+   "A chocolate cake with a bite taken out of it",
+   "Cake drizzled with chocolate sauce",
+   "A bowl of jelly pieces",
+   "Cake topped with jelly pieces"
+  ],
+  "correct_choice": 0,
+  "question_category": "T3O",
+  "topic_category": "LC-Lifestyle-Cooking-Recipes",
+  "level": "L2-Relation",
+  "duration": 10.17,
+  "duration_group": 15,
+  "position": [
+   32,
+   47
+  ],
+  "group": "Object before/after Text (T3O)",
+  "clip": "longvideobench/t3o-2.mp4"
+ },
+ {
+  "id": "@jess.morg-7284004157311421742_0",
+  "video_id": "@jess.morg-7284004157311421742",
+  "video_path": "7284004157311421742.mp4",
+  "question": "A notebook computer is placed on the table, the notebook is silver-grey, and the screen frame is black. A webpage is open on the laptop screen, and a lady appears on the webpage, surrounded by text and small icons. After the subtitle 'and everyone knows' appears, what object appears on the laptop screen?",
+  "question_wo_referring_query": "What object appears on the laptop screen?",
+  "candidates": [
+   "a pair of sunglasses",
+   "a black cat",
+   "an umbrella",
+   "a black dog",
+   "a desk lamp"
+  ],
+  "correct_choice": 0,
+  "question_category": "T3O",
+  "topic_category": "LV-Lifestyle-Life-Vlogs",
+  "level": "L2-Relation",
+  "duration": 10.87,
+  "duration_group": 15,
+  "position": [
+   160,
+   180
+  ],
+  "group": "Object before/after Text (T3O)",
+  "clip": "longvideobench/t3o-3.mp4"
+ },
+ {
+  "id": "3Qv2K_0GEE0_0",
+  "video_id": "3Qv2K_0GEE0",
+  "video_path": "3Qv2K_0GEE0.mp4",
+  "question": "There is a woman in the room in the video, and there is a green plant in the room. Which caption appears with the green plant at the beginning of the video?",
+  "question_wo_referring_query": "Which caption appears with the green plant at the beginning of the video?",
+  "candidates": [
+   "no",
+   "yes",
+   "I grew my first plant when I was about six years old",
+   "ok"
+  ],
+  "correct_choice": 2,
+  "question_category": "TOS",
+  "topic_category": "LV-Lifestyle-Life-Vlogs",
+  "level": "L2-Relation",
+  "duration": 8.0,
+  "duration_group": 15,
+  "position": [
+   34,
+   181
+  ],
+  "group": "Text-referred Object Tracking (TOS)",
+  "clip": "longvideobench/tos-1.mp4"
+ },
+ {
+  "id": "QUtk5xEw1mQ_0",
+  "video_id": "QUtk5xEw1mQ",
+  "video_path": "QUtk5xEw1mQ.mp4",
+  "question": "At the beginning of the video, there is a man with greyish-white hair and a beard in front of a light purple background. He is wearing glasses and a brown coat. With which subtitles did this man appear?",
+  "question_wo_referring_query": "With which subtitles did this man appear?",
+  "candidates": [
+   "the price of man",
+   "helpless but why they are forced to pay",
+   "music",
+   "happyless but why they are forced to pay",
+   "helpful but why they are forced to pay"
+  ],
+  "correct_choice": 1,
+  "question_category": "TOS",
+  "topic_category": "NP-News-Programs",
+  "level": "L2-Relation",
+  "duration": 8.01,
+  "duration_group": 15,
+  "position": [
+   22,
+   75,
+   141
+  ],
+  "group": "Text-referred Object Tracking (TOS)",
+  "clip": "longvideobench/tos-2.mp4"
+ },
+ {
+  "id": "q2bpkhjNxf0_0",
+  "video_id": "q2bpkhjNxf0",
+  "video_path": "q2bpkhjNxf0.mp4",
+  "question": "The screen shows an animation with blue sky and white clouds, followed by a staircase. The grey staircase has an olive green slope in the middle. A rectangular object wrapped with a string is being pulled upwards along the slope. Which subtitles have appeared together with this rectangular object?",
+  "question_wo_referring_query": "Which subtitles have appeared together with this rectangular object?",
+  "candidates": [
+   "welcome",
+   "While it is important to note that this evidence comes",
+   "thak you ",
+   "h",
+   "so"
+  ],
+  "correct_choice": 1,
+  "question_category": "TOS",
+  "topic_category": "KH-Knowledge-History",
+  "level": "L2-Relation",
+  "duration": 9.01,
+  "duration_group": 15,
+  "position": [
+   19,
+   95
+  ],
+  "group": "Text-referred Object Tracking (TOS)",
+  "clip": "longvideobench/tos-3.mp4"
+ },
+ {
+  "id": "18rZLZqg6C8_0",
+  "video_id": "18rZLZqg6C8",
+  "video_path": "18rZLZqg6C8.mp4",
+  "question": "In the video, a woman wearing a white long-sleeve sweater is sitting on a chair with a tree behind her. What movement occurs with her hands after she says 'and we booked this dreamy Cup in in'?",
+  "question_wo_referring_query": "What movement occurs with her hands?",
+  "candidates": [
+   "Tightening into a prayer position with both hands",
+   "From raising hands to a prayer position with both hands",
+   "No change",
+   "From clasping hands to raising hands"
+  ],
+  "correct_choice": 2,
+  "question_category": "TAA",
+  "topic_category": "LV-Lifestyle-Life-Vlogs",
+  "level": "L2-Relation",
+  "duration": 8.0,
+  "duration_group": 15,
+  "position": [
+   71,
+   86
+  ],
+  "group": "Text-referred Object Attribute Change (TAA)",
+  "clip": "longvideobench/taa-1.mp4"
+ },
+ {
+  "id": "@movie.explained6-7275485247351901442_0",
+  "video_id": "@movie.explained6-7275485247351901442",
+  "video_path": "7275485247351901442.mp4",
+  "question": "In front of a building, a man wearing a green coat throws a punch towards a man in black clothes. The man in black dodges, and when the man in the green coat and the subtitle 'Accidentally, the eldest brother’s punch shattered everything about the sixth sibling.' appear simultaneously, what change occurs to him?",
+  "question_wo_referring_query": "What change occurs to him?",
+  "candidates": [
+   "He takes off his outer coat.",
+   "He falls to the ground.",
+   "He holds his arm with his hand.",
+   "He looks to the side as he moves past.",
+   "He raises both hands above his head."
+  ],
+  "correct_choice": 3,
+  "question_category": "TAA",
+  "topic_category": "Recreational: MR-Movie-Recaps",
+  "level": "L2-Relation",
+  "duration": 8.98,
+  "duration_group": 15,
+  "position": [
+   32,
+   196
+  ],
+  "group": "Text-referred Object Attribute Change (TAA)",
+  "clip": "longvideobench/taa-2.mp4"
+ },
+ {
+  "id": "PE32sjfN-uM_0",
+  "video_id": "PE32sjfN-uM",
+  "video_path": "PE32sjfN-uM.mp4",
+  "question": "In a hall with a half-body statue and two national flags in the background, two rows of people are sitting on the left and right sides, and two country representatives are seated in the middle. After mentioning 'remain on good terms with both the', what changes occur on the screen?",
+  "question_wo_referring_query": "What changes occur on the screen?",
+  "candidates": [
+   "The screen focuses on the original representative on the left side.",
+   "The screen focuses on the original representative on the right side.",
+   "The screen focuses on the two national flags in the background.",
+   "The screen cuts to the two rows of people on both sides."
+  ],
+  "correct_choice": 1,
+  "question_category": "TAA",
+  "topic_category": "NP-News-Programs",
+  "level": "L2-Relation",
+  "duration": 9.0,
+  "duration_group": 15,
+  "position": [
+   86,
+   110
+  ],
+  "group": "Text-referred Object Attribute Change (TAA)",
+  "clip": "longvideobench/taa-3.mp4"
+ }
+]

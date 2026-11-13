@@ -1,0 +1,74 @@
+{
+ "questions": 4500,
+ "videos": 700,
+ "subsets": {
+  "Real_Time_Visual_Understanding": 2500,
+  "Omni_Source_Understanding": 1000,
+  "Contextual_Understanding": 500,
+  "Proactive_Output": 250,
+  "Sequential_Question_Answering": 250
+ },
+ "tasks": {
+  "Object Perception": 369,
+  "Action Perception": 352,
+  "Text-Rich Understanding": 321,
+  "Clips Summarize": 317,
+  "Attribute Perception": 312,
+  "Misleading Context Recognition": 250,
+  "Anomaly Context Understanding": 250,
+  "Emotion Recognition": 250,
+  "Multimodal Alignment": 250,
+  "Scene Understanding": 250,
+  "Source Discrimination": 250,
+  "Sequential Question Answering": 250,
+  "Proactive Output": 248,
+  "Spatial Understanding": 246,
+  "Counting": 188,
+  "Event Understanding": 159,
+  "Causal Reasoning": 128,
+  "Prospective Reasoning": 108,
+  "Active Output": 2
+ },
+ "videos_per_subset": {
+  "Real_Time_Visual_Understanding": 500,
+  "Omni_Source_Understanding": 50,
+  "Sequential_Question_Answering": 50,
+  "Contextual_Understanding": 50,
+  "Proactive_Output": 50
+ },
+ "duration_s": {
+  "real": {
+   "n_videos": 499,
+   "mean": 608.8,
+   "median": 607.2,
+   "min": 90.0,
+   "max": 1389.3
+  },
+  "omni": {
+   "n_videos": 300,
+   "mean": 535.5,
+   "median": 533.3,
+   "min": 120.7,
+   "max": 1691.3
+  },
+  "sqa": {
+   "n_videos": 50,
+   "mean": 592.1,
+   "median": 583.1,
+   "min": 185.6,
+   "max": 842.6
+  },
+  "proactive": {
+   "n_videos": 50,
+   "mean": 635.2,
+   "median": 693.5,
+   "min": 181.7,
+   "max": 1200.8
+  }
+ },
+ "duration_source": "video durations measured when the streamingbench-viewer was built (per subset)",
+ "frames_required": {
+  "multiple": 2761,
+  "single": 1739
+ }
+}

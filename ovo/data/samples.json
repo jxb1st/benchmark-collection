@@ -1,0 +1,1116 @@
+[
+ {
+  "id": 34,
+  "task": "EPM",
+  "video": "Ego4D/clips/4a37144f-63cd-4729-809c-f05ec1839036.mp4",
+  "realtime": 2,
+  "question": "what color was the bag?",
+  "answer": "yellow",
+  "options": [
+   "yellow",
+   "blue",
+   "red",
+   "green"
+  ],
+  "gt": 0,
+  "group": "Episodic Memory (EPM)",
+  "task_name": "Episodic Memory",
+  "mode": "Backward Tracing",
+  "source_dataset": "Ego4D",
+  "clip_duration": 2.0,
+  "clip": "ovo/epm-34.mp4"
+ },
+ {
+  "id": 8,
+  "task": "EPM",
+  "video": "Ego4D/clips/534d9bf8-bdc5-4236-8dba-dd7b894218d2.mp4",
+  "realtime": 7,
+  "question": "How many poker cards did I hold pick?",
+  "answer": "five",
+  "options": [
+   "two",
+   "three",
+   "four",
+   "five",
+   "six"
+  ],
+  "gt": 3,
+  "group": "Episodic Memory (EPM)",
+  "task_name": "Episodic Memory",
+  "mode": "Backward Tracing",
+  "source_dataset": "Ego4D",
+  "clip_duration": 7.001995,
+  "clip": "ovo/epm-8.mp4"
+ },
+ {
+  "id": 31,
+  "task": "EPM",
+  "video": "Ego4D/clips/4a37144f-63cd-4729-809c-f05ec1839036.mp4",
+  "realtime": 15,
+  "question": "where was the phone before I picked it?",
+  "answer": "ground",
+  "options": [
+   "on the table",
+   "ground",
+   "on the mat",
+   "in the bag"
+  ],
+  "gt": 1,
+  "group": "Episodic Memory (EPM)",
+  "task_name": "Episodic Memory",
+  "mode": "Backward Tracing",
+  "source_dataset": "Ego4D",
+  "clip_duration": null,
+  "clip": "ovo/epm-31.mp4"
+ },
+ {
+  "id": 433,
+  "task": "HLD",
+  "video": "OpenEQA/014-hm3d-rsggHU7g7dh.mp4",
+  "question": "What is the blue object above the glass doors?",
+  "answer": "Unable to answer",
+  "options": [
+   "A light",
+   "A painting",
+   "A vase",
+   "Unable to answer"
+  ],
+  "gt": 3,
+  "realtime": 5,
+  "group": "Hallucination Detection (HLD)",
+  "task_name": "Hallucination Detection",
+  "mode": "Backward Tracing",
+  "source_dataset": "OpenEQA",
+  "clip_duration": 5.0,
+  "clip": "ovo/hld-433.mp4"
+ },
+ {
+  "id": 421,
+  "task": "HLD",
+  "video": "OpenEQA/032-hm3d-6s7QHgap2fW.mp4",
+  "question": "how do I go down from the above floor to the below floor?",
+  "answer": "Unable to answer",
+  "options": [
+   "Unable to answer",
+   "Jump from the top floor",
+   "Use the elevator",
+   "There is no way to go down"
+  ],
+  "gt": 0,
+  "realtime": 6,
+  "group": "Hallucination Detection (HLD)",
+  "task_name": "Hallucination Detection",
+  "mode": "Backward Tracing",
+  "source_dataset": "OpenEQA",
+  "clip_duration": 6.0,
+  "clip": "ovo/hld-421.mp4"
+ },
+ {
+  "id": 453,
+  "task": "HLD",
+  "video": "OpenEQA/016-hm3d-nrA1tAA17Yp.mp4",
+  "question": "What color are the air vents below the window?",
+  "answer": "Unable to answer",
+  "options": [
+   "White",
+   "Black",
+   "Unable to answer",
+   "Brown"
+  ],
+  "gt": 2,
+  "realtime": 7,
+  "group": "Hallucination Detection (HLD)",
+  "task_name": "Hallucination Detection",
+  "mode": "Backward Tracing",
+  "source_dataset": "OpenEQA",
+  "clip_duration": null,
+  "clip": "ovo/hld-453.mp4"
+ },
+ {
+  "id": 530,
+  "task": "ASI",
+  "video": "hirest/5JpT5RcuFUk_115_251.mp4",
+  "realtime": 2,
+  "question": "What does the person do before put light underneath",
+  "answer": "get plastic glass table",
+  "options": [
+   "get plastic glass table",
+   "use double mirror",
+   "continue to draw lines",
+   "lay it on inside"
+  ],
+  "gt": 0,
+  "group": "Action Sequence Identification (ASI)",
+  "task_name": "Action Sequence Identification",
+  "mode": "Backward Tracing",
+  "source_dataset": "hirest",
+  "clip_duration": 2.011995,
+  "clip": "ovo/asi-530.mp4"
+ },
+ {
+  "id": 532,
+  "task": "ASI",
+  "video": "hirest/LFufa6Nfc6Y_68_189.mp4",
+  "realtime": 4,
+  "question": "What does the person do before fourteen desert are there",
+  "answer": "snow look so good",
+  "options": [
+   "snow look so good",
+   "arrange all jelly into show",
+   "all can be yummy",
+   "put a jelly here"
+  ],
+  "gt": 0,
+  "group": "Action Sequence Identification (ASI)",
+  "task_name": "Action Sequence Identification",
+  "mode": "Backward Tracing",
+  "source_dataset": "hirest",
+  "clip_duration": 4.023991,
+  "clip": "ovo/asi-532.mp4"
+ },
+ {
+  "id": 609,
+  "task": "ASI",
+  "video": "star/KXCSL.mp4",
+  "realtime": 8,
+  "question": "What happened before the person closed the refrigerator?",
+  "answer": "Took the food.",
+  "options": [
+   "Put down the food.",
+   "Took the food.",
+   "Took the picture.",
+   "Put down the pillow."
+  ],
+  "gt": 2,
+  "group": "Action Sequence Identification (ASI)",
+  "task_name": "Action Sequence Identification",
+  "mode": "Backward Tracing",
+  "source_dataset": "star",
+  "clip_duration": null,
+  "clip": "ovo/asi-609.mp4"
+ },
+ {
+  "id": 966,
+  "task": "OJR",
+  "video": "Ego4D/video/ec2d6927-d5d4-4c8a-9da7-3e40345cf78f.mp4",
+  "realtime": 4.13,
+  "question": "What tool is on the ground next to the person's knee?",
+  "answer": "A sledgehammer",
+  "options": [
+   "A pair of pliers",
+   "A screwdriver",
+   "A sledgehammer",
+   "A wrench"
+  ],
+  "gt": 2,
+  "group": "Object Recognition (OJR)",
+  "task_name": "Object Recognition",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "Ego4D",
+  "clip_duration": 5.0,
+  "clip": "ovo/ojr-966.mp4"
+ },
+ {
+  "id": 841,
+  "task": "OJR",
+  "video": "YouTube_Games/m-7k8KfT9s8&list=PL3bIgEVl_gDzIfuotDjHjcXzUkB6ZvMXk&index=8.mp4",
+  "realtime": 6,
+  "question": "Who am I talking to?",
+  "answer": "A woman with a silver veil.",
+  "options": [
+   "A woman with a silver veil.",
+   "A woman with a silver mask.",
+   "A man with a golden mask.",
+   "A woman with a golden mask."
+  ],
+  "gt": 0,
+  "group": "Object Recognition (OJR)",
+  "task_name": "Object Recognition",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "YouTube_Games",
+  "clip_duration": 6.0,
+  "clip": "ovo/ojr-841.mp4"
+ },
+ {
+  "id": 884,
+  "task": "OJR",
+  "video": "AutoEvalMetaData/105.mp4",
+  "realtime": 8.79,
+  "question": "What type of ear devices is the person wearing?",
+  "answer": "Wireless earbuds",
+  "options": [
+   "Over-ear headphones",
+   "In-ear monitors",
+   "Bone conduction headphones",
+   "Wireless earbuds"
+  ],
+  "gt": 3,
+  "group": "Object Recognition (OJR)",
+  "task_name": "Object Recognition",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": null,
+  "clip": "ovo/ojr-884.mp4"
+ },
+ {
+  "id": 774,
+  "task": "STU",
+  "video": "AutoEvalMetaData/242.mp4",
+  "realtime": 4.04,
+  "question": "Where is the group gathered?",
+  "answer": "The group of people is gathered around the blue barrel, with some standing in front and others on the sides, gradually moving away.",
+  "options": [
+   "The group is gathered around the blue barrel.",
+   "The group is gathered under the large oak tree.",
+   "The group is gathered in front of the wooden shed.",
+   "The group is gathered near the bonfire pit."
+  ],
+  "gt": 0,
+  "group": "Spatial Understanding (STU)",
+  "task_name": "Spatial Understanding",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": 5.0,
+  "clip": "ovo/stu-774.mp4"
+ },
+ {
+  "id": 766,
+  "task": "STU",
+  "video": "AutoEvalMetaData/107.mp4",
+  "realtime": 5.02,
+  "question": "Which of the players ran ahead?",
+  "answer": "The player in white.",
+  "options": [
+   "The player in white.",
+   "The player in blue.",
+   "The player in green.",
+   "They run just as fast"
+  ],
+  "gt": 1,
+  "group": "Spatial Understanding (STU)",
+  "task_name": "Spatial Understanding",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": 6.0,
+  "clip": "ovo/stu-766.mp4"
+ },
+ {
+  "id": 804,
+  "task": "STU",
+  "video": "AutoEvalMetaData/23.mp4",
+  "realtime": 8.04,
+  "question": "Which player stands closer to the audience behind them?",
+  "answer": "The players in white shirts.",
+  "options": [
+   "The players in red shirts stand closer to the audience behind them.",
+   "The players in black shirts stand closer to the audience behind them.",
+   "The players in white shirts stand closer to the audience behind them.",
+   "The players in blue shirts stand closer to the audience behind them."
+  ],
+  "gt": 2,
+  "group": "Spatial Understanding (STU)",
+  "task_name": "Spatial Understanding",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": null,
+  "clip": "ovo/stu-804.mp4"
+ },
+ {
+  "id": 1454,
+  "task": "OCR",
+  "video": "AutoEvalMetaData/195.mp4",
+  "realtime": 11.05,
+  "question": "How many entries in column C are numeric?",
+  "answer": "5",
+  "options": [
+   "5",
+   "7",
+   "9",
+   "3"
+  ],
+  "gt": 0,
+  "group": "OCR (OCR)",
+  "task_name": "OCR",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": 12.0,
+  "clip": "ovo/ocr-1454.mp4"
+ },
+ {
+  "id": 1456,
+  "task": "OCR",
+  "video": "AutoEvalMetaData/195.mp4",
+  "realtime": 11.05,
+  "question": "What numbers are listed in the cells of column C?",
+  "answer": "1, 2, 3, 4, 5",
+  "options": [
+   "15, 20, 25, 30, 35",
+   "-5, -4, -3, -2, -1",
+   "11, 12, 13, 14, 15",
+   "1, 2, 3, 4, 5"
+  ],
+  "gt": 3,
+  "group": "OCR (OCR)",
+  "task_name": "OCR",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": 12.0,
+  "clip": "ovo/ocr-1456.mp4"
+ },
+ {
+  "id": 1440,
+  "task": "OCR",
+  "video": "AutoEvalMetaData/254.mp4",
+  "realtime": 21.27,
+  "question": "What name is on the cardboard house?",
+  "answer": "BiBi",
+  "options": [
+   "Ziggy",
+   "Coco",
+   "BiBi",
+   "Maxi"
+  ],
+  "gt": 2,
+  "group": "OCR (OCR)",
+  "task_name": "OCR",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": null,
+  "clip": "ovo/ocr-1440.mp4"
+ },
+ {
+  "id": 1054,
+  "task": "ATR",
+  "video": "AutoEvalMetaData/81.mp4",
+  "realtime": 2.04,
+  "question": "What is the expression on his face?",
+  "answer": "He appears to be focused or concentrating.",
+  "options": [
+   "He seems anxious.",
+   "He looks surprised.",
+   "He appears to be focused.",
+   "He appears joyful."
+  ],
+  "gt": 2,
+  "group": "Attribute Recognition (ATR)",
+  "task_name": "Attribute Recognition",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": 3.0,
+  "clip": "ovo/atr-1054.mp4"
+ },
+ {
+  "id": 1058,
+  "task": "ATR",
+  "video": "AutoEvalMetaData/66.mp4",
+  "realtime": 2.04,
+  "question": "What is the pattern on the jerseys of the player in white running towards the goal?",
+  "answer": "The jersey is predominantly white with minimal decoration or pattern, typical of classic designs.",
+  "options": [
+   "The jersey is primarily white with bold, contrasting bands along the sleeves.",
+   "The jersey is predominantly white with minimal decoration or pattern.",
+   "The jersey is mainly white with a small colored collar and cuffs.",
+   "The jersey is mostly white, with an intricate pattern of dots along the sides."
+  ],
+  "gt": 1,
+  "group": "Attribute Recognition (ATR)",
+  "task_name": "Attribute Recognition",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": 3.0,
+  "clip": "ovo/atr-1058.mp4"
+ },
+ {
+  "id": 1071,
+  "task": "ATR",
+  "video": "AutoEvalMetaData/62.mp4",
+  "realtime": 6.27,
+  "question": "What color is the helmet he's wearing?",
+  "answer": "The helmet is black.",
+  "options": [
+   "The helmet is white.",
+   "The helmet is yellow.",
+   "The helmet is black.",
+   "The helmet is grey."
+  ],
+  "gt": 2,
+  "group": "Attribute Recognition (ATR)",
+  "task_name": "Attribute Recognition",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": null,
+  "clip": "ovo/atr-1071.mp4"
+ },
+ {
+  "id": 1245,
+  "task": "ACR",
+  "video": "AutoEvalMetaData/117.mp4",
+  "realtime": 3.21,
+  "question": "What is the player in the burgundy jersey doing?",
+  "answer": "He is preparing to take a free kick.",
+  "options": [
+   "He is preparing to take a corner kick.",
+   "He is taking a free kick.",
+   "He is getting ready to throw-in the ball.",
+   "He is dribbling the ball towards the goal."
+  ],
+  "gt": 1,
+  "group": "Action Recognition (ACR)",
+  "task_name": "Action Recognition",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": 4.004004,
+  "clip": "ovo/acr-1245.mp4"
+ },
+ {
+  "id": 1313,
+  "task": "ACR",
+  "video": "AutoEvalMetaData/107.mp4",
+  "realtime": 4.02,
+  "question": "What is the player in white doing with the ball?",
+  "answer": "The player in white is dribbling the ball quickly down the court.",
+  "options": [
+   "The player in white is passing the ball to a teammate.",
+   "The player in white is dribbling the ball.",
+   "The player in white is shooting the ball towards the goal.",
+   "The player in white is shielding the ball from an opponent."
+  ],
+  "gt": 1,
+  "group": "Action Recognition (ACR)",
+  "task_name": "Action Recognition",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": 5.0,
+  "clip": "ovo/acr-1313.mp4"
+ },
+ {
+  "id": 1312,
+  "task": "ACR",
+  "video": "AutoEvalMetaData/107.mp4",
+  "realtime": 11.02,
+  "question": "What action is the player in blue attempting?",
+  "answer": "Serve from the sidelines.",
+  "options": [
+   "The player in blue is attempting a serve from the sidelines.",
+   "The player in blue is attempting a header.",
+   "The player in blue is attempting a penalty kick.",
+   "The player in blue is attempting a corner kick."
+  ],
+  "gt": 0,
+  "group": "Action Recognition (ACR)",
+  "task_name": "Action Recognition",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "AutoEvalMetaData",
+  "clip_duration": null,
+  "clip": "ovo/acr-1312.mp4"
+ },
+ {
+  "id": 1117,
+  "task": "FPD",
+  "video": "Ego4D/video/342f509b-4aa9-47f0-8fb2-1efd1f3bdbfa.mp4",
+  "realtime": 0.03,
+  "question": "What is this person about to do from the desk?",
+  "answer": "The person is going to take the bag from the desk.",
+  "options": [
+   "The person is going to take the bag from the desk.",
+   "The person is going to organize the documents on the desk.",
+   "The person is going to write a note on the desk.",
+   "The person is going to open the notebook on the desk."
+  ],
+  "gt": 0,
+  "group": "Future Prediction (FPD)",
+  "task_name": "Future Prediction",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "Ego4D",
+  "clip_duration": 1.0,
+  "clip": "ovo/fpd-1117.mp4"
+ },
+ {
+  "id": 1128,
+  "task": "FPD",
+  "video": "Ego4D/video/77975a87-6cb3-45fa-ac8b-a503b6b7c9b5.mp4",
+  "realtime": 9.23,
+  "question": "What is this person going to do after cleaning the item?",
+  "answer": "The person is going to turn off the faucet after rinsing off the item.",
+  "options": [
+   "Check the item for any remaining dirt.",
+   "Turn off the faucet.",
+   "Dry the item.",
+   "Dispose of the cleaning waste."
+  ],
+  "gt": 1,
+  "group": "Future Prediction (FPD)",
+  "task_name": "Future Prediction",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "Ego4D",
+  "clip_duration": 10.006009,
+  "clip": "ovo/fpd-1128.mp4"
+ },
+ {
+  "id": 1138,
+  "task": "FPD",
+  "video": "Ego4D/video/c41634ed-20ee-4c2e-9776-47d4445f0f1e.mp4",
+  "realtime": 23.97,
+  "question": "What is this person preparing to do?",
+  "answer": "The person is preparing to reassemble the engine components by touching and aligning them.",
+  "options": [
+   "The person is preparing to reassemble the engine components.",
+   "The person is preparing to learn about the engine mechanics.",
+   "The person is preparing to install new parts into the engine.",
+   "The person is preparing to perform maintenance on the vehicle."
+  ],
+  "gt": 0,
+  "group": "Future Prediction (FPD)",
+  "task_name": "Future Prediction",
+  "mode": "Real-Time Visual Perception",
+  "source_dataset": "Ego4D",
+  "clip_duration": null,
+  "clip": "ovo/fpd-1138.mp4"
+ },
+ {
+  "id": 1631,
+  "task": "REC",
+  "video": "thumos/thumos15_video_validation_0001752.mp4",
+  "activity": "soccer penalty",
+  "start_times": [
+   3
+  ],
+  "end_times": [
+   4
+  ],
+  "test_info": [
+   {
+    "realtime": 4,
+    "count": 1
+   },
+   {
+    "realtime": 7,
+    "count": 1
+   },
+   {
+    "realtime": 16.0,
+    "count": 1
+   }
+  ],
+  "group": "Repetition Event Count (REC)",
+  "task_name": "Repetition Event Count",
+  "mode": "Forward Active Responding",
+  "source_dataset": "thumos",
+  "clip_duration": 4.023991,
+  "clip": "ovo/rec-1631.mp4",
+  "n_queries": 3
+ },
+ {
+  "id": 1560,
+  "task": "REC",
+  "video": "perception_test/video_9373.mp4",
+  "activity": "opening something",
+  "start_times": [
+   1
+  ],
+  "end_times": [
+   4
+  ],
+  "test_info": [
+   {
+    "realtime": 14,
+    "count": 1
+   },
+   {
+    "realtime": 22.0,
+    "count": 1
+   }
+  ],
+  "group": "Repetition Event Count (REC)",
+  "task_name": "Repetition Event Count",
+  "mode": "Forward Active Responding",
+  "source_dataset": "perception_test",
+  "clip_duration": 14.001995,
+  "clip": "ovo/rec-1560.mp4",
+  "n_queries": 2
+ },
+ {
+  "id": 1611,
+  "task": "REC",
+  "video": "thumos/video_test_0001168.mp4",
+  "activity": "tennis swing",
+  "start_times": [
+   79,
+   98,
+   103
+  ],
+  "end_times": [
+   81,
+   99,
+   104
+  ],
+  "test_info": [
+   {
+    "realtime": 5,
+    "count": 0
+   },
+   {
+    "realtime": 39.0,
+    "count": 0
+   },
+   {
+    "realtime": 81,
+    "count": 1
+   },
+   {
+    "realtime": 95,
+    "count": 1
+   },
+   {
+    "realtime": 99,
+    "count": 2
+   },
+   {
+    "realtime": 104,
+    "count": 3
+   },
+   {
+    "realtime": 108,
+    "count": 3
+   },
+   {
+    "realtime": 109.0,
+    "count": 3
+   }
+  ],
+  "group": "Repetition Event Count (REC)",
+  "task_name": "Repetition Event Count",
+  "mode": "Forward Active Responding",
+  "source_dataset": "thumos",
+  "clip_duration": null,
+  "clip": "ovo/rec-1611.mp4",
+  "n_queries": 8
+ },
+ {
+  "id": 1492,
+  "task": "CRR",
+  "video": "MovieNet/tt0070511.mp4",
+  "question": "Three men wearing black coat are walking fast, what is their destination?",
+  "answer": "In front of a iron gate of a stone house.",
+  "ask_time": 28,
+  "clue_time": 40,
+  "test_info": [
+   {
+    "realtime": 28,
+    "type": 0
+   },
+   {
+    "realtime": 34,
+    "type": 0
+   },
+   {
+    "realtime": 42,
+    "type": 1
+   },
+   {
+    "realtime": 50,
+    "type": 1
+   },
+   {
+    "realtime": 70,
+    "type": 1
+   }
+  ],
+  "group": "Clue Reveal Responding (CRR)",
+  "task_name": "Clue Reveal Responding",
+  "mode": "Forward Active Responding",
+  "source_dataset": "MovieNet",
+  "clip_duration": 28.023353,
+  "clip": "ovo/crr-1492.mp4",
+  "n_queries": 5
+ },
+ {
+  "id": 1507,
+  "task": "CRR",
+  "video": "MovieNet/tt0083907.mp4",
+  "question": "The two cars, one yellow and the other one red, are driving into the direction of each other. What happened next?",
+  "answer": "They go past each other.",
+  "ask_time": 111,
+  "clue_time": 119,
+  "test_info": [
+   {
+    "realtime": 111,
+    "type": 0
+   },
+   {
+    "realtime": 115,
+    "type": 0
+   },
+   {
+    "realtime": 121,
+    "type": 1
+   },
+   {
+    "realtime": 129,
+    "type": 1
+   },
+   {
+    "realtime": 149,
+    "type": 1
+   }
+  ],
+  "group": "Clue Reveal Responding (CRR)",
+  "task_name": "Clue Reveal Responding",
+  "mode": "Forward Active Responding",
+  "source_dataset": "MovieNet",
+  "clip_duration": 111.009174,
+  "clip": "ovo/crr-1507.mp4",
+  "n_queries": 5
+ },
+ {
+  "id": 1486,
+  "task": "CRR",
+  "video": "MovieNet/tt0063442.mp4",
+  "question": "The man is looking into the window, what does he see?",
+  "answer": "A woman lying in the bed.",
+  "ask_time": 164,
+  "clue_time": 170,
+  "test_info": [
+   {
+    "realtime": 164,
+    "type": 0
+   },
+   {
+    "realtime": 167,
+    "type": 0
+   },
+   {
+    "realtime": 172,
+    "type": 1
+   },
+   {
+    "realtime": 180,
+    "type": 1
+   },
+   {
+    "realtime": 200,
+    "type": 1
+   }
+  ],
+  "group": "Clue Reveal Responding (CRR)",
+  "task_name": "Clue Reveal Responding",
+  "mode": "Forward Active Responding",
+  "source_dataset": "MovieNet",
+  "clip_duration": null,
+  "clip": "ovo/crr-1486.mp4",
+  "n_queries": 5
+ },
+ {
+  "id": 1546,
+  "task": "SSR",
+  "video": "COIN/fYTcH6fSHFM.mp4",
+  "tutorial": "MakeSlimeWithGlue",
+  "all_steps": [
+   "add different kinds of ingredients",
+   "mix the raw materials",
+   "rub and drag the materials"
+  ],
+  "start_time": [
+   5,
+   18,
+   41
+  ],
+  "end_time": [
+   17,
+   37,
+   69
+  ],
+  "test_info": [
+   {
+    "realtime": 7,
+    "step": "add different kinds of ingredients",
+    "type": 1
+   },
+   {
+    "realtime": 10,
+    "step": "add different kinds of ingredients",
+    "type": 1
+   },
+   {
+    "realtime": 17,
+    "step": "add different kinds of ingredients",
+    "type": 1
+   },
+   {
+    "realtime": 13,
+    "step": "mix the raw materials",
+    "type": 0
+   },
+   {
+    "realtime": 16,
+    "step": "mix the raw materials",
+    "type": 0
+   },
+   {
+    "realtime": 20,
+    "step": "mix the raw materials",
+    "type": 1
+   },
+   {
+    "realtime": 23,
+    "step": "mix the raw materials",
+    "type": 1
+   },
+   {
+    "realtime": 37,
+    "step": "mix the raw materials",
+    "type": 1
+   },
+   {
+    "realtime": 36,
+    "step": "rub and drag the materials",
+    "type": 0
+   },
+   {
+    "realtime": 39,
+    "step": "rub and drag the materials",
+    "type": 0
+   },
+   {
+    "realtime": 43,
+    "step": "rub and drag the materials",
+    "type": 1
+   },
+   {
+    "realtime": 46,
+    "step": "rub and drag the materials",
+    "type": 1
+   },
+   {
+    "realtime": 69,
+    "step": "rub and drag the materials",
+    "type": 1
+   }
+  ],
+  "group": "Sequential Steps Recognition (SSR)",
+  "task_name": "Sequential Steps Recognition",
+  "mode": "Forward Active Responding",
+  "source_dataset": "COIN",
+  "clip_duration": 7.007007,
+  "clip": "ovo/ssr-1546.mp4",
+  "n_queries": 13
+ },
+ {
+  "id": 1550,
+  "task": "SSR",
+  "video": "COIN/_wanp-a6MEk.mp4",
+  "tutorial": "OpenChampagneBottle",
+  "all_steps": [
+   "tear out the foil",
+   "turn the suspension link",
+   "open the bottle carefully"
+  ],
+  "start_time": [
+   18,
+   28,
+   47
+  ],
+  "end_time": [
+   27,
+   42,
+   56
+  ],
+  "test_info": [
+   {
+    "realtime": 20,
+    "step": "tear out the foil",
+    "type": 1
+   },
+   {
+    "realtime": 23,
+    "step": "tear out the foil",
+    "type": 1
+   },
+   {
+    "realtime": 27,
+    "step": "tear out the foil",
+    "type": 1
+   },
+   {
+    "realtime": 23,
+    "step": "turn the suspension link",
+    "type": 0
+   },
+   {
+    "realtime": 26,
+    "step": "turn the suspension link",
+    "type": 0
+   },
+   {
+    "realtime": 30,
+    "step": "turn the suspension link",
+    "type": 1
+   },
+   {
+    "realtime": 33,
+    "step": "turn the suspension link",
+    "type": 1
+   },
+   {
+    "realtime": 42,
+    "step": "turn the suspension link",
+    "type": 1
+   },
+   {
+    "realtime": 42,
+    "step": "open the bottle carefully",
+    "type": 0
+   },
+   {
+    "realtime": 45,
+    "step": "open the bottle carefully",
+    "type": 0
+   },
+   {
+    "realtime": 49,
+    "step": "open the bottle carefully",
+    "type": 1
+   },
+   {
+    "realtime": 52,
+    "step": "open the bottle carefully",
+    "type": 1
+   },
+   {
+    "realtime": 56,
+    "step": "open the bottle carefully",
+    "type": 1
+   }
+  ],
+  "group": "Sequential Steps Recognition (SSR)",
+  "task_name": "Sequential Steps Recognition",
+  "mode": "Forward Active Responding",
+  "source_dataset": "COIN",
+  "clip_duration": 20.003337,
+  "clip": "ovo/ssr-1550.mp4",
+  "n_queries": 13
+ },
+ {
+  "id": 1541,
+  "task": "SSR",
+  "video": "COIN/QInuE1KwCZM.mp4",
+  "tutorial": "ReplaceFilterForAirPurifier",
+  "all_steps": [
+   "take out the shell",
+   "take out the filter",
+   "fit on the filter",
+   "fit on the shell"
+  ],
+  "start_time": [
+   4,
+   22,
+   59,
+   87
+  ],
+  "end_time": [
+   11,
+   51,
+   86,
+   99
+  ],
+  "test_info": [
+   {
+    "realtime": 6,
+    "step": "take out the shell",
+    "type": 1
+   },
+   {
+    "realtime": 9,
+    "step": "take out the shell",
+    "type": 1
+   },
+   {
+    "realtime": 11,
+    "step": "take out the shell",
+    "type": 1
+   },
+   {
+    "realtime": 17,
+    "step": "take out the filter",
+    "type": 0
+   },
+   {
+    "realtime": 20,
+    "step": "take out the filter",
+    "type": 0
+   },
+   {
+    "realtime": 24,
+    "step": "take out the filter",
+    "type": 1
+   },
+   {
+    "realtime": 27,
+    "step": "take out the filter",
+    "type": 1
+   },
+   {
+    "realtime": 51,
+    "step": "take out the filter",
+    "type": 1
+   },
+   {
+    "realtime": 54,
+    "step": "fit on the filter",
+    "type": 0
+   },
+   {
+    "realtime": 57,
+    "step": "fit on the filter",
+    "type": 0
+   },
+   {
+    "realtime": 61,
+    "step": "fit on the filter",
+    "type": 1
+   },
+   {
+    "realtime": 64,
+    "step": "fit on the filter",
+    "type": 1
+   },
+   {
+    "realtime": 86,
+    "step": "fit on the filter",
+    "type": 1
+   },
+   {
+    "realtime": 82,
+    "step": "fit on the shell",
+    "type": 0
+   },
+   {
+    "realtime": 85,
+    "step": "fit on the shell",
+    "type": 0
+   },
+   {
+    "realtime": 89,
+    "step": "fit on the shell",
+    "type": 1
+   },
+   {
+    "realtime": 92,
+    "step": "fit on the shell",
+    "type": 1
+   },
+   {
+    "realtime": 99,
+    "step": "fit on the shell",
+    "type": 1
+   }
+  ],
+  "group": "Sequential Steps Recognition (SSR)",
+  "task_name": "Sequential Steps Recognition",
+  "mode": "Forward Active Responding",
+  "source_dataset": "COIN",
+  "clip_duration": null,
+  "clip": "ovo/ssr-1541.mp4",
+  "n_queries": 18
+ }
+]

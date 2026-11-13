@@ -1,0 +1,62 @@
+{
+ "questions": 2593,
+ "videos": 1659,
+ "tasks": {
+  "Plot QA": 539,
+  "Needle QA": 355,
+  "Ego reasoning": 352,
+  "Action count": 206,
+  "Action order": 259,
+  "Anomaly recognition": 200,
+  "Topic reasoning": 264,
+  "Sub-scene captioning": 201,
+  "Video summary": 217
+ },
+ "videos_per_task": {
+  "Plot QA": 160,
+  "Needle QA": 129,
+  "Ego reasoning": 84,
+  "Action count": 206,
+  "Action order": 259,
+  "Anomaly recognition": 200,
+  "Topic reasoning": 204,
+  "Sub-scene captioning": 201,
+  "Video summary": 216
+ },
+ "format": {
+  "Plot QA": "multiple choice",
+  "Needle QA": "multiple choice",
+  "Ego reasoning": "multiple choice",
+  "Action count": "multiple choice",
+  "Action order": "multiple choice",
+  "Anomaly recognition": "multiple choice",
+  "Topic reasoning": "multiple choice",
+  "Sub-scene captioning": "generation",
+  "Video summary": "generation"
+ },
+ "duration_s": {
+  "n": 2593,
+  "min": 180.0,
+  "median": 480.0,
+  "mean": 704.6,
+  "max": 32550.1,
+  "sum_hours": 507.5
+ },
+ "duration_s_per_task": {
+  "Plot QA": 466.0,
+  "Needle QA": 858.0,
+  "Ego reasoning": 576.0,
+  "Action count": 782.0,
+  "Action order": 978.0,
+  "Anomaly recognition": 623.0,
+  "Topic reasoning": 446.0,
+  "Sub-scene captioning": 1541.0,
+  "Video summary": 468.0
+ },
+ "paper_totals": {
+  "videos": 1730,
+  "questions": 3102,
+  "mean_duration_s": 930,
+  "source": "paper (dev + test)"
+ }
+}

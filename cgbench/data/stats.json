@@ -1,0 +1,68 @@
+{
+ "questions": 12129,
+ "videos": 1219,
+ "domains": {
+  "Life Record": 2314,
+  "Music & TV show": 1267,
+  "Art & Culture": 1237,
+  "Electonic/Social Gaming": 1236,
+  "Instruction & Knowledge": 1028,
+  "GUI": 892,
+  "Embodied Expert": 832,
+  "Special Scenes": 798,
+  "Sports & Exercise": 784,
+  "Animal & Pet": 493,
+  "Driving": 365,
+  "Humor/funny": 348,
+  "Security & Health": 314,
+  "News": 221
+ },
+ "tasks": {
+  "Entity Perception": 2665,
+  "Event Perception": 2382,
+  "Event Cognition": 1480,
+  "Entity Cognition": 1434,
+  "Text Perception": 1238,
+  "Time Perception": 734,
+  "2D Spatial Perception": 639,
+  "Scene Perception": 615,
+  "Hallucination": 444,
+  "Time Cognition": 256,
+  "Text Cognition": 192,
+  "Scene Cognition": 50
+ },
+ "clue_intervals_per_question": {
+  "n": 12129,
+  "min": 1.0,
+  "median": 1.0,
+  "mean": 1.2,
+  "max": 45.0,
+  "sum_hours": 4.0
+ },
+ "clue_length_s": {
+  "n": 14362,
+  "min": 0.8,
+  "median": 9.0,
+  "mean": 19.2,
+  "max": 1933.0,
+  "sum_hours": 76.4
+ },
+ "duration_s": {
+  "n": 1219,
+  "min": 548.0,
+  "median": 1492.0,
+  "mean": 1661.1,
+  "max": 6325.0,
+  "sum_hours": 562.5
+ },
+ "video_sources": {
+  "Bilibili ids": 651,
+  "other (YouTube-style) ids": 568
+ },
+ "choices_per_question": {
+  "7": 6344,
+  "6": 2968,
+  "8": 2699,
+  "5": 118
+ }
+}

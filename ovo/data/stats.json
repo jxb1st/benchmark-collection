@@ -1,0 +1,117 @@
+{
+ "records": 1640,
+ "queries": 3035,
+ "videos": 644,
+ "tasks": {
+  "EPM": 297,
+  "HLD": 186,
+  "OJR": 184,
+  "STU": 178,
+  "OCR": 149,
+  "ASI": 148,
+  "ATR": 116,
+  "ACR": 109,
+  "FPD": 101,
+  "REC": 82,
+  "CRR": 48,
+  "SSR": 42
+ },
+ "queries_per_task": {
+  "ACR": 109,
+  "ASI": 148,
+  "ATR": 116,
+  "CRR": 240,
+  "EPM": 297,
+  "FPD": 101,
+  "HLD": 186,
+  "OCR": 149,
+  "OJR": 184,
+  "REC": 698,
+  "SSR": 629,
+  "STU": 178
+ },
+ "sources": {
+  "AutoEvalMetaData": 528,
+  "Ego4D": 523,
+  "OpenEQA": 173,
+  "YouTube_Games": 96,
+  "COIN": 57,
+  "youcook2": 50,
+  "MovieNet": 48,
+  "star": 43,
+  "thumos": 42,
+  "perception_test": 40,
+  "cross_task": 20,
+  "hirest": 20
+ },
+ "query_time_s": {
+  "n": 3035,
+  "min": 0.0,
+  "median": 115.9,
+  "mean": 211.1,
+  "max": 1785.0,
+  "sum_hours": 178.0
+ },
+ "clip_duration_s_per_task": {
+  "ACR": {
+   "median": 136.0,
+   "mean": 198.6,
+   "max": 1143.0
+  },
+  "ASI": {
+   "median": 98.0,
+   "mean": 143.1,
+   "max": 588.0
+  },
+  "ATR": {
+   "median": 191.0,
+   "mean": 302.6,
+   "max": 1695.0
+  },
+  "CRR": {
+   "median": 3160.6,
+   "mean": 3762.0,
+   "max": 8687.6
+  },
+  "EPM": {
+   "median": 193.0,
+   "mean": 228.1,
+   "max": 1198.0
+  },
+  "FPD": {
+   "median": 143.0,
+   "mean": 146.5,
+   "max": 306.0
+  },
+  "HLD": {
+   "median": 261.0,
+   "mean": 241.1,
+   "max": 1136.0
+  },
+  "OCR": {
+   "median": 153.0,
+   "mean": 226.0,
+   "max": 976.0
+  },
+  "OJR": {
+   "median": 214.0,
+   "mean": 298.0,
+   "max": 1577.0
+  },
+  "REC": {
+   "median": 133.2,
+   "mean": 541.8,
+   "max": 6809.5
+  },
+  "SSR": {
+   "median": 1483.0,
+   "mean": 1673.7,
+   "max": 7178.3
+  },
+  "STU": {
+   "median": 172.0,
+   "mean": 292.2,
+   "max": 1480.0
+  }
+ }
+}

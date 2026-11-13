@@ -1,0 +1,29 @@
+{
+ "videos": 103,
+ "questions": 1549,
+ "video_types": {
+  "selfmedia": 21,
+  "cartoon": 18,
+  "live": 17,
+  "sport": 17,
+  "tv": 16,
+  "documentary": 14
+ },
+ "tasks": {
+  "entity recognition": 677,
+  "event understanding": 647,
+  "key information retrieval": 291,
+  "temporal grounding": 220,
+  "reasoning": 201,
+  "summarization": 58
+ },
+ "multi_tag_questions": 511,
+ "duration_s": {
+  "n": 103,
+  "min": 1809.0,
+  "median": 3664.4,
+  "mean": 4038.0,
+  "max": 8395.5,
+  "sum_hours": 115.5
+ }
+}

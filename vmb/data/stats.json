@@ -1,0 +1,31 @@
+{
+ "videos": 326,
+ "turns": 2476,
+ "turns_per_video": {
+  "n": 326,
+  "min": 4.0,
+  "median": 8.0,
+  "mean": 7.6,
+  "max": 21.0,
+  "sum_hours": 0.7
+ },
+ "turn_types": {
+  "open_structured": 1709,
+  "multi_choice_question": 603,
+  "true_or_false_question": 164
+ },
+ "dependent_turns": 1387,
+ "independent_turns": 1089,
+ "dependency_links": {
+  "episodic": 1200,
+  "answer": 594
+ },
+ "duration_s": {
+  "n_videos": 326,
+  "n_turns": 2476,
+  "n_dependent": 1387,
+  "n_episodic": 935,
+  "n_answer": 512,
+  "n_multi_parent": 348
+ }
+}

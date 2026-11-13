@@ -1,0 +1,492 @@
+[
+ {
+  "video": "1.mp4",
+  "duration": 401.23,
+  "question": "What is the man's mood after his unsuccessful attempt to hit the wall?",
+  "candidates": [
+   "Surprised",
+   "Neutral",
+   "Happy",
+   "Disappointed"
+  ],
+  "answer": "Disappointed",
+  "question_type": "plotQA",
+  "group": "Plot QA",
+  "task": "plotQA",
+  "task_name": "Plot QA",
+  "json_file": "1_plotQA.json",
+  "format": "multiple choice",
+  "clip": "mlvu/plotQA-1.mp4"
+ },
+ {
+  "video": "8.mp4",
+  "duration": 507.29,
+  "question": "What color is the beard of the captain on the ship in the video?",
+  "candidates": [
+   "Brown",
+   "Red",
+   "Black",
+   "Has a long white beard"
+  ],
+  "answer": "Has a long white beard",
+  "question_type": "plotQA",
+  "group": "Plot QA",
+  "task": "plotQA",
+  "task_name": "Plot QA",
+  "json_file": "1_plotQA.json",
+  "format": "multiple choice",
+  "clip": "mlvu/plotQA-2.mp4"
+ },
+ {
+  "video": "tomjerry_2.mp4",
+  "duration": 303,
+  "question": "What kind of bed is the cartoon mouse lying on?",
+  "candidates": [
+   "Stone bed",
+   "A bed made of cheese",
+   "Wooden bed",
+   "Iron bed"
+  ],
+  "answer": "A bed made of cheese",
+  "question_type": "plotQA",
+  "group": "Plot QA",
+  "task": "plotQA",
+  "task_name": "Plot QA",
+  "json_file": "1_plotQA.json",
+  "format": "multiple choice",
+  "clip": "mlvu/plotQA-3.mp4"
+ },
+ {
+  "video": "needle_139.mp4",
+  "duration": 239.06,
+  "question": "What is the prey of the blue fin trevally in the video?",
+  "candidates": [
+   "Plankton",
+   "Jellyfish",
+   "Small reef fish and anthias",
+   "Seaweed"
+  ],
+  "answer": "Small reef fish and anthias",
+  "question_type": "findNeedle",
+  "group": "Needle in a haystack QA",
+  "task": "needle",
+  "task_name": "Needle in a haystack QA",
+  "json_file": "2_needle.json",
+  "format": "multiple choice",
+  "clip": "mlvu/needle-1.mp4"
+ },
+ {
+  "video": "needle_91.mp4",
+  "duration": 461.59999999999997,
+  "question": "What color are the leaves of the plant shown in the video segment?",
+  "candidates": [
+   "Green",
+   "Red",
+   "Yellow",
+   "Blue"
+  ],
+  "answer": "Green",
+  "question_type": "findNeedle",
+  "group": "Needle in a haystack QA",
+  "task": "needle",
+  "task_name": "Needle in a haystack QA",
+  "json_file": "2_needle.json",
+  "format": "multiple choice",
+  "clip": "mlvu/needle-2.mp4"
+ },
+ {
+  "video": "needle_120.mp4",
+  "duration": 341.5,
+  "question": "Who is the little girl reading a book with?",
+  "candidates": [
+   "Her friend",
+   "Her grandmother",
+   "Her teacher",
+   "Her brother"
+  ],
+  "answer": "Her grandmother",
+  "question_type": "findNeedle",
+  "group": "Needle in a haystack QA",
+  "task": "needle",
+  "task_name": "Needle in a haystack QA",
+  "json_file": "2_needle.json",
+  "format": "multiple choice",
+  "clip": "mlvu/needle-3.mp4"
+ },
+ {
+  "video": "ego_16.mp4",
+  "duration": 480.0,
+  "question": "Where was the blue chair?",
+  "candidates": [
+   "On the balcony",
+   "In the living room",
+   "In the bedroom",
+   "Beside the dining table"
+  ],
+  "answer": "Beside the dining table",
+  "question_type": "ego",
+  "group": "Egocentric reasoning",
+  "task": "ego",
+  "task_name": "Egocentric reasoning",
+  "json_file": "3_ego.json",
+  "format": "multiple choice",
+  "clip": "mlvu/ego-1.mp4"
+ },
+ {
+  "video": "ego_82.mp4",
+  "duration": 480.0,
+  "question": "Did I turn off the stove?",
+  "candidates": [
+   "maybe",
+   "no",
+   "yes",
+   "I don't know"
+  ],
+  "answer": "yes",
+  "question_type": "ego",
+  "group": "Egocentric reasoning",
+  "task": "ego",
+  "task_name": "Egocentric reasoning",
+  "json_file": "3_ego.json",
+  "format": "multiple choice",
+  "clip": "mlvu/ego-2.mp4"
+ },
+ {
+  "video": "ego_25.mp4",
+  "duration": 480.0,
+  "question": "Where is the package in a plastic bag?",
+  "candidates": [
+   "inside the mailbox at the end of the street",
+   "under the flower vase at the entrance of the house",
+   "on top of the refrigerator in the kitchen",
+   "hidden inside the shoe rack near the door"
+  ],
+  "answer": "under the flower vase at the entrance of the house",
+  "question_type": "ego",
+  "group": "Egocentric reasoning",
+  "task": "ego",
+  "task_name": "Egocentric reasoning",
+  "json_file": "3_ego.json",
+  "format": "multiple choice",
+  "clip": "mlvu/ego-3.mp4"
+ },
+ {
+  "video": "count_239.mp4",
+  "duration": 356.03,
+  "question": "In this video, how many instances are there of the 'baking cookies' action scene in total?",
+  "candidates": [
+   "3",
+   "4",
+   "0",
+   "1"
+  ],
+  "answer": "1",
+  "question_type": "count",
+  "group": "Action count",
+  "task": "count",
+  "task_name": "Action count",
+  "json_file": "4_count.json",
+  "format": "multiple choice",
+  "clip": "mlvu/count-1.mp4"
+ },
+ {
+  "video": "count_208.mp4",
+  "duration": 234.03,
+  "question": "In this video, how many instances are there of the 'making jewelry' action scene in total?",
+  "candidates": [
+   "2",
+   "3",
+   "4",
+   "0"
+  ],
+  "answer": "2",
+  "question_type": "count",
+  "group": "Action count",
+  "task": "count",
+  "task_name": "Action count",
+  "json_file": "4_count.json",
+  "format": "multiple choice",
+  "clip": "mlvu/count-2.mp4"
+ },
+ {
+  "video": "count_231.mp4",
+  "duration": 491.03,
+  "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'paragliding' action",
+  "candidates": [
+   "2",
+   "4",
+   "1",
+   "6"
+  ],
+  "answer": "1",
+  "question_type": "count",
+  "group": "Action count",
+  "task": "count",
+  "task_name": "Action count",
+  "json_file": "4_count.json",
+  "format": "multiple choice",
+  "clip": "mlvu/count-3.mp4"
+ },
+ {
+  "video": "order_321.mp4",
+  "duration": 284.06999999999994,
+  "question": "Which of the following options correctly matches the sequence of actions as they actually appear in the video?",
+  "candidates": [
+   "making jewelry --> cleaning toilet --> paragliding --> carving pumpkin",
+   "paragliding --> making jewelry --> cleaning toilet --> carving pumpkin",
+   "carving pumpkin --> cleaning toilet --> making jewelry --> paragliding",
+   "paragliding --> cleaning toilet --> carving pumpkin --> making jewelry"
+  ],
+  "answer": "paragliding --> making jewelry --> cleaning toilet --> carving pumpkin",
+  "question_type": "order",
+  "group": "Action order",
+  "task": "order",
+  "task_name": "Action order",
+  "json_file": "5_order.json",
+  "format": "multiple choice",
+  "clip": "mlvu/order-1.mp4"
+ },
+ {
+  "video": "order_215.mp4",
+  "duration": 246.05,
+  "question": "Can you tell me which option represents the actual order of actions shown in the video?",
+  "candidates": [
+   "paragliding --> pole vault --> playing harp --> riding mule",
+   "paragliding --> playing harp --> pole vault --> riding mule",
+   "playing harp --> pole vault --> riding mule --> paragliding",
+   "riding mule --> playing harp --> pole vault --> paragliding"
+  ],
+  "answer": "playing harp --> pole vault --> riding mule --> paragliding",
+  "question_type": "order",
+  "group": "Action order",
+  "task": "order",
+  "task_name": "Action order",
+  "json_file": "5_order.json",
+  "format": "multiple choice",
+  "clip": "mlvu/order-2.mp4"
+ },
+ {
+  "video": "order_218.mp4",
+  "duration": 245.11,
+  "question": "Can you tell me which option represents the actual order of actions shown in the video?",
+  "candidates": [
+   "javelin throw --> clean and jerk --> cooking sausages --> carving pumpkin",
+   "carving pumpkin --> clean and jerk --> javelin throw --> cooking sausages",
+   "cooking sausages --> javelin throw --> clean and jerk --> carving pumpkin",
+   "javelin throw --> carving pumpkin --> clean and jerk --> cooking sausages"
+  ],
+  "answer": "carving pumpkin --> clean and jerk --> javelin throw --> cooking sausages",
+  "question_type": "order",
+  "group": "Action order",
+  "task": "order",
+  "task_name": "Action order",
+  "json_file": "5_order.json",
+  "format": "multiple choice",
+  "clip": "mlvu/order-3.mp4"
+ },
+ {
+  "video": "surveil_89.mp4",
+  "duration": 187.37,
+  "question": "Are there any irregularities in this surveillance video? If there are, what sort are they?",
+  "candidates": [
+   "RoadAccidents",
+   "Fighting",
+   "Shooting",
+   "Arson"
+  ],
+  "answer": "RoadAccidents",
+  "question_type": "anomaly_reco",
+  "group": "Anomaly recognition",
+  "task": "anomaly_reco",
+  "task_name": "Anomaly recognition",
+  "json_file": "6_anomaly_reco.json",
+  "format": "multiple choice",
+  "clip": "mlvu/anomaly_reco-1.mp4"
+ },
+ {
+  "video": "surveil_72.mp4",
+  "duration": 193.73,
+  "question": "Does this surveillance footage contain any anomalies? If yes, which kind of anomaly?",
+  "candidates": [
+   "Vandalism",
+   "Abuse",
+   "Fighting",
+   "Arson"
+  ],
+  "answer": "Vandalism",
+  "question_type": "anomaly_reco",
+  "group": "Anomaly recognition",
+  "task": "anomaly_reco",
+  "task_name": "Anomaly recognition",
+  "json_file": "6_anomaly_reco.json",
+  "format": "multiple choice",
+  "clip": "mlvu/anomaly_reco-2.mp4"
+ },
+ {
+  "video": "surveil_166.mp4",
+  "duration": 262.53,
+  "question": "Are there any irregularities in this surveillance video? If there are, what sort are they?",
+  "candidates": [
+   "Shooting",
+   "Normal",
+   "Abuse",
+   "Shoplifting"
+  ],
+  "answer": "Abuse",
+  "question_type": "anomaly_reco",
+  "group": "Anomaly recognition",
+  "task": "anomaly_reco",
+  "task_name": "Anomaly recognition",
+  "json_file": "6_anomaly_reco.json",
+  "format": "multiple choice",
+  "clip": "mlvu/anomaly_reco-3.mp4"
+ },
+ {
+  "video": "game_28.mp4",
+  "duration": 194.1,
+  "question": "What is the protagonist of the game doing?",
+  "candidates": [
+   "Building a house",
+   "Building a blinking device",
+   "Digging a tunnel",
+   "Building a scarecrow"
+  ],
+  "answer": "Building a blinking device",
+  "question_type": "topic_reasoning",
+  "group": "Topic reasoning",
+  "task": "topic_reasoning",
+  "task_name": "Topic reasoning",
+  "json_file": "7_topic_reasoning.json",
+  "format": "multiple choice",
+  "clip": "mlvu/topic_reasoning-1.mp4"
+ },
+ {
+  "video": "game_25.mp4",
+  "duration": 189.89,
+  "question": "What is the game character doing?",
+  "candidates": [
+   "Making a scarecrow",
+   "Fighting with enemies",
+   "Collecting resources",
+   "Building a house"
+  ],
+  "answer": "Making a scarecrow",
+  "question_type": "topic_reasoning",
+  "group": "Topic reasoning",
+  "task": "topic_reasoning",
+  "task_name": "Topic reasoning",
+  "json_file": "7_topic_reasoning.json",
+  "format": "multiple choice",
+  "clip": "mlvu/topic_reasoning-2.mp4"
+ },
+ {
+  "video": "1.mp4",
+  "duration": 401.23,
+  "question": "In what environment is the man in the black sweater?",
+  "candidates": [
+   "Desert",
+   "Grassland",
+   "Forest",
+   "Ocean"
+  ],
+  "answer": "Ocean",
+  "question_type": "topic_reasoning",
+  "group": "Topic reasoning",
+  "task": "topic_reasoning",
+  "task_name": "Topic reasoning",
+  "json_file": "7_topic_reasoning.json",
+  "format": "multiple choice",
+  "clip": "mlvu/topic_reasoning-3.mp4"
+ },
+ {
+  "video": "subPlot_new_all_195.mp4",
+  "duration": 811.0086589882094,
+  "question": "Please describe the situation after the woman in the plaid skirt interrupted her conversation with the young man in jeans by covering her mouth.",
+  "answer": "The woman in the plaid skirt covered her mouth, turned around and ran off, after which the young man in jeans picked up a drink from the table and left.",
+  "question_type": "subPlot",
+  "scoring_points": [
+   "The woman in the plaid skirt turned around and ran off",
+   "The young man in jeans picked up a drink from the table and left"
+  ],
+  "group": "Sub-scene captioning",
+  "task": "sub_scene",
+  "task_name": "Sub-scene captioning",
+  "json_file": "8_sub_scene.json",
+  "format": "generation",
+  "clip": "mlvu/sub_scene-1.mp4"
+ },
+ {
+  "video": "subPlot_new_all_196.mp4",
+  "duration": 872.5775227205512,
+  "question": "Please describe the situation when the man in slippers in front of the kitten pours food.",
+  "answer": "The man in slippers in front of the kitten emptied the food from the bowl in his hand into the bowl on the ground, and then reached out to pet the kitten.",
+  "question_type": "subPlot",
+  "scoring_points": [
+   "The man emptied the food from the bowl in his hand into the bowl on the ground",
+   "He then reached out to pet the kitten."
+  ],
+  "group": "Sub-scene captioning",
+  "task": "sub_scene",
+  "task_name": "Sub-scene captioning",
+  "json_file": "8_sub_scene.json",
+  "format": "generation",
+  "clip": "mlvu/sub_scene-2.mp4"
+ },
+ {
+  "video": "subPlot_new_all_103.mp4",
+  "duration": 1025.7923203962248,
+  "question": "Please describe the situation where the long-haired man gives the short-haired man meat and a small knife.",
+  "answer": "The long-haired man picks up a piece of meat and hands it to the short-haired man, then gives him a small knife.",
+  "question_type": "subPlot",
+  "scoring_points": [
+   "The long-haired man picks up a piece of meat",
+   "hands it to the short-haired man",
+   "then gives him a small knife."
+  ],
+  "group": "Sub-scene captioning",
+  "task": "sub_scene",
+  "task_name": "Sub-scene captioning",
+  "json_file": "8_sub_scene.json",
+  "format": "generation",
+  "clip": "mlvu/sub_scene-3.mp4"
+ },
+ {
+  "video": "1.mp4",
+  "duration": 401.23,
+  "question": "Please summarize this video, including its main content.",
+  "answer": "The video opens with a man in a black sweater piloting a sailboat on the sea. He moves around the boat, looking around. Suddenly, his path is blocked by a wall adorned with a sky pattern. He repeatedly strikes the wall, and when his efforts are fruitless, he walks along the wall's edge and ascends the stairs that emerge. He runs his hand along the wall, where there is a door labeled 'EXIT'. The scene shifts to a bespectacled man holding a monitor that tracks the man in the black sweater's every move. The video alternates between the two men, hinting at a dialogue between them. Ultimately, the man in the black sweater steps through the door and exits the scene. The video then showcases a variety of people from different professions, all with smiles of joy on their faces.",
+  "question_type": "summary",
+  "group": "Video summarization",
+  "task": "summary",
+  "task_name": "Video summarization",
+  "json_file": "9_summary.json",
+  "format": "generation",
+  "clip": "mlvu/summary-1.mp4"
+ },
+ {
+  "video": "8.mp4",
+  "duration": 507.29,
+  "question": "Please summarize this video, including its main content.",
+  "answer": "The video opens with a blue cartoon character lying in bed on a phone call. She then gets up and strolls around her room, which is untidy with a cup of water on the table and a pet on the floor. As the scene transitions, we see music posters, framed photos, various toys, pens, and notebooks on the wall. She then dresses up, steps out, and takes a microphone to introduce various fun and novel things to everyone. She then proceeds to a restaurant to eat and chat with her friends. The scene changes to a group of cartoon characters playing ball, then switches to another group chatting. They then exit, and a ship appears in the small town, filled with cartoon characters, with one character chatting with them from below. This character then moves around the town while video chatting with friends. A cartoon character then meets and chats with three cartoon friends from his phone, one with pink hair, one with black hair, and one with green hair. They are surrounded by mountains, water, and various moving cartoon characters. The video concludes with the end credits of the cartoon movie.",
+  "question_type": "summary",
+  "group": "Video summarization",
+  "task": "summary",
+  "task_name": "Video summarization",
+  "json_file": "9_summary.json",
+  "format": "generation",
+  "clip": "mlvu/summary-2.mp4"
+ },
+ {
+  "video": "tomjerry_2.mp4",
+  "duration": 303,
+  "question": "Can you summarize the main contents of this video?",
+  "answer": "In the beginning of the video, a cartoon mouse is seen in the snow, eventually getting wrapped into a snowball. The mouse reaches a house and enters when a cartoon cat opens the door, but the cat gets shut outside. Inside, the mouse starts a fire while the cat tries to enter the house through the chimney, but ultimately re-enters through the door. The mouse then sleeps on a bed made of cheese, while the cat attempts to chase it out.",
+  "question_type": "summary",
+  "group": "Video summarization",
+  "task": "summary",
+  "task_name": "Video summarization",
+  "json_file": "9_summary.json",
+  "format": "generation",
+  "clip": "mlvu/summary-3.mp4"
+ }
+]

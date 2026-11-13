@@ -1,0 +1,57 @@
+{
+ "questions": 6678,
+ "videos": 3761,
+ "val_questions": 1337,
+ "test_questions": 5341,
+ "tasks": {
+  "S2E": 410,
+  "S2A": 410,
+  "E3E": 406,
+  "S2O": 403,
+  "T2A": 402,
+  "O2E": 401,
+  "T3E": 401,
+  "SSS": 398,
+  "T2E": 398,
+  "O3O": 394,
+  "E2O": 393,
+  "T3O": 391,
+  "T2O": 387,
+  "SOS": 381,
+  "TOS": 380,
+  "SAA": 375,
+  "TAA": 348
+ },
+ "levels": {
+  "L2-Relation": 3474,
+  "IntraMoment": 2579,
+  "L1-Perception": 625
+ },
+ "duration_groups_s": {
+  "3600": 2897,
+  "600": 1967,
+  "60": 925,
+  "15": 889
+ },
+ "topics": {
+  "LC-Lifestyle-Cooking-Recipes": 840,
+  "LT-Lifestyle-Travel-Guides": 816,
+  "LV-Lifestyle-Life-Vlogs": 813,
+  "Recreational: MR-Movie-Recaps": 810,
+  "KH-Knowledge-History": 633,
+  "KG-Knowledge-Geography": 630,
+  "KA-Knowledge-Art": 615,
+  "NP-News-Programs": 613,
+  "KS-Knowledge-STEM": 497,
+  "KC-Knowledge-Computer-Science": 410,
+  "NPs": 1
+ },
+ "duration_s": {
+  "n": 6678,
+  "min": 8.0,
+  "median": 521.2,
+  "mean": 730.5,
+  "max": 3574.0,
+  "sum_hours": 1355.1
+ }
+}
