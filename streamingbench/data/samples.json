@@ -1,6 +1,6 @@
 [
  {
-  "group": "Action Recognition",
+  "group": "Action Perception",
   "subset": "real",
   "video_categories": "getting_dressed",
   "time_stamp": "0:01:06",
@@ -13,10 +13,10 @@
   ],
   "answer": "B",
   "source_video": "sample_159_real.mp4",
-  "clip": "streamingbench/action-recognition-1.mp4"
+  "clip": "streamingbench/action-perception-1.mp4"
  },
  {
-  "group": "Action Recognition",
+  "group": "Action Perception",
   "subset": "real",
   "video_categories": "getting_dressed",
   "time_stamp": "00:02:42",
@@ -29,10 +29,10 @@
   ],
   "answer": "B",
   "source_video": "sample_161_real.mp4",
-  "clip": "streamingbench/action-recognition-2.mp4"
+  "clip": "streamingbench/action-perception-2.mp4"
  },
  {
-  "group": "Action Recognition",
+  "group": "Action Perception",
   "subset": "real",
   "video_categories": "getting_dressed",
   "time_stamp": "0:00:19",
@@ -45,7 +45,7 @@
   ],
   "answer": "C",
   "source_video": "sample_154_real.mp4",
-  "clip": "streamingbench/action-recognition-3.mp4"
+  "clip": "streamingbench/action-perception-3.mp4"
  },
  {
   "group": "Attribute Perception",
