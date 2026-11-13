@@ -1,0 +1,90 @@
+{
+ "items": 1060,
+ "videos": 812,
+ "tasks": {
+  "Alert": 313,
+  "Track": 192,
+  "Recall": 163,
+  "Look": 159,
+  "Time": 126,
+  "Commentate": 107
+ },
+ "capabilities_per_task": {
+  "Look": {
+   "IVQA": 159
+  },
+  "Recall": {
+   "LVM": 156,
+   "CIR": 7
+  },
+  "Time": {
+   "TOA": 126
+  },
+  "Alert": {
+   "PTR": 313
+  },
+  "Track": {
+   "CST": 191,
+   "BRC": 1
+  },
+  "Commentate": {
+   "LCG": 107
+  }
+ },
+ "interaction_types": {
+  "QA": 626,
+  "INS": 434
+ },
+ "time_types": {
+  "C": 406,
+  "B": 338,
+  "A": 316
+ },
+ "negative_items": 69,
+ "mcq_items": 688,
+ "responses_per_item": {
+  "n": 1060,
+  "min": 1.0,
+  "median": 1.0,
+  "mean": 3.6,
+  "max": 125.0,
+  "sum_hours": 1.1
+ },
+ "domains": {
+  "author": 824,
+  "cooking_recipe": 51,
+  "open_quick_howto": 44,
+  "open_skill_practice": 34,
+  "open_pov_tasks": 26,
+  "open_navigation": 24,
+  "open_observation": 11,
+  "open_state_change": 11,
+  "sports_individual_form": 11,
+  "shorts_crafts": 6,
+  "shorts_howto_tech": 4,
+  "shorts_diy_repair": 3,
+  "shorts_navigation": 3,
+  "shorts_assembly": 2,
+  "shorts_cooking": 2,
+  "shorts_pet_care": 2,
+  "shorts_music_play": 1,
+  "shorts_science_demo": 1
+ },
+ "responses_total": 3711,
+ "duration_s": {
+  "n": 812,
+  "min": 14.6,
+  "median": 143.5,
+  "mean": 159.1,
+  "max": 940.5,
+  "sum_hours": 35.9
+ },
+ "question_time_s": {
+  "n": 1060,
+  "min": 0.0,
+  "median": 0.0,
+  "mean": 39.2,
+  "max": 652.5,
+  "sum_hours": 11.5
+ }
+}
