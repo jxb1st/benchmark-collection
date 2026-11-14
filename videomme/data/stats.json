@@ -34,5 +34,12 @@
   "min": 11,
   "max": 3600,
   "source": "paper"
- }
+ },
+ "formats": [
+  [
+   "Multiple choice",
+   2700,
+   "2,700 with 4 options"
+  ]
+ ]
 }

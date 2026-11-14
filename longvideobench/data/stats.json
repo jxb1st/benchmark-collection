@@ -53,5 +53,12 @@
   "mean": 730.5,
   "max": 3574.0,
   "sum_hours": 1355.1
- }
+ },
+ "formats": [
+  [
+   "Multiple choice",
+   6678,
+   "validation set: 983 with 5 options, 353 with 4 options, 1 with 3 options"
+  ]
+ ]
 }

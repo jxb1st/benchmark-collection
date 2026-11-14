@@ -31,10 +31,10 @@
  },
  "videos_per_subset": {
   "Real_Time_Visual_Understanding": 500,
+  "Sequential_Question_Answering": 50,
   "Omni_Source_Understanding": 50,
-  "Proactive_Output": 50,
   "Contextual_Understanding": 50,
-  "Sequential_Question_Answering": 50
+  "Proactive_Output": 50
  },
  "duration_s": {
   "real": {
@@ -70,5 +70,17 @@
  "frames_required": {
   "multiple": 2761,
   "single": 1739
- }
+ },
+ "formats": [
+  [
+   "Multiple choice",
+   4250,
+   "answer with the letter; 4,239 with 4 options, 9 with 5 options, 1 with 7 options, 1 with 6 options"
+  ],
+  [
+   "Proactive output",
+   250,
+   "say the given phrase at the right moment; the model is asked every second whether now is the time"
+  ]
+ ]
 }

@@ -113,5 +113,22 @@
    "mean": 292.2,
    "max": 1480.0
   }
- }
+ },
+ "formats": [
+  [
+   "Multiple choice",
+   1468,
+   "backward tracing and real-time perception; 1,371 with 4 options, 42 with 2 options, 42 with 3 options, 13 with 5 options"
+  ],
+  [
+   "A number",
+   698,
+   "repetition event count: the count so far at each query"
+  ],
+  [
+   "Yes or No",
+   869,
+   "step recognition (629 queries: is this step being performed now) and clue reveal (240: can the question be answered yet)"
+  ]
+ ]
 }

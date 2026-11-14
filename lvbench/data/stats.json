@@ -25,5 +25,12 @@
   "mean": 4038.0,
   "max": 8395.5,
   "sum_hours": 115.5
- }
+ },
+ "formats": [
+  [
+   "Multiple choice",
+   1549,
+   "1,549 with 4 options"
+  ]
+ ]
 }

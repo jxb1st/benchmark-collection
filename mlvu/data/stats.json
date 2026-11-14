@@ -58,5 +58,17 @@
   "questions": 3102,
   "mean_duration_s": 930,
   "source": "paper (dev + test)"
- }
+ },
+ "formats": [
+  [
+   "Multiple choice",
+   2175,
+   "2,175 with 4 options"
+  ],
+  [
+   "Free text",
+   418,
+   "sub-scene captioning (201) and video summary (217), scored 0 to 10 against the reference"
+  ]
+ ]
 }

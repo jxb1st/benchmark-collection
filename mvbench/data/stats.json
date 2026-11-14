@@ -47,5 +47,12 @@
  "videos": 3899,
  "duration_s": {
   "note": "mostly 5 to 35 s per clip (paper); clip lengths are not in the annotation files"
- }
+ },
+ "formats": [
+  [
+   "Multiple choice",
+   4000,
+   "2,376 with 4 options, 1,301 with 3 options, 200 with 5 options, 118 with 2 options, 5 with 1 option"
+  ]
+ ]
 }

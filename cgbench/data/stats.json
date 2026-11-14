@@ -64,5 +64,22 @@
   "6": 2968,
   "8": 2699,
   "5": 118
- }
+ },
+ "formats": [
+  [
+   "Multiple choice",
+   12129,
+   "6,344 with 7 options, 2,968 with 6 options, 2,699 with 8 options, 118 with 5 options"
+  ],
+  [
+   "Clue interval",
+   12129,
+   "white-box setting: the same questions, and the model also outputs the start and end time of its clue"
+  ],
+  [
+   "Free text",
+   12129,
+   "open-ended setting: the same questions without options, judged by GPT-4o"
+  ]
+ ]
 }

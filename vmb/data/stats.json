@@ -27,5 +27,22 @@
   "n_episodic": 935,
   "n_answer": 512,
   "n_multi_parent": 348
- }
+ },
+ "formats": [
+  [
+   "Open answer",
+   1709,
+   "free text, judged against the reference answer"
+  ],
+  [
+   "Multiple choice",
+   603,
+   "465 with 8 options, 51 with 4 options, 32 with 5 options, 31 with 6 options, 24 with 7 options"
+  ],
+  [
+   "True or false",
+   164,
+   "yes or no"
+  ]
+ ]
 }
