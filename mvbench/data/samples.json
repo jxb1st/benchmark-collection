@@ -17,6 +17,10 @@
   "group": "Action antonym",
   "task_name": "Action antonym",
   "source_dataset": "PAXION (SSv2)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the PAXION (SSv2) archive on the Hub"
+  },
   "clip": "mvbench/action_antonym-1.mp4"
  },
  {
@@ -37,6 +41,10 @@
   "group": "Action antonym",
   "task_name": "Action antonym",
   "source_dataset": "PAXION (SSv2)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the PAXION (SSv2) archive on the Hub"
+  },
   "clip": "mvbench/action_antonym-2.mp4"
  },
  {
@@ -57,6 +65,10 @@
   "group": "Action antonym",
   "task_name": "Action antonym",
   "source_dataset": "PAXION (SSv2)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the PAXION (SSv2) archive on the Hub"
+  },
   "clip": "mvbench/action_antonym-3.mp4"
  },
  {
@@ -77,6 +89,10 @@
   "group": "Action count",
   "task_name": "Action count",
   "source_dataset": "Perception Test",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Perception Test archive on the Hub"
+  },
   "clip": "mvbench/action_count-1.mp4"
  },
  {
@@ -97,6 +113,10 @@
   "group": "Action count",
   "task_name": "Action count",
   "source_dataset": "Perception Test",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Perception Test archive on the Hub"
+  },
   "clip": "mvbench/action_count-2.mp4"
  },
  {
@@ -117,6 +137,10 @@
   "group": "Action count",
   "task_name": "Action count",
   "source_dataset": "Perception Test",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Perception Test archive on the Hub"
+  },
   "clip": "mvbench/action_count-3.mp4"
  },
  {
@@ -137,6 +161,10 @@
   "group": "Character order",
   "task_name": "Character order",
   "source_dataset": "Perception Test",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Perception Test archive on the Hub"
+  },
   "clip": "mvbench/character_order-1.mp4"
  },
  {
@@ -157,6 +185,10 @@
   "group": "Character order",
   "task_name": "Character order",
   "source_dataset": "Perception Test",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Perception Test archive on the Hub"
+  },
   "clip": "mvbench/character_order-2.mp4"
  },
  {
@@ -177,6 +209,10 @@
   "group": "Character order",
   "task_name": "Character order",
   "source_dataset": "Perception Test",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Perception Test archive on the Hub"
+  },
   "clip": "mvbench/character_order-3.mp4"
  },
  {
@@ -197,6 +233,10 @@
   "group": "Object shuffle",
   "task_name": "Object shuffle",
   "source_dataset": "Perception Test",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Perception Test archive on the Hub"
+  },
   "clip": "mvbench/object_shuffle-1.mp4"
  },
  {
@@ -217,6 +257,10 @@
   "group": "Object shuffle",
   "task_name": "Object shuffle",
   "source_dataset": "Perception Test",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Perception Test archive on the Hub"
+  },
   "clip": "mvbench/object_shuffle-2.mp4"
  },
  {
@@ -237,6 +281,10 @@
   "group": "Object shuffle",
   "task_name": "Object shuffle",
   "source_dataset": "Perception Test",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Perception Test archive on the Hub"
+  },
   "clip": "mvbench/object_shuffle-3.mp4"
  },
  {
@@ -257,6 +305,10 @@
   "group": "State change",
   "task_name": "State change",
   "source_dataset": "Perception Test",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Perception Test archive on the Hub"
+  },
   "clip": "mvbench/state_change-1.mp4"
  },
  {
@@ -277,6 +329,10 @@
   "group": "State change",
   "task_name": "State change",
   "source_dataset": "Perception Test",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Perception Test archive on the Hub"
+  },
   "clip": "mvbench/state_change-2.mp4"
  },
  {
@@ -297,6 +353,10 @@
   "group": "State change",
   "task_name": "State change",
   "source_dataset": "Perception Test",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Perception Test archive on the Hub"
+  },
   "clip": "mvbench/state_change-3.mp4"
  },
  {
@@ -322,6 +382,10 @@
   "group": "Action localization",
   "task_name": "Action localization",
   "source_dataset": "Charades-STA",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Charades-STA archive on the Hub"
+  },
   "clip": "mvbench/action_localization-1.mp4"
  },
  {
@@ -347,6 +411,10 @@
   "group": "Action localization",
   "task_name": "Action localization",
   "source_dataset": "Charades-STA",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Charades-STA archive on the Hub"
+  },
   "clip": "mvbench/action_localization-2.mp4"
  },
  {
@@ -372,6 +440,10 @@
   "group": "Action localization",
   "task_name": "Action localization",
   "source_dataset": "Charades-STA",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Charades-STA archive on the Hub"
+  },
   "clip": "mvbench/action_localization-3.mp4"
  },
  {
@@ -395,6 +467,10 @@
   "group": "Action prediction",
   "task_name": "Action prediction",
   "source_dataset": "STAR",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the STAR archive on the Hub"
+  },
   "clip": "mvbench/action_prediction-1.mp4"
  },
  {
@@ -418,6 +494,10 @@
   "group": "Action prediction",
   "task_name": "Action prediction",
   "source_dataset": "STAR",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the STAR archive on the Hub"
+  },
   "clip": "mvbench/action_prediction-2.mp4"
  },
  {
@@ -441,6 +521,10 @@
   "group": "Action prediction",
   "task_name": "Action prediction",
   "source_dataset": "STAR",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the STAR archive on the Hub"
+  },
   "clip": "mvbench/action_prediction-3.mp4"
  },
  {
@@ -464,6 +548,10 @@
   "group": "Action sequence",
   "task_name": "Action sequence",
   "source_dataset": "STAR",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the STAR archive on the Hub"
+  },
   "clip": "mvbench/action_sequence-1.mp4"
  },
  {
@@ -487,6 +575,10 @@
   "group": "Action sequence",
   "task_name": "Action sequence",
   "source_dataset": "STAR",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the STAR archive on the Hub"
+  },
   "clip": "mvbench/action_sequence-2.mp4"
  },
  {
@@ -510,6 +602,10 @@
   "group": "Action sequence",
   "task_name": "Action sequence",
   "source_dataset": "STAR",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the STAR archive on the Hub"
+  },
   "clip": "mvbench/action_sequence-3.mp4"
  },
  {
@@ -535,6 +631,10 @@
   "group": "Object interaction",
   "task_name": "Object interaction",
   "source_dataset": "STAR",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the STAR archive on the Hub"
+  },
   "clip": "mvbench/object_interaction-1.mp4"
  },
  {
@@ -560,6 +660,10 @@
   "group": "Object interaction",
   "task_name": "Object interaction",
   "source_dataset": "STAR",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the STAR archive on the Hub"
+  },
   "clip": "mvbench/object_interaction-2.mp4"
  },
  {
@@ -585,6 +689,10 @@
   "group": "Object interaction",
   "task_name": "Object interaction",
   "source_dataset": "STAR",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the STAR archive on the Hub"
+  },
   "clip": "mvbench/object_interaction-3.mp4"
  },
  {
@@ -606,6 +714,10 @@
   "group": "Counterfactual inference",
   "task_name": "Counterfactual inference",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/counterfactual_inference-1.mp4"
  },
  {
@@ -625,6 +737,10 @@
   "group": "Counterfactual inference",
   "task_name": "Counterfactual inference",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/counterfactual_inference-2.mp4"
  },
  {
@@ -644,6 +760,10 @@
   "group": "Counterfactual inference",
   "task_name": "Counterfactual inference",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/counterfactual_inference-3.mp4"
  },
  {
@@ -663,6 +783,10 @@
   "group": "Moving attribute",
   "task_name": "Moving attribute",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/moving_attribute-1.mp4"
  },
  {
@@ -683,6 +807,10 @@
   "group": "Moving attribute",
   "task_name": "Moving attribute",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/moving_attribute-2.mp4"
  },
  {
@@ -704,6 +832,10 @@
   "group": "Moving attribute",
   "task_name": "Moving attribute",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/moving_attribute-3.mp4"
  },
  {
@@ -725,6 +857,10 @@
   "group": "Moving count",
   "task_name": "Moving count",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/moving_count-1.mp4"
  },
  {
@@ -746,6 +882,10 @@
   "group": "Moving count",
   "task_name": "Moving count",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/moving_count-2.mp4"
  },
  {
@@ -767,6 +907,10 @@
   "group": "Moving count",
   "task_name": "Moving count",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/moving_count-3.mp4"
  },
  {
@@ -788,6 +932,10 @@
   "group": "Moving direction",
   "task_name": "Moving direction",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/moving_direction-1.mp4"
  },
  {
@@ -809,6 +957,10 @@
   "group": "Moving direction",
   "task_name": "Moving direction",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/moving_direction-2.mp4"
  },
  {
@@ -830,6 +982,10 @@
   "group": "Moving direction",
   "task_name": "Moving direction",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/moving_direction-3.mp4"
  },
  {
@@ -850,6 +1006,10 @@
   "group": "Object existence",
   "task_name": "Object existence",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/object_existence-1.mp4"
  },
  {
@@ -870,6 +1030,10 @@
   "group": "Object existence",
   "task_name": "Object existence",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/object_existence-2.mp4"
  },
  {
@@ -890,6 +1054,10 @@
   "group": "Object existence",
   "task_name": "Object existence",
   "source_dataset": "CLEVRER",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the CLEVRER archive on the Hub"
+  },
   "clip": "mvbench/object_existence-3.mp4"
  },
  {
@@ -911,6 +1079,10 @@
   "group": "Egocentric navigation",
   "task_name": "Egocentric navigation",
   "source_dataset": "VLN-CE",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the VLN-CE archive on the Hub"
+  },
   "clip": "mvbench/egocentric_navigation-1.mp4"
  },
  {
@@ -932,6 +1104,10 @@
   "group": "Egocentric navigation",
   "task_name": "Egocentric navigation",
   "source_dataset": "VLN-CE",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the VLN-CE archive on the Hub"
+  },
   "clip": "mvbench/egocentric_navigation-2.mp4"
  },
  {
@@ -953,6 +1129,10 @@
   "group": "Egocentric navigation",
   "task_name": "Egocentric navigation",
   "source_dataset": "VLN-CE",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the VLN-CE archive on the Hub"
+  },
   "clip": "mvbench/egocentric_navigation-3.mp4"
  },
  {
@@ -1274,6 +1454,10 @@
   "group": "Episodic reasoning",
   "task_name": "Episodic reasoning",
   "source_dataset": "TVQA",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the TVQA archive on the Hub"
+  },
   "clip": "mvbench/episodic_reasoning-1.mp4",
   "frames": true
  },
@@ -1575,6 +1759,10 @@
   "group": "Episodic reasoning",
   "task_name": "Episodic reasoning",
   "source_dataset": "TVQA",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the TVQA archive on the Hub"
+  },
   "clip": "mvbench/episodic_reasoning-2.mp4",
   "frames": true
  },
@@ -1876,6 +2064,10 @@
   "group": "Episodic reasoning",
   "task_name": "Episodic reasoning",
   "source_dataset": "TVQA",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the TVQA archive on the Hub"
+  },
   "clip": "mvbench/episodic_reasoning-3.mp4",
   "frames": true
  },
@@ -1898,6 +2090,10 @@
   "group": "Fine grained action",
   "task_name": "Fine grained action",
   "source_dataset": "Moments in Time V1",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Moments in Time V1 archive on the Hub"
+  },
   "clip": "mvbench/fine_grained_action-1.mp4"
  },
  {
@@ -1919,6 +2115,10 @@
   "group": "Fine grained action",
   "task_name": "Fine grained action",
   "source_dataset": "Moments in Time V1",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Moments in Time V1 archive on the Hub"
+  },
   "clip": "mvbench/fine_grained_action-2.mp4"
  },
  {
@@ -1940,6 +2140,10 @@
   "group": "Fine grained action",
   "task_name": "Fine grained action",
   "source_dataset": "Moments in Time V1",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the Moments in Time V1 archive on the Hub"
+  },
   "clip": "mvbench/fine_grained_action-3.mp4"
  },
  {
@@ -1961,6 +2165,10 @@
   "group": "Scene transition",
   "task_name": "Scene transition",
   "source_dataset": "MoVQA",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the MoVQA archive on the Hub"
+  },
   "clip": "mvbench/scene_transition-1.mp4"
  },
  {
@@ -1982,6 +2190,10 @@
   "group": "Scene transition",
   "task_name": "Scene transition",
   "source_dataset": "MoVQA",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the MoVQA archive on the Hub"
+  },
   "clip": "mvbench/scene_transition-2.mp4"
  },
  {
@@ -2003,6 +2215,10 @@
   "group": "Scene transition",
   "task_name": "Scene transition",
   "source_dataset": "MoVQA",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the MoVQA archive on the Hub"
+  },
   "clip": "mvbench/scene_transition-3.mp4"
  },
  {
@@ -2024,6 +2240,10 @@
   "group": "Unexpected action",
   "task_name": "Unexpected action",
   "source_dataset": "FunQA",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the FunQA archive on the Hub"
+  },
   "clip": "mvbench/unexpected_action-1.mp4"
  },
  {
@@ -2045,6 +2265,10 @@
   "group": "Unexpected action",
   "task_name": "Unexpected action",
   "source_dataset": "FunQA",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the FunQA archive on the Hub"
+  },
   "clip": "mvbench/unexpected_action-2.mp4"
  },
  {
@@ -2066,6 +2290,10 @@
   "group": "Unexpected action",
   "task_name": "Unexpected action",
   "source_dataset": "FunQA",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the FunQA archive on the Hub"
+  },
   "clip": "mvbench/unexpected_action-3.mp4"
  },
  {
@@ -2084,7 +2312,11 @@
   "note": "video not distributed (NTU RGB+D license)",
   "group": "Fine grained pose",
   "task_name": "Fine grained pose",
-  "source_dataset": "NTU RGB+D"
+  "source_dataset": "NTU RGB+D",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the NTU RGB+D archive on the Hub"
+  }
  },
  {
   "video": "S015C002P037R001A009_rgb.avi",
@@ -2102,7 +2334,11 @@
   "note": "video not distributed (NTU RGB+D license)",
   "group": "Fine grained pose",
   "task_name": "Fine grained pose",
-  "source_dataset": "NTU RGB+D"
+  "source_dataset": "NTU RGB+D",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the NTU RGB+D archive on the Hub"
+  }
  },
  {
   "video": "S009C003P016R002A006_rgb.avi",
@@ -2120,6 +2356,10 @@
   "note": "video not distributed (NTU RGB+D license)",
   "group": "Fine grained pose",
   "task_name": "Fine grained pose",
-  "source_dataset": "NTU RGB+D"
+  "source_dataset": "NTU RGB+D",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/OpenGVLab/MVBench/tree/main/video",
+   "label": "inside the NTU RGB+D archive on the Hub"
+  }
  }
 ]

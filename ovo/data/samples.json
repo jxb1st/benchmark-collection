@@ -18,7 +18,11 @@
   "mode": "Backward Tracing",
   "source_dataset": "Ego4D",
   "clip_duration": 2.0,
-  "clip": "ovo/epm-34.mp4"
+  "clip": "ovo/epm-34.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 8,
@@ -40,7 +44,11 @@
   "mode": "Backward Tracing",
   "source_dataset": "Ego4D",
   "clip_duration": 7.001995,
-  "clip": "ovo/epm-8.mp4"
+  "clip": "ovo/epm-8.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 31,
@@ -61,7 +69,11 @@
   "mode": "Backward Tracing",
   "source_dataset": "Ego4D",
   "clip_duration": null,
-  "clip": "ovo/epm-31.mp4"
+  "clip": "ovo/epm-31.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 433,
@@ -82,7 +94,11 @@
   "mode": "Backward Tracing",
   "source_dataset": "OpenEQA",
   "clip_duration": 5.0,
-  "clip": "ovo/hld-433.mp4"
+  "clip": "ovo/hld-433.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 421,
@@ -103,7 +119,11 @@
   "mode": "Backward Tracing",
   "source_dataset": "OpenEQA",
   "clip_duration": 6.0,
-  "clip": "ovo/hld-421.mp4"
+  "clip": "ovo/hld-421.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 453,
@@ -124,7 +144,11 @@
   "mode": "Backward Tracing",
   "source_dataset": "OpenEQA",
   "clip_duration": null,
-  "clip": "ovo/hld-453.mp4"
+  "clip": "ovo/hld-453.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 530,
@@ -145,7 +169,11 @@
   "mode": "Backward Tracing",
   "source_dataset": "hirest",
   "clip_duration": 2.011995,
-  "clip": "ovo/asi-530.mp4"
+  "clip": "ovo/asi-530.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 532,
@@ -166,7 +194,11 @@
   "mode": "Backward Tracing",
   "source_dataset": "hirest",
   "clip_duration": 4.023991,
-  "clip": "ovo/asi-532.mp4"
+  "clip": "ovo/asi-532.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 609,
@@ -187,7 +219,11 @@
   "mode": "Backward Tracing",
   "source_dataset": "star",
   "clip_duration": null,
-  "clip": "ovo/asi-609.mp4"
+  "clip": "ovo/asi-609.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 966,
@@ -208,7 +244,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "Ego4D",
   "clip_duration": 5.0,
-  "clip": "ovo/ojr-966.mp4"
+  "clip": "ovo/ojr-966.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 841,
@@ -229,7 +269,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "YouTube_Games",
   "clip_duration": 6.0,
-  "clip": "ovo/ojr-841.mp4"
+  "clip": "ovo/ojr-841.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 884,
@@ -250,7 +294,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": null,
-  "clip": "ovo/ojr-884.mp4"
+  "clip": "ovo/ojr-884.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 774,
@@ -271,7 +319,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": 5.0,
-  "clip": "ovo/stu-774.mp4"
+  "clip": "ovo/stu-774.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 766,
@@ -292,7 +344,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": 6.0,
-  "clip": "ovo/stu-766.mp4"
+  "clip": "ovo/stu-766.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 804,
@@ -313,7 +369,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": null,
-  "clip": "ovo/stu-804.mp4"
+  "clip": "ovo/stu-804.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1454,
@@ -334,7 +394,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": 12.0,
-  "clip": "ovo/ocr-1454.mp4"
+  "clip": "ovo/ocr-1454.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1456,
@@ -355,7 +419,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": 12.0,
-  "clip": "ovo/ocr-1456.mp4"
+  "clip": "ovo/ocr-1456.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1440,
@@ -376,7 +444,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": null,
-  "clip": "ovo/ocr-1440.mp4"
+  "clip": "ovo/ocr-1440.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1054,
@@ -397,7 +469,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": 3.0,
-  "clip": "ovo/atr-1054.mp4"
+  "clip": "ovo/atr-1054.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1058,
@@ -418,7 +494,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": 3.0,
-  "clip": "ovo/atr-1058.mp4"
+  "clip": "ovo/atr-1058.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1071,
@@ -439,7 +519,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": null,
-  "clip": "ovo/atr-1071.mp4"
+  "clip": "ovo/atr-1071.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1245,
@@ -460,7 +544,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": 4.004004,
-  "clip": "ovo/acr-1245.mp4"
+  "clip": "ovo/acr-1245.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1313,
@@ -481,7 +569,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": 5.0,
-  "clip": "ovo/acr-1313.mp4"
+  "clip": "ovo/acr-1313.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1312,
@@ -502,7 +594,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "AutoEvalMetaData",
   "clip_duration": null,
-  "clip": "ovo/acr-1312.mp4"
+  "clip": "ovo/acr-1312.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1117,
@@ -523,7 +619,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "Ego4D",
   "clip_duration": 1.0,
-  "clip": "ovo/fpd-1117.mp4"
+  "clip": "ovo/fpd-1117.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1128,
@@ -544,7 +644,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "Ego4D",
   "clip_duration": 10.006009,
-  "clip": "ovo/fpd-1128.mp4"
+  "clip": "ovo/fpd-1128.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1138,
@@ -565,7 +669,11 @@
   "mode": "Real-Time Visual Perception",
   "source_dataset": "Ego4D",
   "clip_duration": null,
-  "clip": "ovo/fpd-1138.mp4"
+  "clip": "ovo/fpd-1138.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  }
  },
  {
   "id": 1631,
@@ -598,6 +706,10 @@
   "source_dataset": "thumos",
   "clip_duration": 4.023991,
   "clip": "ovo/rec-1631.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  },
   "n_queries": 3
  },
  {
@@ -627,6 +739,10 @@
   "source_dataset": "perception_test",
   "clip_duration": 14.001995,
   "clip": "ovo/rec-1560.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  },
   "n_queries": 2
  },
  {
@@ -684,6 +800,10 @@
   "source_dataset": "thumos",
   "clip_duration": null,
   "clip": "ovo/rec-1611.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  },
   "n_queries": 8
  },
  {
@@ -722,6 +842,10 @@
   "source_dataset": "MovieNet",
   "clip_duration": 28.023353,
   "clip": "ovo/crr-1492.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  },
   "n_queries": 5
  },
  {
@@ -760,6 +884,10 @@
   "source_dataset": "MovieNet",
   "clip_duration": 111.009174,
   "clip": "ovo/crr-1507.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  },
   "n_queries": 5
  },
  {
@@ -798,6 +926,10 @@
   "source_dataset": "MovieNet",
   "clip_duration": null,
   "clip": "ovo/crr-1486.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  },
   "n_queries": 5
  },
  {
@@ -893,6 +1025,10 @@
   "source_dataset": "COIN",
   "clip_duration": 7.007007,
   "clip": "ovo/ssr-1546.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  },
   "n_queries": 13
  },
  {
@@ -988,6 +1124,10 @@
   "source_dataset": "COIN",
   "clip_duration": 20.003337,
   "clip": "ovo/ssr-1550.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  },
   "n_queries": 13
  },
  {
@@ -1111,6 +1251,10 @@
   "source_dataset": "COIN",
   "clip_duration": null,
   "clip": "ovo/ssr-1541.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench/tree/main",
+   "label": "the chunks are inside chunked_videos.tar on the Hub"
+  },
   "n_queries": 18
  }
 ]

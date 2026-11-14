@@ -13,7 +13,11 @@
   ],
   "answer": "B",
   "source_video": "sample_159_real.mp4",
-  "clip": "streamingbench/action-perception-1.mp4"
+  "clip": "streamingbench/action-perception-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_159_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Action Perception",
@@ -29,7 +33,11 @@
   ],
   "answer": "B",
   "source_video": "sample_161_real.mp4",
-  "clip": "streamingbench/action-perception-2.mp4"
+  "clip": "streamingbench/action-perception-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_161_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Action Perception",
@@ -45,7 +53,11 @@
   ],
   "answer": "C",
   "source_video": "sample_154_real.mp4",
-  "clip": "streamingbench/action-perception-3.mp4"
+  "clip": "streamingbench/action-perception-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_154_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Attribute Perception",
@@ -61,7 +73,11 @@
   ],
   "answer": "A",
   "source_video": "sample_9_real.mp4",
-  "clip": "streamingbench/attribute-perception-1.mp4"
+  "clip": "streamingbench/attribute-perception-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_9_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Attribute Perception",
@@ -77,7 +93,11 @@
   ],
   "answer": "A",
   "source_video": "Real-Time_sample_9.mp4",
-  "clip": "streamingbench/attribute-perception-2.mp4"
+  "clip": "streamingbench/attribute-perception-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Real-Time_sample_9.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Attribute Perception",
@@ -93,7 +113,11 @@
   ],
   "answer": "C",
   "source_video": "Real-Time_sample_203.mp4",
-  "clip": "streamingbench/attribute-perception-3.mp4"
+  "clip": "streamingbench/attribute-perception-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Real-Time_sample_203.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Causal Reasoning",
@@ -109,7 +133,11 @@
   ],
   "answer": "C",
   "source_video": "sample_1_real.mp4",
-  "clip": "streamingbench/causal-reasoning-1.mp4"
+  "clip": "streamingbench/causal-reasoning-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_1_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Causal Reasoning",
@@ -125,7 +153,11 @@
   ],
   "answer": "C",
   "source_video": "sample_23_real.mp4",
-  "clip": "streamingbench/causal-reasoning-2.mp4"
+  "clip": "streamingbench/causal-reasoning-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_23_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Causal Reasoning",
@@ -141,7 +173,11 @@
   ],
   "answer": "B",
   "source_video": "sample_119_real.mp4",
-  "clip": "streamingbench/causal-reasoning-3.mp4"
+  "clip": "streamingbench/causal-reasoning-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_119_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Clips Summarize",
@@ -157,7 +193,11 @@
   ],
   "answer": "B",
   "source_video": "sample_376_real.mp4",
-  "clip": "streamingbench/clips-summarize-1.mp4"
+  "clip": "streamingbench/clips-summarize-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_376_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Clips Summarize",
@@ -173,7 +213,11 @@
   ],
   "answer": "C",
   "source_video": "sample_377_real.mp4",
-  "clip": "streamingbench/clips-summarize-2.mp4"
+  "clip": "streamingbench/clips-summarize-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_377_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Clips Summarize",
@@ -189,7 +233,11 @@
   ],
   "answer": "A",
   "source_video": "Real-Time_sample_9.mp4",
-  "clip": "streamingbench/clips-summarize-3.mp4"
+  "clip": "streamingbench/clips-summarize-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Real-Time_sample_9.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Counting",
@@ -205,7 +253,11 @@
   ],
   "answer": "D",
   "source_video": "sample_103_real.mp4",
-  "clip": "streamingbench/counting-1.mp4"
+  "clip": "streamingbench/counting-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_103_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Counting",
@@ -221,7 +273,11 @@
   ],
   "answer": "A",
   "source_video": "sample_203_real.mp4",
-  "clip": "streamingbench/counting-2.mp4"
+  "clip": "streamingbench/counting-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_203_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Counting",
@@ -237,7 +293,11 @@
   ],
   "answer": "A",
   "source_video": "Real-Time_sample_203.mp4",
-  "clip": "streamingbench/counting-3.mp4"
+  "clip": "streamingbench/counting-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Real-Time_sample_203.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Event Understanding",
@@ -253,7 +313,11 @@
   ],
   "answer": "D",
   "source_video": "sample_4_real.mp4",
-  "clip": "streamingbench/event-understanding-1.mp4"
+  "clip": "streamingbench/event-understanding-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_4_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Event Understanding",
@@ -269,7 +333,11 @@
   ],
   "answer": "A",
   "source_video": "Real-Time_sample_203.mp4",
-  "clip": "streamingbench/event-understanding-2.mp4"
+  "clip": "streamingbench/event-understanding-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Real-Time_sample_203.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Event Understanding",
@@ -285,7 +353,11 @@
   ],
   "answer": "B",
   "source_video": "sample_206_real.mp4",
-  "clip": "streamingbench/event-understanding-3.mp4"
+  "clip": "streamingbench/event-understanding-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_206_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Object Perception",
@@ -301,7 +373,11 @@
   ],
   "answer": "A",
   "source_video": "Real-Time_sample_9.mp4",
-  "clip": "streamingbench/object-perception-1.mp4"
+  "clip": "streamingbench/object-perception-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Real-Time_sample_9.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Object Perception",
@@ -317,7 +393,11 @@
   ],
   "answer": "B",
   "source_video": "sample_158_real.mp4",
-  "clip": "streamingbench/object-perception-2.mp4"
+  "clip": "streamingbench/object-perception-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_158_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Object Perception",
@@ -333,7 +413,11 @@
   ],
   "answer": "D",
   "source_video": "sample_1_real.mp4",
-  "clip": "streamingbench/object-perception-3.mp4"
+  "clip": "streamingbench/object-perception-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_1_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Prospective Reasoning",
@@ -349,7 +433,11 @@
   ],
   "answer": "A",
   "source_video": "sample_9_real.mp4",
-  "clip": "streamingbench/prospective-reasoning-1.mp4"
+  "clip": "streamingbench/prospective-reasoning-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_9_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Prospective Reasoning",
@@ -365,7 +453,11 @@
   ],
   "answer": "A",
   "source_video": "Real-Time_sample_9.mp4",
-  "clip": "streamingbench/prospective-reasoning-2.mp4"
+  "clip": "streamingbench/prospective-reasoning-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Real-Time_sample_9.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Prospective Reasoning",
@@ -381,7 +473,11 @@
   ],
   "answer": "D",
   "source_video": "sample_219_real.mp4",
-  "clip": "streamingbench/prospective-reasoning-3.mp4"
+  "clip": "streamingbench/prospective-reasoning-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_219_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Spatial Understanding",
@@ -397,7 +493,11 @@
   ],
   "answer": "D",
   "source_video": "sample_295_real.mp4",
-  "clip": "streamingbench/spatial-understanding-1.mp4"
+  "clip": "streamingbench/spatial-understanding-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_295_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Spatial Understanding",
@@ -413,7 +513,11 @@
   ],
   "answer": "B",
   "source_video": "sample_158_real.mp4",
-  "clip": "streamingbench/spatial-understanding-2.mp4"
+  "clip": "streamingbench/spatial-understanding-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_158_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Spatial Understanding",
@@ -429,7 +533,11 @@
   ],
   "answer": "B",
   "source_video": "sample_202_real.mp4",
-  "clip": "streamingbench/spatial-understanding-3.mp4"
+  "clip": "streamingbench/spatial-understanding-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_202_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Text-Rich Understanding",
@@ -445,7 +553,11 @@
   ],
   "answer": "D",
   "source_video": "sample_254_real.mp4",
-  "clip": "streamingbench/text-rich-understanding-1.mp4"
+  "clip": "streamingbench/text-rich-understanding-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_254_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Text-Rich Understanding",
@@ -461,7 +573,11 @@
   ],
   "answer": "B",
   "source_video": "sample_210_real.mp4",
-  "clip": "streamingbench/text-rich-understanding-2.mp4"
+  "clip": "streamingbench/text-rich-understanding-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_210_real.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Text-Rich Understanding",
@@ -477,7 +593,11 @@
   ],
   "answer": "A",
   "source_video": "Real-Time_sample_9.mp4",
-  "clip": "streamingbench/text-rich-understanding-3.mp4"
+  "clip": "streamingbench/text-rich-understanding-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Real-Time_sample_9.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Anomaly Context Understanding",
@@ -494,7 +614,11 @@
   "answer": "B",
   "source_video": "Anomaly_Context_Understanding_sample_47.mp4",
   "clip": "streamingbench/anomaly-context-understanding-1.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Anomaly_Context_Understanding_sample_47.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Anomaly Context Understanding",
@@ -511,7 +635,11 @@
   "answer": "B",
   "source_video": "sample_31_Anomaly_Context_Understanding.mp4",
   "clip": "streamingbench/anomaly-context-understanding-2.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_31_Anomaly_Context_Understanding.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Anomaly Context Understanding",
@@ -528,7 +656,11 @@
   "answer": "C",
   "source_video": "sample_21_Anomaly_Context_Understanding.mp4",
   "clip": "streamingbench/anomaly-context-understanding-3.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_21_Anomaly_Context_Understanding.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Emotion Recognition",
@@ -545,7 +677,11 @@
   "answer": "A",
   "source_video": "Emotion_Recognition_sample_23.mp4",
   "clip": "streamingbench/emotion-recognition-1.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Emotion_Recognition_sample_23.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Emotion Recognition",
@@ -562,7 +698,11 @@
   "answer": "D",
   "source_video": "sample_44_Emotion_Recognition.mp4",
   "clip": "streamingbench/emotion-recognition-2.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_44_Emotion_Recognition.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Emotion Recognition",
@@ -579,7 +719,11 @@
   "answer": "A",
   "source_video": "sample_42_Emotion_Recognition.mp4",
   "clip": "streamingbench/emotion-recognition-3.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_42_Emotion_Recognition.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Misleading Context Recognition",
@@ -596,7 +740,11 @@
   "answer": "D",
   "source_video": "Misleading_Context_Recognition_sample_8.mp4",
   "clip": "streamingbench/misleading-context-recognition-1.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Misleading_Context_Recognition_sample_8.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Misleading Context Recognition",
@@ -613,7 +761,11 @@
   "answer": "B",
   "source_video": "sample_6_Misleading_Context_Understanding.mp4",
   "clip": "streamingbench/misleading-context-recognition-2.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_6_Misleading_Context_Understanding.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Misleading Context Recognition",
@@ -630,7 +782,11 @@
   "answer": "B",
   "source_video": "sample_11_Misleading_Context_Understanding.mp4",
   "clip": "streamingbench/misleading-context-recognition-3.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_11_Misleading_Context_Understanding.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Multimodal Alignment",
@@ -647,7 +803,11 @@
   "answer": "D",
   "source_video": "sample_14_Multimodal_Alignment.mp4",
   "clip": "streamingbench/multimodal-alignment-1.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_14_Multimodal_Alignment.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Multimodal Alignment",
@@ -664,7 +824,11 @@
   "answer": "A",
   "source_video": "sample_42_Multimodal_Alignment.mp4",
   "clip": "streamingbench/multimodal-alignment-2.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_42_Multimodal_Alignment.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Multimodal Alignment",
@@ -681,7 +845,11 @@
   "answer": "B",
   "source_video": "Multimodal_Alignment_sample_43.mp4",
   "clip": "streamingbench/multimodal-alignment-3.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Multimodal_Alignment_sample_43.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Scene Understanding",
@@ -698,7 +866,11 @@
   "answer": "A",
   "source_video": "Scene_Understanding_sample_15.mp4",
   "clip": "streamingbench/scene-understanding-1.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Scene_Understanding_sample_15.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Scene Understanding",
@@ -715,7 +887,11 @@
   "answer": "D",
   "source_video": "sample_12_Scene_Understanding_1-25.mp4",
   "clip": "streamingbench/scene-understanding-2.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_12_Scene_Understanding_1-25.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Scene Understanding",
@@ -732,7 +908,11 @@
   "answer": "B",
   "source_video": "sample_2_Scene_Understanding_1-25.mp4",
   "clip": "streamingbench/scene-understanding-3.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_2_Scene_Understanding_1-25.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Source Discrimination",
@@ -749,7 +929,11 @@
   "answer": "D",
   "source_video": "Source_Discrimination_sample_8.mp4",
   "clip": "streamingbench/source-discrimination-1.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: Source_Discrimination_sample_8.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Source Discrimination",
@@ -766,7 +950,11 @@
   "answer": "C",
   "source_video": "sample_43_Source_Discrimination.mp4",
   "clip": "streamingbench/source-discrimination-2.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_43_Source_Discrimination.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Source Discrimination",
@@ -783,7 +971,11 @@
   "answer": "A",
   "source_video": "sample_26_Source_Discrimination.mp4",
   "clip": "streamingbench/source-discrimination-3.mp4",
-  "clip_audio": true
+  "clip_audio": true,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_26_Source_Discrimination.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Sequential Question Answering",
@@ -812,7 +1004,11 @@
     ]
    }
   ],
-  "clip": "streamingbench/sequential-question-answering-1.mp4"
+  "clip": "streamingbench/sequential-question-answering-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_28_sqa.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Sequential Question Answering",
@@ -841,7 +1037,11 @@
     ]
    }
   ],
-  "clip": "streamingbench/sequential-question-answering-2.mp4"
+  "clip": "streamingbench/sequential-question-answering-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_27_sqa.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Sequential Question Answering",
@@ -870,7 +1070,11 @@
     ]
    }
   ],
-  "clip": "streamingbench/sequential-question-answering-3.mp4"
+  "clip": "streamingbench/sequential-question-answering-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_6_sqa.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Proactive Output",
@@ -884,7 +1088,11 @@
   "ground_truth_time_stamp": "00:00:08",
   "ground_truth_output": "Three-pointer Serbia",
   "required_ability": "working memory",
-  "clip": "streamingbench/proactive-output-1.mp4"
+  "clip": "streamingbench/proactive-output-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_15_proactive.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Proactive Output",
@@ -898,7 +1106,11 @@
   "ground_truth_time_stamp": "00:00:14",
   "ground_truth_output": "40",
   "required_ability": "working memory",
-  "clip": "streamingbench/proactive-output-2.mp4"
+  "clip": "streamingbench/proactive-output-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_20_proactive.mp4 in the Hub archives"
+  }
  },
  {
   "group": "Proactive Output",
@@ -912,6 +1124,10 @@
   "ground_truth_time_stamp": "00:00:05",
   "ground_truth_output": "First ball potted",
   "required_ability": "working memory",
-  "clip": "streamingbench/proactive-output-3.mp4"
+  "clip": "streamingbench/proactive-output-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main",
+   "label": "full video: sample_3_proactive.mp4 in the Hub archives"
+  }
  }
 ]

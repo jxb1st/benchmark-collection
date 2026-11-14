@@ -12,7 +12,11 @@
   },
   "parents": [],
   "n_turns": 6,
-  "clip": "vmb/open-question-independent-turn-videomembench-118.mp4"
+  "clip": "vmb/open-question-independent-turn-videomembench-118.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-118.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "Open question, independent turn",
@@ -27,7 +31,11 @@
   },
   "parents": [],
   "n_turns": 7,
-  "clip": "vmb/open-question-independent-turn-videomembench-18.mp4"
+  "clip": "vmb/open-question-independent-turn-videomembench-18.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-18.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "Open question, independent turn",
@@ -42,7 +50,11 @@
   },
   "parents": [],
   "n_turns": 9,
-  "clip": "vmb/open-question-independent-turn-videomembench-198.mp4"
+  "clip": "vmb/open-question-independent-turn-videomembench-198.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-198.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "Multiple choice, independent turn",
@@ -66,7 +78,11 @@
   },
   "parents": [],
   "n_turns": 6,
-  "clip": "vmb/multiple-choice-independent-turn-videomembench-101.mp4"
+  "clip": "vmb/multiple-choice-independent-turn-videomembench-101.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-101.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "Multiple choice, independent turn",
@@ -90,7 +106,11 @@
   },
   "parents": [],
   "n_turns": 8,
-  "clip": "vmb/multiple-choice-independent-turn-videomembench-117.mp4"
+  "clip": "vmb/multiple-choice-independent-turn-videomembench-117.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-117.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "Multiple choice, independent turn",
@@ -110,7 +130,11 @@
   },
   "parents": [],
   "n_turns": 7,
-  "clip": "vmb/multiple-choice-independent-turn-videomembench-10.mp4"
+  "clip": "vmb/multiple-choice-independent-turn-videomembench-10.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-10.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "True or false, independent turn",
@@ -125,7 +149,11 @@
   },
   "parents": [],
   "n_turns": 6,
-  "clip": "vmb/true-or-false-independent-turn-videomembench-101.mp4"
+  "clip": "vmb/true-or-false-independent-turn-videomembench-101.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-101.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "True or false, independent turn",
@@ -140,7 +168,11 @@
   },
   "parents": [],
   "n_turns": 9,
-  "clip": "vmb/true-or-false-independent-turn-videomembench-198.mp4"
+  "clip": "vmb/true-or-false-independent-turn-videomembench-198.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-198.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "True or false, independent turn",
@@ -155,7 +187,11 @@
   },
   "parents": [],
   "n_turns": 7,
-  "clip": "vmb/true-or-false-independent-turn-videomembench-10.mp4"
+  "clip": "vmb/true-or-false-independent-turn-videomembench-10.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-10.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "Turn with an episodic dependency",
@@ -186,7 +222,11 @@
    }
   ],
   "n_turns": 6,
-  "clip": "vmb/turn-with-an-episodic-dependency-videomembench-118.mp4"
+  "clip": "vmb/turn-with-an-episodic-dependency-videomembench-118.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-118.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "Turn with an episodic dependency",
@@ -224,7 +264,11 @@
    }
   ],
   "n_turns": 8,
-  "clip": "vmb/turn-with-an-episodic-dependency-videomembench-97.mp4"
+  "clip": "vmb/turn-with-an-episodic-dependency-videomembench-97.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-97.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "Turn with an episodic dependency",
@@ -255,7 +299,11 @@
    }
   ],
   "n_turns": 8,
-  "clip": "vmb/turn-with-an-episodic-dependency-videomembench-299.mp4"
+  "clip": "vmb/turn-with-an-episodic-dependency-videomembench-299.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-299.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "Turn with an answer dependency",
@@ -286,7 +334,11 @@
    }
   ],
   "n_turns": 9,
-  "clip": "vmb/turn-with-an-answer-dependency-videomembench-198.mp4"
+  "clip": "vmb/turn-with-an-answer-dependency-videomembench-198.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-198.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "Turn with an answer dependency",
@@ -324,7 +376,11 @@
    }
   ],
   "n_turns": 8,
-  "clip": "vmb/turn-with-an-answer-dependency-videomembench-299.mp4"
+  "clip": "vmb/turn-with-an-answer-dependency-videomembench-299.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-299.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "group": "Turn with an answer dependency",
@@ -364,6 +420,10 @@
    }
   ],
   "n_turns": 8,
-  "clip": "vmb/turn-with-an-answer-dependency-videomembench-218.mp4"
+  "clip": "vmb/turn-with-an-answer-dependency-videomembench-218.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/VideoMemBench/data/resolve/main/videos/videomembench-218.mp4",
+   "label": "full video on the Hub"
+  }
  }
 ]

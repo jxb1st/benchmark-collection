@@ -35,8 +35,12 @@
   "mcq_answer": "A",
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0XfTtIvuWUg.mp4",
   "group": "Look: answer about the current view",
-  "clip": "interactionbench/look-1.mp4",
-  "clip_offset": 89.74
+  "clip": "interactionbench/0XfTtIvuWUg.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/0XfTtIvuWUg.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "-mFFJwS3xqA#0",
@@ -74,8 +78,12 @@
   "mcq_answer": "C",
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/-mFFJwS3xqA.mp4",
   "group": "Look: answer about the current view",
-  "clip": "interactionbench/look-2.mp4",
-  "clip_offset": 26.58
+  "clip": "interactionbench/-mFFJwS3xqA.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/-mFFJwS3xqA.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "-mFFJwS3xqA#2",
@@ -113,8 +121,12 @@
   "mcq_answer": "D",
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/-mFFJwS3xqA.mp4",
   "group": "Look: answer about the current view",
-  "clip": "interactionbench/look-3.mp4",
-  "clip_offset": 50.55
+  "clip": "interactionbench/-mFFJwS3xqA.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/-mFFJwS3xqA.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "-mFFJwS3xqA#3",
@@ -152,8 +164,12 @@
   "mcq_answer": "D",
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/-mFFJwS3xqA.mp4",
   "group": "Recall: answer about earlier evidence",
-  "clip": "interactionbench/recall-1.mp4",
-  "clip_offset": 117.82
+  "clip": "interactionbench/-mFFJwS3xqA.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/-mFFJwS3xqA.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "0FVesQpoMPQ#1",
@@ -191,8 +207,12 @@
   "mcq_answer": "A",
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0FVesQpoMPQ.mp4",
   "group": "Recall: answer about earlier evidence",
-  "clip": "interactionbench/recall-2.mp4",
-  "clip_offset": 152.5
+  "clip": "interactionbench/0FVesQpoMPQ.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/0FVesQpoMPQ.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "CBOr8KzjimM#0",
@@ -230,8 +250,12 @@
   "mcq_answer": "A",
   "local": "/gpfs/scrubbed/jxb1st/databench/interactionbench/videos_h264/CBOr8KzjimM.mp4",
   "group": "Recall: answer about earlier evidence",
-  "clip": "interactionbench/recall-3.mp4",
-  "clip_offset": 25.4
+  "clip": "interactionbench/CBOr8KzjimM.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/CBOr8KzjimM.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "03qNsrNlaS0#0",
@@ -265,8 +289,12 @@
   "mcq_answer": "B",
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/03qNsrNlaS0.mp4",
   "group": "Time: speak when an order or temporal condition resolves",
-  "clip": "interactionbench/time-1.mp4",
-  "clip_offset": 0.0
+  "clip": "interactionbench/03qNsrNlaS0.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/03qNsrNlaS0.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "0XfTtIvuWUg#0",
@@ -304,8 +332,12 @@
   "mcq_answer": "D",
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0XfTtIvuWUg.mp4",
   "group": "Time: speak when an order or temporal condition resolves",
-  "clip": "interactionbench/time-2.mp4",
-  "clip_offset": 0.0
+  "clip": "interactionbench/0XfTtIvuWUg.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/0XfTtIvuWUg.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "0XfTtIvuWUg#1",
@@ -343,8 +375,12 @@
   "mcq_answer": "D",
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0XfTtIvuWUg.mp4",
   "group": "Time: speak when an order or temporal condition resolves",
-  "clip": "interactionbench/time-3.mp4",
-  "clip_offset": 84.38
+  "clip": "interactionbench/0XfTtIvuWUg.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/0XfTtIvuWUg.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "03qNsrNlaS0#1",
@@ -382,8 +418,12 @@
   "mcq_answer": "C",
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/03qNsrNlaS0.mp4",
   "group": "Alert: speak when the requested event occurs",
-  "clip": "interactionbench/alert-1.mp4",
-  "clip_offset": 0.0
+  "clip": "interactionbench/03qNsrNlaS0.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/03qNsrNlaS0.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "0V4Kea2q-go#0",
@@ -421,8 +461,12 @@
   "mcq_answer": "E",
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0V4Kea2q-go.mp4",
   "group": "Alert: speak when the requested event occurs",
-  "clip": "interactionbench/alert-2.mp4",
-  "clip_offset": 0.0
+  "clip": "interactionbench/0V4Kea2q-go.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/0V4Kea2q-go.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "NN7T3ZX6xpA#0",
@@ -453,8 +497,12 @@
   "mcq_answer": null,
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/NN7T3ZX6xpA.mp4",
   "group": "Alert: speak when the requested event occurs",
-  "clip": "interactionbench/alert-3.mp4",
-  "clip_offset": 0.0
+  "clip": "interactionbench/NN7T3ZX6xpA.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/NN7T3ZX6xpA.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "--VCWegJ_oY#0",
@@ -550,8 +598,12 @@
   "mcq_answer": null,
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/--VCWegJ_oY.mp4",
   "group": "Track: update a count or state",
-  "clip": "interactionbench/track-1.mp4",
-  "clip_offset": 0.0
+  "clip": "interactionbench/--VCWegJ_oY.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/--VCWegJ_oY.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "-9stb1JxVM8#0",
@@ -657,8 +709,12 @@
   "mcq_answer": null,
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/-9stb1JxVM8.mp4",
   "group": "Track: update a count or state",
-  "clip": "interactionbench/track-2.mp4",
-  "clip_offset": 0.0
+  "clip": "interactionbench/-9stb1JxVM8.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/-9stb1JxVM8.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "NN7T3ZX6xpA#1",
@@ -689,8 +745,12 @@
   "mcq_answer": null,
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/NN7T3ZX6xpA.mp4",
   "group": "Track: update a count or state",
-  "clip": "interactionbench/track-3.mp4",
-  "clip_offset": 0.0
+  "clip": "interactionbench/NN7T3ZX6xpA.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/NN7T3ZX6xpA.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "0miUlpam8w0#0",
@@ -771,8 +831,12 @@
   "mcq_answer": null,
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0miUlpam8w0.mp4",
   "group": "Commentate: live commentary when the scene calls for it",
-  "clip": "interactionbench/commentate-1.mp4",
-  "clip_offset": 0.0
+  "clip": "interactionbench/0miUlpam8w0.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/0miUlpam8w0.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "0XfTtIvuWUg#2",
@@ -828,8 +892,12 @@
   "mcq_answer": null,
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0XfTtIvuWUg.mp4",
   "group": "Commentate: live commentary when the scene calls for it",
-  "clip": "interactionbench/commentate-2.mp4",
-  "clip_offset": 0.0
+  "clip": "interactionbench/0XfTtIvuWUg.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/0XfTtIvuWUg.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "item_id": "1aJc9fhnfII#0",
@@ -885,7 +953,11 @@
   "mcq_answer": null,
   "local": "/gpfs/scrubbed/jxb1st/databench/interactionbench/videos_h264/1aJc9fhnfII.mp4",
   "group": "Commentate: live commentary when the scene calls for it",
-  "clip": "interactionbench/commentate-3.mp4",
-  "clip_offset": 0.0
+  "clip": "interactionbench/1aJc9fhnfII.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/1aJc9fhnfII.mp4",
+   "label": "full video on the Hub"
+  }
  }
 ]

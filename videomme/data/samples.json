@@ -20,7 +20,11 @@
   "bytes": 2535837,
   "chunk": "06",
   "group": "Action Reasoning",
-  "clip": "videomme/093-1.mp4"
+  "clip": "videomme/093-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=drbi6HK1gSc",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "111",
@@ -43,7 +47,11 @@
   "bytes": 2555249,
   "chunk": "09",
   "group": "Action Reasoning",
-  "clip": "videomme/111-2.mp4"
+  "clip": "videomme/111-2.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=HmnKbBmYii8",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "179",
@@ -66,7 +74,11 @@
   "bytes": 2810650,
   "chunk": "07",
   "group": "Action Reasoning",
-  "clip": "videomme/179-2.mp4"
+  "clip": "videomme/179-2.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=fkJv7LRa6Pc",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "141",
@@ -89,7 +101,11 @@
   "bytes": 1146897,
   "chunk": "11",
   "group": "Action Recognition",
-  "clip": "videomme/141-2.mp4"
+  "clip": "videomme/141-2.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=lsfEHOtYGyk",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "094",
@@ -112,7 +128,11 @@
   "bytes": 2020252,
   "chunk": "11",
   "group": "Action Recognition",
-  "clip": "videomme/094-3.mp4"
+  "clip": "videomme/094-3.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=M69Sn3OERZo",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "092",
@@ -135,7 +155,11 @@
   "bytes": 2286494,
   "chunk": "02",
   "group": "Action Recognition",
-  "clip": "videomme/092-1.mp4"
+  "clip": "videomme/092-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=3rTsETO3s9U",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "094",
@@ -158,7 +182,11 @@
   "bytes": 2020252,
   "chunk": "11",
   "group": "Attribute Perception",
-  "clip": "videomme/094-1.mp4"
+  "clip": "videomme/094-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=M69Sn3OERZo",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "224",
@@ -181,7 +209,11 @@
   "bytes": 2076341,
   "chunk": "08",
   "group": "Attribute Perception",
-  "clip": "videomme/224-1.mp4"
+  "clip": "videomme/224-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=g1MCVp5xICM",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "038",
@@ -204,7 +236,11 @@
   "bytes": 2619844,
   "chunk": "08",
   "group": "Attribute Perception",
-  "clip": "videomme/038-1.mp4"
+  "clip": "videomme/038-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=GqeRnxSuLFI",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "070",
@@ -227,7 +263,11 @@
   "bytes": 2109631,
   "chunk": "05",
   "group": "Counting Problem",
-  "clip": "videomme/070-2.mp4"
+  "clip": "videomme/070-2.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=CezlmUwMXNo",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "084",
@@ -250,7 +290,11 @@
   "bytes": 2218700,
   "chunk": "04",
   "group": "Counting Problem",
-  "clip": "videomme/084-3.mp4"
+  "clip": "videomme/084-3.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=aqTIB_q40bo",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "065",
@@ -273,7 +317,11 @@
   "bytes": 2307888,
   "chunk": "07",
   "group": "Counting Problem",
-  "clip": "videomme/065-3.mp4"
+  "clip": "videomme/065-3.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=fo-mVfOsC-E",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "070",
@@ -296,7 +344,11 @@
   "bytes": 2109631,
   "chunk": "05",
   "group": "Information Synopsis",
-  "clip": "videomme/070-1.mp4"
+  "clip": "videomme/070-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=CezlmUwMXNo",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "084",
@@ -319,7 +371,11 @@
   "bytes": 2218700,
   "chunk": "04",
   "group": "Information Synopsis",
-  "clip": "videomme/084-2.mp4"
+  "clip": "videomme/084-2.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=aqTIB_q40bo",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "065",
@@ -342,7 +398,11 @@
   "bytes": 2307888,
   "chunk": "07",
   "group": "Information Synopsis",
-  "clip": "videomme/065-1.mp4"
+  "clip": "videomme/065-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=fo-mVfOsC-E",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "179",
@@ -365,7 +425,11 @@
   "bytes": 2810650,
   "chunk": "07",
   "group": "OCR Problems",
-  "clip": "videomme/179-3.mp4"
+  "clip": "videomme/179-3.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=fkJv7LRa6Pc",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "163",
@@ -388,7 +452,11 @@
   "bytes": 2878310,
   "chunk": "20",
   "group": "OCR Problems",
-  "clip": "videomme/163-3.mp4"
+  "clip": "videomme/163-3.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=zNxi2s36tS0",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "126",
@@ -411,7 +479,11 @@
   "bytes": 2908691,
   "chunk": "18",
   "group": "OCR Problems",
-  "clip": "videomme/126-3.mp4"
+  "clip": "videomme/126-3.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=y6ReUXtm_VE",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "084",
@@ -434,7 +506,11 @@
   "bytes": 2218700,
   "chunk": "04",
   "group": "Object Reasoning",
-  "clip": "videomme/084-1.mp4"
+  "clip": "videomme/084-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=aqTIB_q40bo",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "065",
@@ -457,7 +533,11 @@
   "bytes": 2307888,
   "chunk": "07",
   "group": "Object Reasoning",
-  "clip": "videomme/065-2.mp4"
+  "clip": "videomme/065-2.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=fo-mVfOsC-E",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "233",
@@ -480,7 +560,11 @@
   "bytes": 2664486,
   "chunk": "10",
   "group": "Object Reasoning",
-  "clip": "videomme/233-3.mp4"
+  "clip": "videomme/233-3.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=J2rlJV7zKZw",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "028",
@@ -503,7 +587,11 @@
   "bytes": 1288786,
   "chunk": "16",
   "group": "Object Recognition",
-  "clip": "videomme/028-1.mp4"
+  "clip": "videomme/028-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=TVkck1ACKDQ",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "096",
@@ -526,7 +614,11 @@
   "bytes": 1410186,
   "chunk": "13",
   "group": "Object Recognition",
-  "clip": "videomme/096-1.mp4"
+  "clip": "videomme/096-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=Q0B5dLHDQ2w",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "289",
@@ -549,7 +641,11 @@
   "bytes": 2010527,
   "chunk": "15",
   "group": "Object Recognition",
-  "clip": "videomme/289-2.mp4"
+  "clip": "videomme/289-2.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=SFmocFLXg0Y",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "138",
@@ -572,7 +668,11 @@
   "bytes": 2495366,
   "chunk": "12",
   "group": "Spatial Perception",
-  "clip": "videomme/138-1.mp4"
+  "clip": "videomme/138-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=of62s85uMMs",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "035",
@@ -595,7 +695,11 @@
   "bytes": 2763622,
   "chunk": "08",
   "group": "Spatial Perception",
-  "clip": "videomme/035-2.mp4"
+  "clip": "videomme/035-2.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=Gh_GtYtQoVI",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "095",
@@ -618,7 +722,11 @@
   "bytes": 3124674,
   "chunk": "06",
   "group": "Spatial Perception",
-  "clip": "videomme/095-3.mp4"
+  "clip": "videomme/095-3.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=djr6T2C8Gfs",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "201",
@@ -641,7 +749,11 @@
   "bytes": 3574650,
   "chunk": "10",
   "group": "Spatial Reasoning",
-  "clip": "videomme/201-1.mp4"
+  "clip": "videomme/201-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=k74LDvXSnHM",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "052",
@@ -664,7 +776,11 @@
   "bytes": 3623529,
   "chunk": "12",
   "group": "Spatial Reasoning",
-  "clip": "videomme/052-1.mp4"
+  "clip": "videomme/052-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=nYLMNQ77FjM",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "049",
@@ -687,7 +803,11 @@
   "bytes": 3787664,
   "chunk": "14",
   "group": "Spatial Reasoning",
-  "clip": "videomme/049-2.mp4"
+  "clip": "videomme/049-2.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=RvnC--JjDBw",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "032",
@@ -710,7 +830,11 @@
   "bytes": 5159960,
   "chunk": "18",
   "group": "Temporal Perception",
-  "clip": "videomme/032-1.mp4"
+  "clip": "videomme/032-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=X30VlGh3HwQ",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "080",
@@ -733,7 +857,11 @@
   "bytes": 6380534,
   "chunk": "02",
   "group": "Temporal Perception",
-  "clip": "videomme/080-1.mp4"
+  "clip": "videomme/080-1.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=21q-lDikdBg",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "235",
@@ -756,7 +884,11 @@
   "bytes": 7030180,
   "chunk": "11",
   "group": "Temporal Perception",
-  "clip": "videomme/235-3.mp4"
+  "clip": "videomme/235-3.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=kij9GXWdmik",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "072",
@@ -779,7 +911,11 @@
   "bytes": 4721452,
   "chunk": "17",
   "group": "Temporal Reasoning",
-  "clip": "videomme/072-3.mp4"
+  "clip": "videomme/072-3.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=VsuShNWghXk",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "229",
@@ -802,7 +938,11 @@
   "bytes": 5145472,
   "chunk": "09",
   "group": "Temporal Reasoning",
-  "clip": "videomme/229-3.mp4"
+  "clip": "videomme/229-3.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=IKtnfFHjERg",
+   "label": "full video on YouTube"
+  }
  },
  {
   "video_id": "037",
@@ -825,6 +965,10 @@
   "bytes": 5505092,
   "chunk": "07",
   "group": "Temporal Reasoning",
-  "clip": "videomme/037-3.mp4"
+  "clip": "videomme/037-3.mp4",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=EQ-67udZEeg",
+   "label": "full video on YouTube"
+  }
  }
 ]

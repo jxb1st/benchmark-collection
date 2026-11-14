@@ -23,7 +23,11 @@
   "sub_category": "2D Spatial Perception",
   "duration": 1114,
   "group": "2D Spatial Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=6ssBq4GM_h0",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 3742,
@@ -49,7 +53,11 @@
   "sub_category": "2D Spatial Perception",
   "duration": 3996,
   "group": "2D Spatial Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=2lsF28EOrrg",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 1314,
@@ -76,7 +84,11 @@
   "sub_category": "2D Spatial Perception",
   "duration": 1398,
   "group": "2D Spatial Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=o96-JRw_CfA",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 8568,
@@ -103,7 +115,11 @@
   "sub_category": "Entity Cognition",
   "duration": 1100,
   "group": "Entity Cognition",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV1JG4119775",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 4045,
@@ -130,7 +146,11 @@
   "sub_category": "Entity Cognition",
   "duration": 2431,
   "group": "Entity Cognition",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=qMP1HV9tGJU",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 8470,
@@ -158,7 +178,11 @@
   "sub_category": "Entity Cognition",
   "duration": 2324,
   "group": "Entity Cognition",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV1mo4y1W7z4",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 27,
@@ -186,7 +210,11 @@
   "sub_category": "Entity Perception",
   "duration": 3240,
   "group": "Entity Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=F4Z0xCyfKSI",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 957,
@@ -213,7 +241,11 @@
   "sub_category": "Entity Perception",
   "duration": 1521,
   "group": "Entity Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=5MhRZp2uunc",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 7654,
@@ -240,7 +272,11 @@
   "sub_category": "Entity Perception",
   "duration": 2828,
   "group": "Entity Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=py0Jt1zUXcU",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 8529,
@@ -267,7 +303,11 @@
   "sub_category": "Event Cognition",
   "duration": 1488,
   "group": "Event Cognition",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=bFHGoNdOBy8",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 1363,
@@ -294,7 +334,11 @@
   "sub_category": "Event Cognition",
   "duration": 3536,
   "group": "Event Cognition",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV16P411g76p",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 9977,
@@ -320,7 +364,11 @@
   "sub_category": "Event Cognition",
   "duration": 3313,
   "group": "Event Cognition",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=GopkOAIVY84",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 9246,
@@ -348,7 +396,11 @@
   "sub_category": "Event Perception",
   "duration": 825,
   "group": "Event Perception",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV1Kk4y1r7rv",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 10839,
@@ -376,7 +428,11 @@
   "sub_category": "Event Perception",
   "duration": 896,
   "group": "Event Perception",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV1Bt421V78h",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 5033,
@@ -403,7 +459,11 @@
   "sub_category": "Event Perception",
   "duration": 900,
   "group": "Event Perception",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV1NX4y147pM",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 3868,
@@ -429,7 +489,11 @@
   "sub_category": "Hallucination",
   "duration": 1669,
   "group": "Hallucination",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV1Ws4y177So",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 9858,
@@ -455,7 +519,11 @@
   "sub_category": "Hallucination",
   "duration": 1121,
   "group": "Hallucination",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=qNU5q5a97v8",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 7909,
@@ -481,7 +549,11 @@
   "sub_category": "Hallucination",
   "duration": 768,
   "group": "Hallucination",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV1yj421S7NZ",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 8367,
@@ -507,7 +579,11 @@
   "sub_category": "Scene Cognition",
   "duration": 745,
   "group": "Scene Cognition",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV1dW41187XP",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 6679,
@@ -533,7 +609,11 @@
   "sub_category": "Scene Cognition",
   "duration": 1530,
   "group": "Scene Cognition",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV1cE411a7m8",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 10719,
@@ -559,7 +639,11 @@
   "sub_category": "Scene Cognition",
   "duration": 1316,
   "group": "Scene Cognition",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=Us-XA2BRLgg",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 5597,
@@ -586,7 +670,11 @@
   "sub_category": "Scene Perception",
   "duration": 1252,
   "group": "Scene Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=j3Qx97oiTy8",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 10694,
@@ -612,7 +700,11 @@
   "sub_category": "Scene Perception",
   "duration": 1516,
   "group": "Scene Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=itLU01D3jJ4",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 9542,
@@ -639,7 +731,11 @@
   "sub_category": "Scene Perception",
   "duration": 1829,
   "group": "Scene Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=nF_9vOv_1dY",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 10435,
@@ -666,7 +762,11 @@
   "sub_category": "Text Cognition",
   "duration": 2003,
   "group": "Text Cognition",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=PlxWf493en4",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 2872,
@@ -693,7 +793,11 @@
   "sub_category": "Text Cognition",
   "duration": 655,
   "group": "Text Cognition",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV15G411e7eq",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 11904,
@@ -719,7 +823,11 @@
   "sub_category": "Text Cognition",
   "duration": 3000,
   "group": "Text Cognition",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV1VkpdewEBz",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 11551,
@@ -746,7 +854,11 @@
   "sub_category": "Text Perception",
   "duration": 2041,
   "group": "Text Perception",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV1Qc411L7v1",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 1687,
@@ -773,7 +885,11 @@
   "sub_category": "Text Perception",
   "duration": 1713,
   "group": "Text Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=KO4pyC5Usoc",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 7882,
@@ -801,7 +917,11 @@
   "sub_category": "Text Perception",
   "duration": 1197,
   "group": "Text Perception",
-  "source": "Bilibili"
+  "source": "Bilibili",
+  "full_video": {
+   "url": "https://www.bilibili.com/video/BV14z4y1u7CA",
+   "label": "full video on Bilibili"
+  }
  },
  {
   "qid": 8540,
@@ -828,7 +948,11 @@
   "sub_category": "Time Cognition",
   "duration": 1488,
   "group": "Time Cognition",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=bFHGoNdOBy8",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 6720,
@@ -856,7 +980,11 @@
   "sub_category": "Time Cognition",
   "duration": 2546,
   "group": "Time Cognition",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=q1adV0O7JmA",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 5188,
@@ -884,7 +1012,11 @@
   "sub_category": "Time Cognition",
   "duration": 987,
   "group": "Time Cognition",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=EbPCW49HK1c",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 6017,
@@ -912,7 +1044,11 @@
   "sub_category": "Time Perception",
   "duration": 1134,
   "group": "Time Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=NVH79ehGfY0",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 11090,
@@ -939,7 +1075,11 @@
   "sub_category": "Time Perception",
   "duration": 2296,
   "group": "Time Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=k_32gc72950",
+   "label": "full video on YouTube"
+  }
  },
  {
   "qid": 10582,
@@ -967,6 +1107,10 @@
   "sub_category": "Time Perception",
   "duration": 1358,
   "group": "Time Perception",
-  "source": "YouTube"
+  "source": "YouTube",
+  "full_video": {
+   "url": "https://www.youtube.com/watch?v=ypKuDJ-26LM",
+   "label": "full video on YouTube"
+  }
  }
 ]

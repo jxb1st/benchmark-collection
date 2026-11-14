@@ -16,7 +16,11 @@
   "task_name": "Plot QA",
   "json_file": "1_plotQA.json",
   "format": "multiple choice",
-  "clip": "mlvu/plotQA-1.mp4"
+  "clip": "mlvu/plotQA-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/plotQA/1.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "8.mp4",
@@ -35,7 +39,11 @@
   "task_name": "Plot QA",
   "json_file": "1_plotQA.json",
   "format": "multiple choice",
-  "clip": "mlvu/plotQA-2.mp4"
+  "clip": "mlvu/plotQA-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/plotQA/8.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "tomjerry_2.mp4",
@@ -54,7 +62,11 @@
   "task_name": "Plot QA",
   "json_file": "1_plotQA.json",
   "format": "multiple choice",
-  "clip": "mlvu/plotQA-3.mp4"
+  "clip": "mlvu/plotQA-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/plotQA/tomjerry_2.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "needle_139.mp4",
@@ -73,7 +85,11 @@
   "task_name": "Needle in a haystack QA",
   "json_file": "2_needle.json",
   "format": "multiple choice",
-  "clip": "mlvu/needle-1.mp4"
+  "clip": "mlvu/needle-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/needle/needle_139.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "needle_91.mp4",
@@ -92,7 +108,11 @@
   "task_name": "Needle in a haystack QA",
   "json_file": "2_needle.json",
   "format": "multiple choice",
-  "clip": "mlvu/needle-2.mp4"
+  "clip": "mlvu/needle-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/needle/needle_91.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "needle_120.mp4",
@@ -111,7 +131,11 @@
   "task_name": "Needle in a haystack QA",
   "json_file": "2_needle.json",
   "format": "multiple choice",
-  "clip": "mlvu/needle-3.mp4"
+  "clip": "mlvu/needle-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/needle/needle_120.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "ego_16.mp4",
@@ -130,7 +154,11 @@
   "task_name": "Egocentric reasoning",
   "json_file": "3_ego.json",
   "format": "multiple choice",
-  "clip": "mlvu/ego-1.mp4"
+  "clip": "mlvu/ego-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/ego/ego_16.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "ego_82.mp4",
@@ -149,7 +177,11 @@
   "task_name": "Egocentric reasoning",
   "json_file": "3_ego.json",
   "format": "multiple choice",
-  "clip": "mlvu/ego-2.mp4"
+  "clip": "mlvu/ego-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/ego/ego_82.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "ego_25.mp4",
@@ -168,7 +200,11 @@
   "task_name": "Egocentric reasoning",
   "json_file": "3_ego.json",
   "format": "multiple choice",
-  "clip": "mlvu/ego-3.mp4"
+  "clip": "mlvu/ego-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/ego/ego_25.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "count_239.mp4",
@@ -187,7 +223,11 @@
   "task_name": "Action count",
   "json_file": "4_count.json",
   "format": "multiple choice",
-  "clip": "mlvu/count-1.mp4"
+  "clip": "mlvu/count-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/count/count_239.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "count_208.mp4",
@@ -206,7 +246,11 @@
   "task_name": "Action count",
   "json_file": "4_count.json",
   "format": "multiple choice",
-  "clip": "mlvu/count-2.mp4"
+  "clip": "mlvu/count-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/count/count_208.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "count_231.mp4",
@@ -225,7 +269,11 @@
   "task_name": "Action count",
   "json_file": "4_count.json",
   "format": "multiple choice",
-  "clip": "mlvu/count-3.mp4"
+  "clip": "mlvu/count-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/count/count_231.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "order_321.mp4",
@@ -244,7 +292,11 @@
   "task_name": "Action order",
   "json_file": "5_order.json",
   "format": "multiple choice",
-  "clip": "mlvu/order-1.mp4"
+  "clip": "mlvu/order-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/order/order_321.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "order_215.mp4",
@@ -263,7 +315,11 @@
   "task_name": "Action order",
   "json_file": "5_order.json",
   "format": "multiple choice",
-  "clip": "mlvu/order-2.mp4"
+  "clip": "mlvu/order-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/order/order_215.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "order_218.mp4",
@@ -282,7 +338,11 @@
   "task_name": "Action order",
   "json_file": "5_order.json",
   "format": "multiple choice",
-  "clip": "mlvu/order-3.mp4"
+  "clip": "mlvu/order-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/order/order_218.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "surveil_89.mp4",
@@ -301,7 +361,11 @@
   "task_name": "Anomaly recognition",
   "json_file": "6_anomaly_reco.json",
   "format": "multiple choice",
-  "clip": "mlvu/anomaly_reco-1.mp4"
+  "clip": "mlvu/anomaly_reco-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/anomaly_reco/surveil_89.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "surveil_72.mp4",
@@ -320,7 +384,11 @@
   "task_name": "Anomaly recognition",
   "json_file": "6_anomaly_reco.json",
   "format": "multiple choice",
-  "clip": "mlvu/anomaly_reco-2.mp4"
+  "clip": "mlvu/anomaly_reco-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/anomaly_reco/surveil_72.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "surveil_166.mp4",
@@ -339,7 +407,11 @@
   "task_name": "Anomaly recognition",
   "json_file": "6_anomaly_reco.json",
   "format": "multiple choice",
-  "clip": "mlvu/anomaly_reco-3.mp4"
+  "clip": "mlvu/anomaly_reco-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/anomaly_reco/surveil_166.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "game_28.mp4",
@@ -358,7 +430,11 @@
   "task_name": "Topic reasoning",
   "json_file": "7_topic_reasoning.json",
   "format": "multiple choice",
-  "clip": "mlvu/topic_reasoning-1.mp4"
+  "clip": "mlvu/topic_reasoning-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/topic_reasoning/game_28.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "game_25.mp4",
@@ -377,7 +453,11 @@
   "task_name": "Topic reasoning",
   "json_file": "7_topic_reasoning.json",
   "format": "multiple choice",
-  "clip": "mlvu/topic_reasoning-2.mp4"
+  "clip": "mlvu/topic_reasoning-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/topic_reasoning/game_25.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "1.mp4",
@@ -396,7 +476,11 @@
   "task_name": "Topic reasoning",
   "json_file": "7_topic_reasoning.json",
   "format": "multiple choice",
-  "clip": "mlvu/topic_reasoning-3.mp4"
+  "clip": "mlvu/topic_reasoning-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/topic_reasoning/1.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "subPlot_new_all_195.mp4",
@@ -413,7 +497,11 @@
   "task_name": "Sub-scene captioning",
   "json_file": "8_sub_scene.json",
   "format": "generation",
-  "clip": "mlvu/sub_scene-1.mp4"
+  "clip": "mlvu/sub_scene-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/sub_scene/subPlot_new_all_195.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "subPlot_new_all_196.mp4",
@@ -430,7 +518,11 @@
   "task_name": "Sub-scene captioning",
   "json_file": "8_sub_scene.json",
   "format": "generation",
-  "clip": "mlvu/sub_scene-2.mp4"
+  "clip": "mlvu/sub_scene-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/sub_scene/subPlot_new_all_196.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "subPlot_new_all_103.mp4",
@@ -448,7 +540,11 @@
   "task_name": "Sub-scene captioning",
   "json_file": "8_sub_scene.json",
   "format": "generation",
-  "clip": "mlvu/sub_scene-3.mp4"
+  "clip": "mlvu/sub_scene-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/sub_scene/subPlot_new_all_103.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "1.mp4",
@@ -461,7 +557,11 @@
   "task_name": "Video summarization",
   "json_file": "9_summary.json",
   "format": "generation",
-  "clip": "mlvu/summary-1.mp4"
+  "clip": "mlvu/summary-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/summary/1.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "8.mp4",
@@ -474,7 +574,11 @@
   "task_name": "Video summarization",
   "json_file": "9_summary.json",
   "format": "generation",
-  "clip": "mlvu/summary-2.mp4"
+  "clip": "mlvu/summary-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/summary/8.mp4",
+   "label": "full video on the Hub"
+  }
  },
  {
   "video": "tomjerry_2.mp4",
@@ -487,6 +591,10 @@
   "task_name": "Video summarization",
   "json_file": "9_summary.json",
   "format": "generation",
-  "clip": "mlvu/summary-3.mp4"
+  "clip": "mlvu/summary-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/sy1998/MLVU/resolve/main/MLVU/video/summary/tomjerry_2.mp4",
+   "label": "full video on the Hub"
+  }
  }
 ]

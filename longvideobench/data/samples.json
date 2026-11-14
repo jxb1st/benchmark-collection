@@ -21,6 +21,10 @@
    44
   ],
   "group": "Scene-referred Event (S2E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/s2e-1.mp4"
  },
  {
@@ -46,6 +50,10 @@
    178
   ],
   "group": "Scene-referred Event (S2E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/s2e-2.mp4"
  },
  {
@@ -71,6 +79,10 @@
    123
   ],
   "group": "Scene-referred Event (S2E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/s2e-3.mp4"
  },
  {
@@ -96,6 +108,10 @@
    94
   ],
   "group": "Scene-referred Object Existence (S2O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/s2o-1.mp4"
  },
  {
@@ -121,6 +137,10 @@
    74
   ],
   "group": "Scene-referred Object Existence (S2O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/s2o-2.mp4"
  },
  {
@@ -146,6 +166,10 @@
    72
   ],
   "group": "Scene-referred Object Existence (S2O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/s2o-3.mp4"
  },
  {
@@ -171,6 +195,10 @@
    141
   ],
   "group": "Scene-referred Object Attribute (S2A)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/s2a-1.mp4"
  },
  {
@@ -195,6 +223,10 @@
    40
   ],
   "group": "Scene-referred Object Attribute (S2A)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/s2a-2.mp4"
  },
  {
@@ -219,6 +251,10 @@
    24
   ],
   "group": "Scene-referred Object Attribute (S2A)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/s2a-3.mp4"
  },
  {
@@ -243,6 +279,10 @@
    102
   ],
   "group": "Event-referred Object (E2O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/e2o-1.mp4"
  },
  {
@@ -267,6 +307,10 @@
    180
   ],
   "group": "Event-referred Object (E2O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/e2o-2.mp4"
  },
  {
@@ -292,6 +336,10 @@
    63
   ],
   "group": "Event-referred Object (E2O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/e2o-3.mp4"
  },
  {
@@ -317,6 +365,10 @@
    27
   ],
   "group": "Object-referred Event (O2E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/o2e-1.mp4"
  },
  {
@@ -342,6 +394,10 @@
    1
   ],
   "group": "Object-referred Event (O2E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/o2e-2.mp4"
  },
  {
@@ -367,6 +423,10 @@
    17
   ],
   "group": "Object-referred Event (O2E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/o2e-3.mp4"
  },
  {
@@ -391,6 +451,10 @@
    16
   ],
   "group": "Text-referred Event (T2E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t2e-1.mp4"
  },
  {
@@ -415,6 +479,10 @@
    57
   ],
   "group": "Text-referred Event (T2E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t2e-2.mp4"
  },
  {
@@ -439,6 +507,10 @@
    20
   ],
   "group": "Text-referred Event (T2E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t2e-3.mp4"
  },
  {
@@ -463,6 +535,10 @@
    131
   ],
   "group": "Text-referred Object Existence (T2O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t2o-1.mp4"
  },
  {
@@ -487,6 +563,10 @@
    112
   ],
   "group": "Text-referred Object Existence (T2O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t2o-2.mp4"
  },
  {
@@ -511,6 +591,10 @@
    203
   ],
   "group": "Text-referred Object Existence (T2O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t2o-3.mp4"
  },
  {
@@ -535,6 +619,10 @@
    78
   ],
   "group": "Text-referred Object Attribute (T2A)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t2a-1.mp4"
  },
  {
@@ -559,6 +647,10 @@
    78
   ],
   "group": "Text-referred Object Attribute (T2A)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t2a-2.mp4"
  },
  {
@@ -583,6 +675,10 @@
    102
   ],
   "group": "Text-referred Object Attribute (T2A)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t2a-3.mp4"
  },
  {
@@ -608,6 +704,10 @@
    90
   ],
   "group": "Event before/after Event (E3E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/e3e-1.mp4"
  },
  {
@@ -634,6 +734,10 @@
    80
   ],
   "group": "Event before/after Event (E3E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/e3e-2.mp4"
  },
  {
@@ -660,6 +764,10 @@
    201
   ],
   "group": "Event before/after Event (E3E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/e3e-3.mp4"
  },
  {
@@ -685,6 +793,10 @@
    88
   ],
   "group": "Object before/after Object (O3O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/o3o-1.mp4"
  },
  {
@@ -712,6 +824,10 @@
    90
   ],
   "group": "Object before/after Object (O3O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/o3o-2.mp4"
  },
  {
@@ -737,6 +853,10 @@
    145
   ],
   "group": "Object before/after Object (O3O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/o3o-3.mp4"
  },
  {
@@ -764,6 +884,10 @@
    152
   ],
   "group": "Sequence of Scenes (SSS)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/sss-1.mp4"
  },
  {
@@ -791,6 +915,10 @@
    106
   ],
   "group": "Sequence of Scenes (SSS)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/sss-2.mp4"
  },
  {
@@ -818,6 +946,10 @@
    162
   ],
   "group": "Sequence of Scenes (SSS)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/sss-3.mp4"
  },
  {
@@ -843,6 +975,10 @@
    96
   ],
   "group": "Scene-referred Object Tracking (SOS)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/sos-1.mp4"
  },
  {
@@ -869,6 +1005,10 @@
    192
   ],
   "group": "Scene-referred Object Tracking (SOS)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/sos-2.mp4"
  },
  {
@@ -895,6 +1035,10 @@
    174
   ],
   "group": "Scene-referred Object Tracking (SOS)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/sos-3.mp4"
  },
  {
@@ -920,6 +1064,10 @@
    149
   ],
   "group": "Scene-referred Object Attribute Change (SAA)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/saa-1.mp4"
  },
  {
@@ -945,6 +1093,10 @@
    109
   ],
   "group": "Scene-referred Object Attribute Change (SAA)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/saa-2.mp4"
  },
  {
@@ -971,6 +1123,10 @@
    206
   ],
   "group": "Scene-referred Object Attribute Change (SAA)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/saa-3.mp4"
  },
  {
@@ -997,6 +1153,10 @@
    58
   ],
   "group": "Event before/after Text (T3E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t3e-1.mp4"
  },
  {
@@ -1023,6 +1183,10 @@
    141
   ],
   "group": "Event before/after Text (T3E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t3e-2.mp4"
  },
  {
@@ -1049,6 +1213,10 @@
    130
   ],
   "group": "Event before/after Text (T3E)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t3e-3.mp4"
  },
  {
@@ -1074,6 +1242,10 @@
    57
   ],
   "group": "Object before/after Text (T3O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t3o-1.mp4"
  },
  {
@@ -1100,6 +1272,10 @@
    47
   ],
   "group": "Object before/after Text (T3O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t3o-2.mp4"
  },
  {
@@ -1126,6 +1302,10 @@
    180
   ],
   "group": "Object before/after Text (T3O)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/t3o-3.mp4"
  },
  {
@@ -1151,6 +1331,10 @@
    181
   ],
   "group": "Text-referred Object Tracking (TOS)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/tos-1.mp4"
  },
  {
@@ -1178,6 +1362,10 @@
    141
   ],
   "group": "Text-referred Object Tracking (TOS)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/tos-2.mp4"
  },
  {
@@ -1204,6 +1392,10 @@
    95
   ],
   "group": "Text-referred Object Tracking (TOS)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/tos-3.mp4"
  },
  {
@@ -1229,6 +1421,10 @@
    86
   ],
   "group": "Text-referred Object Attribute Change (TAA)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/taa-1.mp4"
  },
  {
@@ -1255,6 +1451,10 @@
    196
   ],
   "group": "Text-referred Object Attribute Change (TAA)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/taa-2.mp4"
  },
  {
@@ -1280,6 +1480,10 @@
    110
   ],
   "group": "Text-referred Object Attribute Change (TAA)",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/longvideobench/LongVideoBench",
+   "label": "full video in the gated release on the Hub"
+  },
   "clip": "longvideobench/taa-3.mp4"
  }
 ]
