@@ -9,6 +9,51 @@
   "Time": 126,
   "Commentate": 107
  },
+ "formats": {
+  "keyed": 688,
+  "count": 157,
+  "commentary": 107,
+  "silence": 69,
+  "free text": 39
+ },
+ "formats_per_task": {
+  "Look": {
+   "keyed": 147,
+   "free text": 12
+  },
+  "Recall": {
+   "keyed": 154,
+   "free text": 9
+  },
+  "Time": {
+   "keyed": 114,
+   "free text": 12
+  },
+  "Alert": {
+   "keyed": 272,
+   "silence": 39,
+   "free text": 2
+  },
+  "Track": {
+   "count": 157,
+   "silence": 30,
+   "free text": 4,
+   "keyed": 1
+  },
+  "Commentate": {
+   "commentary": 107
+  }
+ },
+ "mcq_option_counts": {
+  "6": 637,
+  "2": 48,
+  "4": 3
+ },
+ "commentary_kinds": {
+  "narration": 78,
+  "goal": 18,
+  "None": 11
+ },
  "capabilities_per_task": {
   "Look": {
    "IVQA": 159

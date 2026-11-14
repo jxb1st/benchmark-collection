@@ -32,8 +32,8 @@
  "videos_per_subset": {
   "Real_Time_Visual_Understanding": 500,
   "Omni_Source_Understanding": 50,
-  "Contextual_Understanding": 50,
   "Proactive_Output": 50,
+  "Contextual_Understanding": 50,
   "Sequential_Question_Answering": 50
  },
  "duration_s": {
