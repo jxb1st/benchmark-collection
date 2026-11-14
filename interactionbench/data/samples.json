@@ -708,6 +708,113 @@
   "mcq_options": null,
   "mcq_answer": null,
   "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/-9stb1JxVM8.mp4",
+  "suite": {
+   "positive_windows": [
+    {
+     "start": 13.68,
+     "end": 13.68,
+     "earliest_response": 13.68,
+     "evidence": "1"
+    },
+    {
+     "start": 29.67,
+     "end": 29.67,
+     "earliest_response": 29.67,
+     "evidence": "2"
+    },
+    {
+     "start": 32.68,
+     "end": 32.68,
+     "earliest_response": 32.68,
+     "evidence": "3"
+    },
+    {
+     "start": 36.24,
+     "end": 36.24,
+     "earliest_response": 36.24,
+     "evidence": "4"
+    },
+    {
+     "start": 44.89,
+     "end": 44.89,
+     "earliest_response": 44.89,
+     "evidence": "5"
+    },
+    {
+     "start": 57.71,
+     "end": 57.71,
+     "earliest_response": 57.71,
+     "evidence": "6"
+    },
+    {
+     "start": 65.78,
+     "end": 65.78,
+     "earliest_response": 65.78,
+     "evidence": "7"
+    },
+    {
+     "start": 71.44,
+     "end": 71.44,
+     "earliest_response": 71.44,
+     "evidence": "8"
+    },
+    {
+     "start": 76.73,
+     "end": 76.73,
+     "earliest_response": 76.73,
+     "evidence": "9"
+    },
+    {
+     "start": 85.58,
+     "end": 85.58,
+     "earliest_response": 85.58,
+     "evidence": "10"
+    },
+    {
+     "start": 96.53,
+     "end": 96.53,
+     "earliest_response": 96.53,
+     "evidence": "11"
+    },
+    {
+     "start": 115.75,
+     "end": 115.75,
+     "earliest_response": 115.75,
+     "evidence": "12"
+    },
+    {
+     "start": 137.66,
+     "end": 137.66,
+     "earliest_response": 137.66,
+     "evidence": "13"
+    },
+    {
+     "start": 163.09,
+     "end": 163.09,
+     "earliest_response": 163.09,
+     "evidence": "14"
+    },
+    {
+     "start": 176.42,
+     "end": 176.42,
+     "earliest_response": 176.42,
+     "evidence": "15"
+    },
+    {
+     "start": 185.55,
+     "end": 185.55,
+     "earliest_response": 185.55,
+     "evidence": "16"
+    }
+   ],
+   "near_miss": [
+    {
+     "t1": 20.0,
+     "description": "The camera cuts to a completely new perspective, changing the view.",
+     "why_not": "The new perspective is a third-person aerial drone shot showing both riders, rather than a switch to the other driver's first-person view."
+    }
+   ]
+  },
   "group": "Track: update a count or state",
   "clip": "interactionbench/-9stb1JxVM8.mp4",
   "clip_offset": 0.0,
@@ -957,6 +1064,299 @@
   "clip_offset": 0.0,
   "full_video": {
    "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/1aJc9fhnfII.mp4",
+   "label": "full video on the Hub"
+  }
+ },
+ {
+  "item_id": "8hgNWxPO1ys#0",
+  "video_id": "8hgNWxPO1ys",
+  "item_index": 0,
+  "domain": "author",
+  "video": "videos/author/8hgNWxPO1ys.mp4",
+  "duration_s": 30.06,
+  "task": "Track",
+  "capability": "CST",
+  "time_type": "C",
+  "interaction_type": "INS",
+  "range_length": "0-1min",
+  "sub_tag": "counting",
+  "is_negative": false,
+  "auto_number": true,
+  "question": "Count how many times the puppy went into the water.",
+  "question_time_s": 0,
+  "answers": [
+   {
+    "time_s": 8.71,
+    "content": "1",
+    "evidence_time_s": null
+   },
+   {
+    "time_s": 9.58,
+    "content": "2",
+    "evidence_time_s": null
+   },
+   {
+    "time_s": 10.52,
+    "content": "3",
+    "evidence_time_s": null
+   }
+  ],
+  "mcq_stem": null,
+  "mcq_options": null,
+  "mcq_answer": null,
+  "local": "/gpfs/scrubbed/jxb1st/databench/interactionbench/videos_h264/8hgNWxPO1ys.mp4",
+  "suite": {
+   "positive_windows": [
+    {
+     "start": 8.71,
+     "end": 8.71,
+     "earliest_response": 8.71,
+     "evidence": "1"
+    },
+    {
+     "start": 9.58,
+     "end": 9.58,
+     "earliest_response": 9.58,
+     "evidence": "2"
+    },
+    {
+     "start": 10.52,
+     "end": 10.52,
+     "earliest_response": 10.52,
+     "evidence": "3"
+    }
+   ],
+   "near_miss": [
+    {
+     "t1": 1.0,
+     "description": "The puppy is standing on a rocky beach with a large body of water directly behind it.",
+     "why_not": "The puppy's paws are on dry rocks and it has not entered the water."
+    },
+    {
+     "t1": 25.0,
+     "description": "The puppy is standing over a small puddle of water and melting snow on the ground.",
+     "why_not": "The puppy is standing on the dirt next to the puddle, rather than entering a body of water."
+    }
+   ]
+  },
+  "group_override": "Near-miss suite",
+  "group": "Near-miss suite",
+  "clip": "interactionbench/8hgNWxPO1ys.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/8hgNWxPO1ys.mp4",
+   "label": "full video on the Hub"
+  }
+ },
+ {
+  "item_id": "_RcABg3wUg8#0",
+  "video_id": "_RcABg3wUg8",
+  "item_index": 0,
+  "domain": "author",
+  "video": "videos/author/_RcABg3wUg8.mp4",
+  "duration_s": 31.97,
+  "task": "Track",
+  "capability": "CST",
+  "time_type": "C",
+  "interaction_type": "INS",
+  "range_length": "0-1min",
+  "sub_tag": "counting",
+  "is_negative": false,
+  "auto_number": true,
+  "question": "Count how many times it's folded in half in total.",
+  "question_time_s": 0,
+  "answers": [
+   {
+    "time_s": 4.25,
+    "content": "1",
+    "evidence_time_s": null
+   },
+   {
+    "time_s": 8.86,
+    "content": "2",
+    "evidence_time_s": null
+   }
+  ],
+  "mcq_stem": null,
+  "mcq_options": null,
+  "mcq_answer": null,
+  "local": "/gpfs/scrubbed/jxb1st/databench/interactionbench/videos_h264/_RcABg3wUg8.mp4",
+  "suite": {
+   "positive_windows": [
+    {
+     "start": 4.25,
+     "end": 4.25,
+     "earliest_response": 4.25,
+     "evidence": "1"
+    },
+    {
+     "start": 8.86,
+     "end": 8.86,
+     "earliest_response": 8.86,
+     "evidence": "2"
+    }
+   ],
+   "near_miss": [
+    {
+     "t1": 14.5,
+     "description": "Hands manipulating and pressing down on a folded yellow paper circle.",
+     "why_not": "The paper is already folded; the action is placing and attaching it to the body, not creating a new fold."
+    }
+   ]
+  },
+  "group_override": "Near-miss suite",
+  "group": "Near-miss suite",
+  "clip": "interactionbench/_RcABg3wUg8.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/_RcABg3wUg8.mp4",
+   "label": "full video on the Hub"
+  }
+ },
+ {
+  "item_id": "AtYhH0gRZ1E#0",
+  "video_id": "AtYhH0gRZ1E",
+  "item_index": 0,
+  "domain": "author",
+  "video": "videos/author/AtYhH0gRZ1E.mp4",
+  "duration_s": 58.75,
+  "task": "Track",
+  "capability": "CST",
+  "time_type": "C",
+  "interaction_type": "INS",
+  "range_length": "0-1min",
+  "sub_tag": "counting",
+  "is_negative": false,
+  "auto_number": true,
+  "question": "Count how many utility poles were passed.",
+  "question_time_s": 0,
+  "answers": [
+   {
+    "time_s": 3.67,
+    "content": "1",
+    "evidence_time_s": null
+   },
+   {
+    "time_s": 4.83,
+    "content": "2",
+    "evidence_time_s": null
+   },
+   {
+    "time_s": 5.99,
+    "content": "3",
+    "evidence_time_s": null
+   },
+   {
+    "time_s": 7,
+    "content": "4",
+    "evidence_time_s": null
+   },
+   {
+    "time_s": 8.04,
+    "content": "5",
+    "evidence_time_s": null
+   },
+   {
+    "time_s": 8.84,
+    "content": "6",
+    "evidence_time_s": null
+   },
+   {
+    "time_s": 9.65,
+    "content": "7",
+    "evidence_time_s": null
+   },
+   {
+    "time_s": 56.89,
+    "content": "8",
+    "evidence_time_s": null
+   },
+   {
+    "time_s": 57.37,
+    "content": "9",
+    "evidence_time_s": null
+   }
+  ],
+  "mcq_stem": null,
+  "mcq_options": null,
+  "mcq_answer": null,
+  "local": "/gpfs/scrubbed/jxb1st/benchmarks/interactionbench/videos/author/AtYhH0gRZ1E.mp4",
+  "suite": {
+   "positive_windows": [
+    {
+     "start": 3.67,
+     "end": 3.67,
+     "earliest_response": 3.67,
+     "evidence": "1"
+    },
+    {
+     "start": 4.83,
+     "end": 4.83,
+     "earliest_response": 4.83,
+     "evidence": "2"
+    },
+    {
+     "start": 5.99,
+     "end": 5.99,
+     "earliest_response": 5.99,
+     "evidence": "3"
+    },
+    {
+     "start": 7,
+     "end": 7,
+     "earliest_response": 7,
+     "evidence": "4"
+    },
+    {
+     "start": 8.04,
+     "end": 8.04,
+     "earliest_response": 8.04,
+     "evidence": "5"
+    },
+    {
+     "start": 8.84,
+     "end": 8.84,
+     "earliest_response": 8.84,
+     "evidence": "6"
+    },
+    {
+     "start": 9.65,
+     "end": 9.65,
+     "earliest_response": 9.65,
+     "evidence": "7"
+    },
+    {
+     "start": 56.89,
+     "end": 56.89,
+     "earliest_response": 56.89,
+     "evidence": "8"
+    },
+    {
+     "start": 57.37,
+     "end": 57.37,
+     "earliest_response": 57.37,
+     "evidence": "9"
+    }
+   ],
+   "near_miss": [
+    {
+     "t1": 13.0,
+     "description": "Tall, vertical concrete pillars are passed on the left side of the car.",
+     "why_not": "The structures are bridge supports, not utility poles."
+    },
+    {
+     "t1": 53.0,
+     "description": "Tall, vertical concrete pillars are passed on the left side of the car.",
+     "why_not": "The structures are bridge supports, not utility poles."
+    }
+   ]
+  },
+  "group_override": "Near-miss suite",
+  "group": "Near-miss suite",
+  "clip": "interactionbench/AtYhH0gRZ1E.mp4",
+  "clip_offset": 0.0,
+  "full_video": {
+   "url": "https://huggingface.co/datasets/InteractionBench/InteractionBench/resolve/main/videos/author/AtYhH0gRZ1E.mp4",
    "label": "full video on the Hub"
   }
  }
