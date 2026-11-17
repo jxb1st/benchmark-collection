@@ -1,0 +1,201 @@
+{
+ "simulators": [
+  [
+   "CookSim",
+   50,
+   150,
+   "5 recipes in 2 kitchen layouts with 5 event schedules each; top-down and first-person 3D views"
+  ],
+  [
+   "VH-Home",
+   25,
+   75,
+   "12 of 17 household tasks in VirtualHome apartments; first-person views (VHSim in the paper)"
+  ],
+  [
+   "ScreenSim",
+   30,
+   90,
+   "11 phone-settings tasks, up to 3 designed episodes each; screenshots of an iPhone-style Settings app"
+  ]
+ ],
+ "cases": 105,
+ "episodes": 315,
+ "events": {
+  "Execution errors": [
+   140,
+   51,
+   60
+  ],
+  "Questions": 88,
+  "Proactive requests": 29,
+  "Plan changes": 3
+ },
+ "events_total": 371,
+ "events_per_case_cook": {
+  "2": 1,
+  "3": 11,
+  "4": 1,
+  "5": 11,
+  "6": 16,
+  "7": 10
+ },
+ "cook_errors": [
+  [
+   "Adds an item that is not in the recipe",
+   36
+  ],
+  [
+   "Skips a required step",
+   20
+  ],
+  [
+   "Forgets the next step",
+   19
+  ],
+  [
+   "Leaves food on the heat",
+   19
+  ],
+  [
+   "Repeats a finished step",
+   13
+  ],
+  [
+   "Prepares an ingredient wrongly",
+   13
+  ],
+  [
+   "Plates a raw ingredient",
+   10
+  ],
+  [
+   "Plates in the wrong order",
+   10
+  ]
+ ],
+ "vh_errors": [
+  [
+   "Stall",
+   13
+  ],
+  [
+   "Wrong placement",
+   10
+  ],
+  [
+   "Skipped step",
+   8
+  ],
+  [
+   "Missing step (one of two twins)",
+   6
+  ],
+  [
+   "Wrong object",
+   5
+  ],
+  [
+   "Navigation detour",
+   5
+  ],
+  [
+   "Repetition",
+   4
+  ]
+ ],
+ "ss_kinds": [
+  [
+   "Wrong page",
+   "opens the wrong page; nothing has changed yet"
+  ],
+  [
+   "Wrong target",
+   "hits the switch next to the right one"
+  ],
+  [
+   "Wrong value",
+   "the right control with the wrong option"
+  ],
+  [
+   "Extra write",
+   "changes a setting the task never mentioned"
+  ]
+ ],
+ "ss_tasks": 11,
+ "ss_mistakes": 60,
+ "questions_top": [
+  [
+   "What is my next step?",
+   19
+  ],
+  [
+   "Is anything on the heat already done and just sitting there?",
+   18
+  ],
+  [
+   "How many cutting boards are free right now?",
+   13
+  ],
+  [
+   "How many times have I walked over to a cutting board so far?",
+   8
+  ],
+  [
+   "Have I been over to the trash at any point so far?",
+   7
+  ],
+  [
+   "What did you tell me about the fryer earlier?",
+   7
+  ]
+ ],
+ "questions_distinct": 14,
+ "personas": {
+  "axes": [
+   [
+    "Skill",
+    "hidden",
+    "low, medium, high: how far the user plans ahead alone"
+   ],
+   [
+    "Trust in AI",
+    "hidden",
+    "low, medium, high: how much evidence it takes to accept advice"
+   ],
+   [
+    "Execution speed",
+    "stated",
+    "cautious, balanced, quick"
+   ],
+   [
+    "Interruption",
+    "stated",
+    "step by step, moderate, only when necessary"
+   ]
+  ],
+  "used": "baseline (medium skill, medium trust), classic_novice (low skill, high trust), classic_expert (high skill, low trust); nine profiles are registered"
+ },
+ "formats": [
+  [
+   "Text or silence",
+   1,
+   "every query: a spoken line the user hears, or nothing"
+  ],
+  [
+   "Error flag",
+   1,
+   "optional, with the text: names one mistake from the vocabulary; read by scoring only"
+  ],
+  [
+   "Answer to a question",
+   88,
+   "CookSim: graded against the world state at the moment of asking"
+  ],
+  [
+   "Readiness notice",
+   29,
+   "CookSim: inside the window derived from the state, no premature alert"
+  ]
+ ]
+}

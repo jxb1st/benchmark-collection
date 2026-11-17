@@ -1,0 +1,230 @@
+[
+ {
+  "group": "CookSim",
+  "case": "b3_easy_nops_medium_map_1",
+  "task_label": "Order",
+  "task": "Caprese: chopped tomato, cheese, plated in this order.",
+  "setting": "easy tier, kitchen with stations close together; 2 forced mistakes, 3 scheduled events",
+  "events": [
+   [
+    "Execution error",
+    "A raw tomato goes on the plate while no tomato is chopped yet (ruins the dish if nobody intervenes)"
+   ],
+   [
+    "Question",
+    "How many cutting boards are free right now?"
+   ],
+   [
+    "Execution error",
+    "An extra off-recipe item goes on the finished plate (ruins the dish if nobody intervenes)"
+   ]
+  ],
+  "note": "Episodes are played out in the simulator at run time; there is no fixed video.",
+  "full_video": {
+   "url": "https://interactive-visual-gym.salesforceairesearch.com/tasks/",
+   "label": "task showcase on the project page"
+  }
+ },
+ {
+  "group": "CookSim",
+  "case": "b3_hard_nops_hard_map_1",
+  "task_label": "Order",
+  "task": "Fish and chips: cooked fish, fried potato, fried potato, plated in this order.",
+  "setting": "hard tier, kitchen with stations spread out; 3 forced mistakes, 6 scheduled events",
+  "events": [
+   [
+    "Execution error",
+    "Preps the wrong thing for the potato"
+   ],
+   [
+    "Proactive request",
+    "Give me a shout the moment the potato I just put on the heat is done, would you?"
+   ],
+   [
+    "Question",
+    "What is my next step?"
+   ],
+   [
+    "Execution error",
+    "Walks away from the fish near done"
+   ],
+   [
+    "Execution error",
+    "An off-recipe item goes into the potato's slot (ruins the dish if nobody intervenes)"
+   ],
+   [
+    "Question",
+    "What did you tell me about the fryer earlier?"
+   ]
+  ],
+  "note": "Episodes are played out in the simulator at run time; there is no fixed video.",
+  "full_video": {
+   "url": "https://interactive-visual-gym.salesforceairesearch.com/tasks/",
+   "label": "task showcase on the project page"
+  }
+ },
+ {
+  "group": "CookSim",
+  "case": "b3_master_nops_medium_map_1",
+  "task_label": "Order",
+  "task": "Burrito: tortilla, rice, steak, chopped tomato, chopped lettuce, plated in this order.",
+  "setting": "master tier, kitchen with stations close together; 3 forced mistakes, 6 scheduled events",
+  "events": [
+   [
+    "Proactive request",
+    "Give me a shout the moment the rice is done, would you?"
+   ],
+   [
+    "Question",
+    "How many cutting boards are free right now?"
+   ],
+   [
+    "Execution error",
+    "Skips the tortilla and plates the rice instead (ruins the dish if nobody intervenes)"
+   ],
+   [
+    "Execution error",
+    "Plates the tomato before the steak (ruins the dish if nobody intervenes)"
+   ],
+   [
+    "Question",
+    "Did I put the rice on the heat before or after I chopped the steak?"
+   ],
+   [
+    "Execution error",
+    "An off-recipe item goes into the lettuce's slot once it is prepped (ruins the dish if nobody intervenes)"
+   ]
+  ],
+  "note": "Episodes are played out in the simulator at run time; there is no fixed video.",
+  "full_video": {
+   "url": "https://interactive-visual-gym.salesforceairesearch.com/tasks/",
+   "label": "task showcase on the project page"
+  }
+ },
+ {
+  "group": "VH-Home",
+  "case": "cx_routine_skip_obj",
+  "task_label": "Instruction",
+  "task": "Turn off the bedroom lamp that is on, put the book that is lying on the bed on the living-room coffee table, heat the milk from the fridge in the microwave, and bring one of the plates from the kitchen table over to the coffee table.",
+  "setting": "apartment 2, 19-step reference plan; 2 forced mistakes",
+  "story": "She leaves the bedroom lamp burning, does the book correctly, and then opens the fridge and takes the juice instead of the milk.",
+  "events": [
+   [
+    "Skipped step",
+    "anchored on the plan step switch_off(tablelamp)"
+   ],
+   [
+    "Wrong object",
+    "anchored on the plan step fetch(milk)"
+   ]
+  ],
+  "note": "Episodes are played out in the simulator at run time; there is no fixed video.",
+  "full_video": {
+   "url": "https://interactive-visual-gym.salesforceairesearch.com/tasks/",
+   "label": "task showcase on the project page"
+  }
+ },
+ {
+  "group": "VH-Home",
+  "case": "cx_tidy_missing_rep",
+  "task_label": "Instruction",
+  "task": "Tidy up the house — switch off the lights on both table lamps, switch off the TV, and close the fridge.",
+  "setting": "apartment 2, 8-step reference plan; 2 forced mistakes",
+  "story": "She switches off one bedroom lamp but forgets its twin in the other bedroom, and after the television she goes back to the fridge she already shut and opens it again.",
+  "events": [
+   [
+    "Missing step (one of two twins)",
+    "anchored on the plan step switch_off(tablelamp@3)"
+   ],
+   [
+    "Repetition",
+    "anchored on the plan step shut(fridge)"
+   ]
+  ],
+  "note": "Episodes are played out in the simulator at run time; there is no fixed video.",
+  "full_video": {
+   "url": "https://interactive-visual-gym.salesforceairesearch.com/tasks/",
+   "label": "task showcase on the project page"
+  }
+ },
+ {
+  "group": "VH-Home",
+  "case": "cx_guest_skip_stall",
+  "task_label": "Instruction",
+  "task": "A guest is coming and the living room was left as it was. Put the plate on the coffee table and the mug on the desk into the dishwasher, put the pillow from the sofa back on the bed, and switch the TV off.",
+  "setting": "apartment 1, 16-step reference plan; 2 forced mistakes",
+  "story": "She loads the plate but never fetches the mug from the desk, and later stands frozen with the pillow in her hands.",
+  "events": [
+   [
+    "Skipped step",
+    "anchored on the plan step fetch(mug)"
+   ],
+   [
+    "Stall",
+    "anchored on the plan step fetch(pillow)"
+   ]
+  ],
+  "note": "Episodes are played out in the simulator at run time; there is no fixed video.",
+  "full_video": {
+   "url": "https://interactive-visual-gym.salesforceairesearch.com/tasks/",
+   "label": "task showcase on the project page"
+  }
+ },
+ {
+  "group": "ScreenSim",
+  "case": "hearing_setup",
+  "task_label": "Goal, as the user is told it",
+  "task": "My grandmother is hard of hearing and only hears with one ear. Make the camera light blink when a call or message comes in (she never silences her phone), make everything she plays come through fully in one ear whether it's the speaker or any headphones, and show the words that are spoken, plus other sounds, as text on videos that include it. Don't turn on the feature that reads out everything on the screen as she touches it; that confuses her.",
+  "setting": "accessibility task, 10 taps in the reference route; 3 designed episodes with 2 forced wrong taps each",
+  "trap": "'Flash on Silent' sits under LED Flash and only flashes when muted; Audio Descriptions and Live Captions are not closed captions",
+  "events": [
+   [
+    "Forced wrong taps",
+    "Two per designed episode, chosen per page from: wrong page, wrong target, wrong value, extra write; the user's hands are held until the model names the mistake and the user accepts"
+   ]
+  ],
+  "note": "Episodes are played out in the simulator at run time; there is no fixed video.",
+  "full_video": {
+   "url": "https://interactive-visual-gym.salesforceairesearch.com/tasks/",
+   "label": "task showcase on the project page"
+  }
+ },
+ {
+  "group": "ScreenSim",
+  "case": "app_privacy_quarantine",
+  "task_label": "Goal, as the user is told it",
+  "task": "TripSnap is creeping me out. It must never be able to find out where I am, it must not follow what I do across other companies' apps and websites, and it must not keep loading new content in the background while I'm not using it. Only TripSnap: every other app should still be able to ask me whether it may follow me, use my location, and load content in the background exactly as it can now.",
+  "setting": "privacy task, 18 taps in the reference route; 3 designed episodes with 2 forced wrong taps each",
+  "trap": "'Ask Next Time Or When I Share' still shares location — only Never revokes it; Tracking has a global 'Allow Apps to Request to Track' switch you must not touch, only TripSnap's own row; and Background App Refresh has a global mode you must not touch, only TripSnap's own switch",
+  "events": [
+   [
+    "Forced wrong taps",
+    "Two per designed episode, chosen per page from: wrong page, wrong target, wrong value, extra write; the user's hands are held until the model names the mistake and the user accepts"
+   ]
+  ],
+  "note": "Episodes are played out in the simulator at run time; there is no fixed video.",
+  "full_video": {
+   "url": "https://interactive-visual-gym.salesforceairesearch.com/tasks/",
+   "label": "task showcase on the project page"
+  }
+ },
+ {
+  "group": "ScreenSim",
+  "case": "rent_share_standard",
+  "task_label": "Goal, as the user is told it",
+  "task": "Send Alex Chen, not Alex Kim, my $40 share of March rent on QuickPay. Use the money already in my QuickPay account rather than my card, and since it's not urgent, pick the option that costs nothing even if it takes a few days. Put 'March rent share' in the note.",
+  "setting": "transaction task, 15 taps in the reference route; 3 designed episodes with 2 forced wrong taps each",
+  "trap": "Instant is pre-selected and the card charges a 3% fee — both defaults are wrong for this request",
+  "events": [
+   [
+    "Forced wrong taps",
+    "Two per designed episode, chosen per page from: wrong page, wrong target, wrong value, extra write; the user's hands are held until the model names the mistake and the user accepts"
+   ]
+  ],
+  "note": "Episodes are played out in the simulator at run time; there is no fixed video.",
+  "full_video": {
+   "url": "https://interactive-visual-gym.salesforceairesearch.com/tasks/",
+   "label": "task showcase on the project page"
+  }
+ }
+]
