@@ -33,7 +33,6 @@
    "physicaleducation.mit.edu/register"
   ],
   "mcq_answer": "A",
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0XfTtIvuWUg.mp4",
   "group": "Look: answer about the current view",
   "clip": "interactionbench/0XfTtIvuWUg.mp4",
   "clip_offset": 0.0,
@@ -76,7 +75,6 @@
    "Hillrom"
   ],
   "mcq_answer": "C",
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/-mFFJwS3xqA.mp4",
   "group": "Look: answer about the current view",
   "clip": "interactionbench/-mFFJwS3xqA.mp4",
   "clip_offset": 0.0,
@@ -119,7 +117,6 @@
    "The printed graduation scale along the barrel."
   ],
   "mcq_answer": "D",
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/-mFFJwS3xqA.mp4",
   "group": "Look: answer about the current view",
   "clip": "interactionbench/-mFFJwS3xqA.mp4",
   "clip_offset": 0.0,
@@ -162,7 +159,6 @@
    "MANUAL INJECTION and AUTOMATED INJECTION"
   ],
   "mcq_answer": "D",
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/-mFFJwS3xqA.mp4",
   "group": "Recall: answer about earlier evidence",
   "clip": "interactionbench/-mFFJwS3xqA.mp4",
   "clip_offset": 0.0,
@@ -205,7 +201,6 @@
    "Ribbons"
   ],
   "mcq_answer": "A",
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0FVesQpoMPQ.mp4",
   "group": "Recall: answer about earlier evidence",
   "clip": "interactionbench/0FVesQpoMPQ.mp4",
   "clip_offset": 0.0,
@@ -248,7 +243,6 @@
    "KAYLA, AMARA, SIMONE, AND JOEL"
   ],
   "mcq_answer": "A",
-  "local": "/gpfs/scrubbed/jxb1st/databench/interactionbench/videos_h264/CBOr8KzjimM.mp4",
   "group": "Recall: answer about earlier evidence",
   "clip": "interactionbench/CBOr8KzjimM.mp4",
   "clip_offset": 0.0,
@@ -287,7 +281,6 @@
    "sink"
   ],
   "mcq_answer": "B",
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/03qNsrNlaS0.mp4",
   "group": "Time: speak when an order or temporal condition resolves",
   "clip": "interactionbench/03qNsrNlaS0.mp4",
   "clip_offset": 0.0,
@@ -330,7 +323,6 @@
    "fencing"
   ],
   "mcq_answer": "D",
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0XfTtIvuWUg.mp4",
   "group": "Time: speak when an order or temporal condition resolves",
   "clip": "interactionbench/0XfTtIvuWUg.mp4",
   "clip_offset": 0.0,
@@ -373,7 +365,6 @@
    "The hat is lifted off the head, the parrot boards it, then the hat is worn again"
   ],
   "mcq_answer": "D",
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0XfTtIvuWUg.mp4",
   "group": "Time: speak when an order or temporal condition resolves",
   "clip": "interactionbench/0XfTtIvuWUg.mp4",
   "clip_offset": 0.0,
@@ -416,7 +407,6 @@
    "He starts bracing and plumbing the standing walls"
   ],
   "mcq_answer": "C",
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/03qNsrNlaS0.mp4",
   "group": "Alert: speak when the requested event occurs",
   "clip": "interactionbench/03qNsrNlaS0.mp4",
   "clip_offset": 0.0,
@@ -459,7 +449,6 @@
    "a customer collects a cone at the booth counter."
   ],
   "mcq_answer": "E",
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0V4Kea2q-go.mp4",
   "group": "Alert: speak when the requested event occurs",
   "clip": "interactionbench/0V4Kea2q-go.mp4",
   "clip_offset": 0.0,
@@ -495,7 +484,6 @@
   "mcq_stem": null,
   "mcq_options": null,
   "mcq_answer": null,
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/NN7T3ZX6xpA.mp4",
   "group": "Alert: speak when the requested event occurs",
   "clip": "interactionbench/NN7T3ZX6xpA.mp4",
   "clip_offset": 0.0,
@@ -596,7 +584,6 @@
   "mcq_stem": null,
   "mcq_options": null,
   "mcq_answer": null,
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/--VCWegJ_oY.mp4",
   "group": "Track: update a count or state",
   "clip": "interactionbench/--VCWegJ_oY.mp4",
   "clip_offset": 0.0,
@@ -707,7 +694,6 @@
   "mcq_stem": null,
   "mcq_options": null,
   "mcq_answer": null,
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/-9stb1JxVM8.mp4",
   "suite": {
    "positive_windows": [
     {
@@ -850,7 +836,6 @@
   "mcq_stem": null,
   "mcq_options": null,
   "mcq_answer": null,
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/NN7T3ZX6xpA.mp4",
   "group": "Track: update a count or state",
   "clip": "interactionbench/NN7T3ZX6xpA.mp4",
   "clip_offset": 0.0,
@@ -936,7 +921,6 @@
   "mcq_stem": null,
   "mcq_options": null,
   "mcq_answer": null,
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0miUlpam8w0.mp4",
   "group": "Commentate: live commentary when the scene calls for it",
   "clip": "interactionbench/0miUlpam8w0.mp4",
   "clip_offset": 0.0,
@@ -997,7 +981,6 @@
   "mcq_stem": null,
   "mcq_options": null,
   "mcq_answer": null,
-  "local": "/gpfs/scrubbed/jxb1st/tmp/claude-1593642/-gpfs-projects-embodied3d-jianxu-streaming-ttt/9a00a357-74bd-45ef-a4fc-d88094630d69/scratchpad/reuse/interactionbench-viewer/videos/0XfTtIvuWUg.mp4",
   "group": "Commentate: live commentary when the scene calls for it",
   "clip": "interactionbench/0XfTtIvuWUg.mp4",
   "clip_offset": 0.0,
@@ -1058,7 +1041,6 @@
   "mcq_stem": null,
   "mcq_options": null,
   "mcq_answer": null,
-  "local": "/gpfs/scrubbed/jxb1st/databench/interactionbench/videos_h264/1aJc9fhnfII.mp4",
   "group": "Commentate: live commentary when the scene calls for it",
   "clip": "interactionbench/1aJc9fhnfII.mp4",
   "clip_offset": 0.0,
@@ -1104,7 +1086,6 @@
   "mcq_stem": null,
   "mcq_options": null,
   "mcq_answer": null,
-  "local": "/gpfs/scrubbed/jxb1st/databench/interactionbench/videos_h264/8hgNWxPO1ys.mp4",
   "suite": {
    "positive_windows": [
     {
@@ -1180,7 +1161,6 @@
   "mcq_stem": null,
   "mcq_options": null,
   "mcq_answer": null,
-  "local": "/gpfs/scrubbed/jxb1st/databench/interactionbench/videos_h264/_RcABg3wUg8.mp4",
   "suite": {
    "positive_windows": [
     {
@@ -1280,7 +1260,6 @@
   "mcq_stem": null,
   "mcq_options": null,
   "mcq_answer": null,
-  "local": "/gpfs/scrubbed/jxb1st/benchmarks/interactionbench/videos/author/AtYhH0gRZ1E.mp4",
   "suite": {
    "positive_windows": [
     {
